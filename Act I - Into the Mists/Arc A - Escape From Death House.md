@@ -68,6 +68,11 @@ The players should get moving on their own, but in case they don't, read the fol
 Once the players are on the move, they inevitable burst into a clearing where the mists part to reveal an old-fashioned mansion.
 
 This is **Death House.**
+
+> [!design]- **Alternative opening to "Barovian relics" or "Lost in the mists"**
+>  The idea of the players meeting around a campfire allows for more team bonding before going straight into the Death House as in "Lost in the mists". Removing most of the gear amps up the tension, but also just saves time in Session Zero (use the pretext of "you'll get to pick your equipment once you get to your destination and you know what the quest is").
+>  Being defenceless and lost in a creepy forest is a good way to set the stage and introduce the general theme. The players "organically" finding the Death House as a safe refuge plays better than forcing them to follow magical relics or being tasked to go there because it gives them more agency, and then the reveal that they're actually trapped (even though they had no choice) feels more meaningful.
+>  The fog thickening and the "werewolves" closing in as a means of nudging players into the house only works if they're unarmed and the chance of being able to barricade inside the house and maybe find weapons is a good driver. The need to find weapons and gear in the house is a strong motivator to explore thoroughly instead of rushing through, and gives a nice risk/reward calculation for how to spend time in the house.
 # A2. Death House
 ## A2a. The Arrival
 ### Entrance
@@ -121,14 +126,14 @@ The grandfather clock then strikes six o’clock.
 
 > [!info]+ **Time in Death House**
 >
-> When the clock strikes six, place three six-sided dice on the table in front of the players, with each side showing a six. Each pip on the dice represents twenty minutes until midnight.
+> When the clock strikes six, place six six-sided dice on the table in front of the players, with each side showing a six. Each pip on the dice represents ten minutes until midnight.
 >
 > As the players explore the house, tick this dice clock downward to indicate the passage of time, always starting with the die showing the lowest number. If the lowest die shows a one, you can tick it down to “zero” by removing it from the group instead.
 >
 > The dice clock counts down as follows to represent the total time the players have spent in the house:
 > - Each time the players enter a new floor of the house or dungeon, tick the dice clock down by one.
 > - Each time the players make a Perception or Investigation check to search an entire room, tick the dice clock down by one.
-> - Each time the players complete a short rest, tick the dice clock down by three.
+> - Each time the players complete a short rest, tick the dice clock down by six.
 >
 > A full hour passes each time a die decreases from 4 to 3, or each time a die decreases from 1 to 0. The grandfather clock in the **Main Hall** sounds on the hour, every hour, and can be heard throughout the house and dungeon.
 >
@@ -149,7 +154,7 @@ A player who opens any outside-facing door or curtain in Death House, or who exi
 ### Cloakroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
 
-A player who investigates the cloakroom adjoining the Main Hall can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
+If a player investigates the cloakroom adjoining the Main Hall, have them roll Perception. On 15+, they find 5 SP in a hidden coat pocket. Regardless of outcome, they can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
 
 <div class="description" style="text-align:center; padding: 15px;">
 You are cordially invited to join 
@@ -170,6 +175,7 @@ for a celebration of the one-year anniversary of the Durst Mill.
 ![[Durst Invitation.jpg]]
 <span class="credit">"Durst Invitation" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
+Any player investigating the cloakroom also finds a cane with the engraving "For the King!" on the handle. If they speak the words out loud, the cane transforms into a rapier (The cane is a Veteran's Cane, except it transforms into a rapier, not a longsword). The cane is Gustav's from his time as an officer in King Barov's army before he retired to start a family.
 ### Den of Wolves
 <span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
 
@@ -189,9 +195,11 @@ If the players proceed, read:
 
 The discarded toys are small, plush grey wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitchwork on their stomachs reads ROSE and THORN, respectively.
 
-In addition to its other contents, the east cabinet contains five silvered crossbow bolts mixed in with the other sixty bolts. Meanwhile, the north cabinet also contains a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
+In addition to its other contents (a hand crossbow, a light crossbow and a heavy crossbow), the east cabinet contains five silvered crossbow bolts mixed in with the other sixty bolts. The cabinet's lock can be picked with a DC 15 thieves' tools Dexterity check, or smashed with an AC 15 weapon attack. If it is smashed, a player who checks the wolves notices that their ears are flattened to their heads and one of them is snarling at the party.
 
-The first time that no players are looking at them, the three taxidermied wolves move. When the players next look at them, the large grey wolf is standing beside the smaller brown wolf, and the first grey wolf has turned its snarl toward the others.
+Meanwhile, the north cabinet contains a deck of playing cards and some fine wine glasses in a small box alongside a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
+
+The first time that no players are looking at them, the three taxidermized wolves move. When the players next look at them, the large grey wolf is standing beside the smaller brown wolf, and the first grey wolf has turned its snarl toward the others.
 
 A player that succeeds on a DC 12 Intelligence (Nature) check can identify the large grey wolf as male and the other two as female.
 ### Dining Room
@@ -232,6 +240,9 @@ A player who opens the pot finds it to contain a bottle of wine, a folded piece 
 * The parchment scroll reads: "For the light of my life. —G."
 
 If the players read the note, one of the knives in the kitchen flies off of its shelf and embeds itself in the opposite wall.
+
+If any player enters the pantry, one of the sacks of flour on the shelves tips over an spills cockroaches over any players in the room. On a DC 14 Nature check, a player may realise that the cockroaches move wrong (in unison, in repetitive motions). On a fail, roll a DC 15 Wisdom save or take 1d4 psychic damage as you're flailing to crush the roaches.
+Roll the same save again at the end of the round until you succeed, taking 1d4 damage every round, or until the player leaves the pantry, or another player snaps them out of it.
 ## A2c. The Second Floor
 ### Upper Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 6.</em></span>
@@ -242,7 +253,10 @@ This room is largely as described in <span class="citation">Upper Hall (p. 213)<
 <p>Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a longsword with a windmill cameo worked into the hilt.</p>
 <p>Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors between them are carved with images of dancing youths.</p>
 <p>The red marble staircase continues its upward spiral to a third floor, a cold draft whispering down from above.</p>
+<p>On the far end of the hall, a fireplace sheds dim light into the passage, catching a glint of steel where a longsword rests on leather fastenings above the hearth.
 </div>
+
+The longsword is a family heirloom. Its hilt is elegantly carved in the shape of a windmill, two blades forming the cross guard and the base of the windmill flattening out towards the pommel.
 
 ### Servants’ Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 7.</em></span>
@@ -255,6 +269,21 @@ This room is largely as described in <span class="citation">Servants’ Room (p.
 </div>
 
 The basket contains a man's laundry, including fine suits, tunics, neckties, pants, and stockings. However, a single, much-smaller woman's slip appears to have been mixed in with the rest.
+### Storage Room
+<span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
+
+This room is largely as described in <span class="citation">Storage Room (p. 215)</span>, except that it's on the second floor instead. When the players enter it, read:
+
+<div class="description">
+<p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered broom leans against the far wall.</p>
+</div>
+
+When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
+
+> [!design]- **Moving the storage room to the second floor**
+>  In its original location, players clear two floors of the house without any combat and then run into the animated armour and the broom of animated attack in two adjoining rooms. That's not ideal pacing.
+> If moved to the second floor instead, after the initial tension of being lost in the woods and then the ominous warning on the first floor, it's now been a while since anything actively dangerous happened, so players likely have relaxed a little. It's a good time to pick up the pace again with the first combat of the campaign but gives the players enough time to recover from combat before the animated armour on the next floor.
+
 ### Conservatory
 <span class="citation"><em>This scene takes place in Appendix B: Area 10.</em></span>
 
@@ -337,6 +366,8 @@ The chest no longer contains the deed to Old Bonegrinder. Additionally, change S
 
 The players do not recognize the name "Strahd von Zarovich."
 
+In addition to the letter, the players find three blank books with black leather covers, three spell scrolls (_bless_, _protection from poison_, and _spiritual weapon_). The chest still contains the deed to the house and a signed will which leaves the house and all other family property to Rose and Thorn.
+
 > [!design]- **Design Note: Removing the Deed**
 > Players who find the deed to Old Bonegrinder in the secret chest often come to the mistaken conclusion that looting the deed makes them the new owners of the mill. Such players are likely, as a result, to attempt to explore the windmill during [[Act I - Into the Mists/Arc C - Into the Valley]], triggering a conflict with the night hag coven and—through no fault of their own—a likely TPK. As such, the deed has been removed to help avoid this outcome.
 
@@ -351,8 +382,9 @@ This room is largely as described in <span class="citation">Balcony (p. 214)</sp
 <p>You climb the red marble staircase to its full height, arriving at a dusty balcony. The air here is dry and musty, but tinged with a strange, coppery scent. </p>
 <p>A suit of black plate armor stands against one wall, draped in cobwebs and marked by age. Oil lamps are mounted on the faded oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny beasts.</p>
 </div>
+A DC 15 Intelligence (Arcana) check or a DC 18 Perception (Wisdom) check reveals that this armour is magical or that its stance is more menacing and its joints look better kept than in the suits of armour below.
 
-When triggered, the **animated armor** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
+When triggered, the **animated armour** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
 
 If the armor is thrown down to the first floor and the players do not reveal their presence atop the balcony, it is unable to observe them with its sixty feet of blindsight, and is too stupid to think to climb back up. 
 
@@ -406,17 +438,12 @@ See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more informatio
 ### Bathroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
 
-This room is as described in <span class="citation">Bathroom (p. 215)</span>.
-### Storage Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
-
-This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter it, read:
-
+Replace the text in <span class="citation">Bathroom (p. 215)</span> with the below:
 <div class="description">
-<p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered broom leans against the far wall.</p>
+<p>This dark room contains a wooden tub with clawed feet and a stopped-up drain in the centre, a small iron stove with a kettle resting atop it, and a barrel under a spigot in the east wall.</p>
 </div>
 
-When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
+If a player approaches the tub, the kettle starts whistling and water starts bubbling up from the tub's drain, looking muddy at first but then taking on a reddish hue. As the bathtub fills with blood, the kettle reaches higher and higher pitches until it stops all of a sudden, and the tub is empty and dry.
 ### Nursemaid’s Suite
 <span class="citation"><em>This scene takes place in Appendix B: Area 15.</em></span>
 
