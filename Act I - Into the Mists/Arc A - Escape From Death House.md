@@ -20,74 +20,55 @@ If the players kill the monster, the house begins to collapse, forcing them to f
 
 > [!lore]+ **The History of Death House**
 > See [[History of Barovia#Strahd’s First Followers|Strahd's First Followers]] for a full retelling of the gruesome history of Death House.
-# A1. Daggerford
+# A1. The Road to Daggerford
 
 > [!warning]+ **Keep Your Workload Low**
 > *Curse of Strahd: Reloaded* has intentionally been written to minimize time spent away from the table, aiming to serve as a "zero-prep" campaign to the maximum extent possible. To make this possible, this guide has been designed to manipulate players into taking specific, curated paths through the adventure, even while providing intentional degrees of freedom that, while meaningful, will not substantially change the ultimate outcome of the campaign.
 > 
 > If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
-## A1a. The Nightmare’s Bridle
-If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Barovian Relics]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
+## A1a. At the campsite
 
 <div class="description">
-<p>It’s the evening before Highharvesttide, and a storm has descended over Daggerford, with dark clouds pouring cascades of rain down upon the town below. Despite the weather, however, the town buzzes with anticipation of the impending falltime festival, each home filled with warmth and joy. Bright, cheery candlelight twinkles from every window, and the sounds of song and dance echo throughout the wet and muddy streets.</p>
-<p>Amidst the merriment, however, you stand apart. Neither locals nor visitors, you’re vagabonds—travelers, ghosts passing through an unfamiliar town. As laughter rings out from inns and homes, you face a simpler, starker dilemma: the quest for shelter.</p>
-<p>Every room in this town is claimed, every hearth filled to bursting, leaving you in the grip of the bitter storm. Until, that is, the owner of the ramshackle Nightmare’s Bridle tavern offers you a grudging reprieve: the hayloft above their stable. It’s nothing to boast about, leaving the biting cold and the lingering scent of musty hay as your only companions. But it’s a roof over your heads nonetheless—a small mercy on a night such as this.</p>
-<p>One by one, you find a home amidst the muck and hay. Overhead, rain lashes the stable, thunder punctuating the rhythmic drumming on the roof. Flashes of lightning lance across the skies, casting the stable’s interior in stark lights and darks. Rainwater drips steadily down through a leak in the roof, snaking its way across the floor until it pools in the corner.</p>
-<p>Here, then, you find yourselves: huddled in the darkness amongst strangers, while joy and mirth dance just out of reach.</p>
+<p>It’s the evening before Highharvesttide, and all the world is coming to Daggerford to celebrate. This includes you, and the caravan of merchants you've been hired to guard. They're hoping to make some good money off the festival, and you're hoping to make good money off the merchants.</p>
+<p>You've been on the road for two days, having travelled from Waterdeep. You've been lucky with the weather, and even though it's autumn, there hasn't been much rain so far, so it's been easy going. Now, however, the mists have started creeping in, and it looks like you'll get a bit of rain tonight.</p>
+<p>The head of the guards has already stopped by to let you know that you're not on guard duty tonight since you've done the shift last night, so you must be exhausted. He mentioned that this part of the road is the rough bit: Locals have been complaining of cattle going missing, and there's talk of some travellers disappearing as well. Rumour is that werewolves are to blame, but surely not this close to civilisation?</p>
+<p>As you're preparing dinner, and as you huddle closer to the campfire for warmth, trying to keep the mists and damp out, bracing for the rain to come, you take a look around you at your fellow guards.</p>
 </div>
 
 Invite the players to describe each character's appearance and countenance, how they’ve positioned themselves, and how they’ve arranged their belongings.
 
-When the players have finished introducing themselves, read:
+When the players have finished introducing themselves and they've decided to rest, have them all roll a Constitution saving throw, and whoever rolls lowest is the first to wake up to go for a leak. 
 
 <div class="description">
-<p>A searing bolt of lightning rends the sky, illuminating the evening in a blinding flash of stark white. The booming thunder that follows is so loud it shakes the very ground beneath you, causing the timbers of the stable to creak and groan.</p>
-<p>The light of the strike lingers unnaturally, silhouetting small wisps of fog that twist through the air. A thick, ankle-deep mist gathers outside, shrouding the earth in a ghostly veil. Its tendrils curl invitingly, as though beckoning you to the darkness beyond.</p>
-<p>The rain continues to pelt the roof above, but the wind no longer howls, and the merry sounds of Daggerford’s festivities seem muted and distant. The horses in the stable beneath stir uneasily, their whinnies echoing loudly in the stillness. An uneasy feeling sweeps through the hayloft, a cold shiver that has nothing to do with the wind or rain.</p>
+<p>You wake up a couple of hours later, busting for a piss. The fog has really closed in now, it's thick in the air and the temperature has dropped. You make your way to the nearest bushes to relieve yourself.</p>
 </div>
 
-One by one, the players’ relics then react as follows, in the following order.
-
-* ***Stone Crest.*** The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.
-* ***Broken Blade.*** The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.
-* ***Dragon's Scale.*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.
-* ***Sunrise Medallion.*** The medallion shines with a warm, golden glow, emitting rays of bright light in the direction of Death House.
-* ***Amber Shard.*** The shard glows with amber light and tugs its cord in the direction of Death House.
-* ***Wolf's Tooth.*** The tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of Death House.
-* ***Crumpled Page.*** The ink on the page glows with amber light, the runes reshaping themselves into a map that shows the page's location—and an arrow that guides toward Death House.
-* ***Tattered Banner.*** The sound of war-drums fills the air, and the banner blows in an unseen wind in the direction of Death House.
-* ***Electrum Coin.*** The coin lands on its edge and begins rolling across the muddy cobblestones in the direction of Death House.
-* ***Angel's Feather.*** The feather is swept away by an unseen wind, its barbs glimmering with golden light as it twirls through the streets toward Death House.
-* ***Raven's Feather.*** The feather is swept away by the wind, its shadow seeming to dance in the air, as it twirls through the streets toward Death House.
-* ***Wanderer's Scarf.*** The scarf is carried away by the wind, its patterns shifting and turning in the air as it whirls through the streets toward Death House.
-
-If the players give chase, read:
+Roll perception, on less than 8 read the following, otherwise skip to [[#A1b A strange land]] below.
 
 <div class="description">
-<p>You emerge from the hayloft into the swirling mists beyond, the stones of Daggerford's streets slick and gleaming beneath your feet. The city’s laughter and cheer is now but a hollow echo, the brightness of its revelry drowned in the fog that encircles you. The taste of the cold, damp air is sharp on your tongue, and the sound of your own breath loud in your ears.</p>
-<p>Your relics call you forward, the mists parting to make way. You move slowly at first, then faster, your hearts pounding in your chest. As you venture deeper into the fog, each step you make feels heavier, each echo of thunder a beat in this relentless march.</p>
-<p>The fog swallows the town, buildings reduced to looming shadows, their shapes dancing and flickering in the storm's sporadic flashes of lightning. Rain drums a relentless rhythm, the patter of drops on cobblestone accompanying the distant, mournful peal of thunder. For brief moments, you can feel something else beneath your feet: the steady pounding of a deep and distant heartbeat.</p>
-<p>You're pulled left, then right, then left again, the relics guiding you through the murky labyrinth. Distance and direction have lost all meaning, the shadows around you contorting in twisted shapes. Your blood sings in your ears, and the air grows denser, electric, as the energy of the storm—of the chase—swells with reckless abandon.</p>
-<p>And then—the pounding stops.</p>
-<p>The thunder pauses.</p>
-<p>And the mist breaks.</p>
-<p>The fog pulls back like a curtain, revealing a tall, eerie silhouette that towers in the gloom before you.</p>
+<p>The fog is thick enough that you lose track of the other bedrolls, and trip over one of your fellow guardsmen.</p>
 </div>
+After the scuffle resolves itself, continue below.
+## A1b. A strange land
+
+<div class="description">
+<p>As you peer through the mist, you struggle to make out the now-familiar shapes of the merchant's carts. What's more, you could have sworn the campfire was burning well before you went to sleep, but now there aren't even embers left. As you poke around to try to relight it, you realise that the campfire isn't there any more, no embers, no logs, no firepit.</p>
+</div>
+
+Have the players explore a little and realise that the carts and guards are all gone. As they investigate, also feed back to them that they don't recall being quite this far in the forest, practically surrounded by trees.
+
+If any player mentions reaching for their weapons, let them know that they can't find their weapon. In fact, a lot of their gear seems to have gone missing, the only things left appear to be their bedroll and their clothing, including armour, plus one important personal item the players mentioned in Session Zero (and any relics, if used).
+Give each player a chance to convince you of one additional item they should have on them (e.g. a dagger in the boot, thieves tools on a necklace, etc). This gives player a chance to get to know each other further.
+
+The players should get moving on their own, but in case they don't, read the following to get them on their way:
+<div class="description">
+<p>The forest appears eerily silent, every sound seems muffled and far away. And yet you notice the soft sound of rapid, rushing footsteps not too far off. As you turn to look in the direction of the sound, you see a humanoid shape with a strange gait leap behind a tree before you can get a good look at it. There, again, another sound of something moving through the grass, another shape in the distance, not moving straight towards you, but closer nonetheless.</p>
+<p>As you try to keep track of them, you hear a howl in the distance, in the same direction as the moving shapes.</p>
+</div>
+Once the players are on the move, they inevitable burst into a clearing where the mists part to reveal an old-fashioned mansion.
 
 This is **Death House.**
 # A2. Death House
-If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Lost in the Mists]] hook, read the following text. Otherwise, proceed to [[#A2a. The Arrival]] below.
-
-<div class="description">
-<p>Highharvesttide in Daggerford. It’s a time of joy and celebration, of hearth and home, of golden laughter ringing out into the night. But tonight, as a storm has swept over the town, you find yourselves apart from the warmth and revelry, drawn into the cold, dark embrace of mystery.</p>
-<p>As mercenaries, you're no strangers to danger or the unknown. But this—this is different. Over the past few weeks, whispers have spread throughout Daggerford of disappearances: ordinary folk, vanished without a trace.</p>
-<p>The only connection? A grand, old manor, known in hushed tones as “Death House.”</p>
-<p>Tonight, as the storm rages outside, you've been summoned to investigate this mysterious dwelling. The town crier’s proclamation still echoes in your ears, a bounty for any brave souls who dare to uncover the truth. Driven by a mix of greed, curiosity, and perhaps a touch of bravado, you stepped forward.</p>
-<p>Now, guided by the faint glow of your lanterns, you traverse the slick, fog-shrouded cobblestone streets. The distant merriment is a stark contrast to the eerie quiet around you. The world has been reduced to hushed whispers and the steady drumming of rain, a somber serenade to your perilous journey.</p>
-<p>And then, as if answering an unspoken summons, the mists before you part, revealing the grim silhouette of your destination: the “Death House.” Its dark, stone façade and towering spires loom ominously against the storm-tossed sky, a wordless challenge against your resolve.</p>
-</div>
-
 ## A2a. The Arrival
 ### Entrance
 <span class="citation"><em>This scene takes place in Appendix B: Area 1.</em></span>
@@ -98,23 +79,14 @@ Read all players the following text:
 <p>A grand manor stands before you, four stories of cold, soot-stained stone, tall narrow windows, and high peaked roofs forming a picture of austere, chilling grandeur. Midway up, a narrow balcony juts out from the third floor, offering a grim perch from which to survey the surrounding grounds.</p>
 <p>The centerpiece of this imposing facade is the portico, a stone arch standing sentinel before the house's oaken doors. A wrought-iron gate fills this arch, its rusty hinges creaking as it sways in the wind.</p>
 <p>On either side of the gate, oil lamps hang from chains, their light dim and flickering, casting a sickly glow that barely pierces the surrounding fog.</p>
-<p>Beyond the gate, a set of sturdy oaken doors stand closed, framed by the gate and the lamps. The doors are old and weathered, their wood darkened by time, but they stand strong and proud—an unwelcome entrance to the house beyond.</p>
+<p>Beyond the gate, a set of sturdy oaken doors stand open, framed by the gate and the lamps. The doors are old and weathered, their wood darkened by time, but they stand strong and proud—guardians to the house beyond.</p>
 <p>A gust of wind sweeps past you, carrying with it a whisper of cold dread that sends shivers down your spine.</p>
 </div>
-
-Any players who began with the ***Barovian Relics*** hook can now see the players who began with the ***Lost in the Mists*** hook, and vice-versa. (If any of the players’ relics flew or rolled to Death House—as with the ***wanderer’s scarf*** or the ***electrum coin***—they land on the house’s threshold, just beyond the portico.) The street is otherwise deserted.
+If the players don't enter the house of their own accord, relate that the fog is closing in, and so are the howls and footsteps.
 
 The entrance beyond the portico is otherwise as described in <span class="citation">Entrance (p. 212)</span>.
-
-> [!lore]+ **Strahd & the Cult**
->
-> The cult of Death House earned no love from Strahd in life. But in death, the two parties have come to an informal, unspoken understanding. 
->
-> In exchange for the permission to roam far afield from the misty land of Barovia to claim sacrifices, Death House is bound to return to the valley after each hunting excursion. Should any adventurers successfully escape the house's bloodied altar, they inevitably emerge into Strahd's domain—assuring him of a worthy crop of prey to pursue. 
 ### Main Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
-
-When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
 
 The main hall is largely as described in <span class="citation">Main Hall (p. 212)</span> but now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
 
@@ -866,6 +838,52 @@ Folded inside the foot locker, on top of its other contents, is a **boneless** (
 > * ***Six Players.*** Increase the boneless’ hit points to 31. Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.
 
 No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
+
+<div class="statblock">
+<h2>Bonless</h2>
+<em>Medium undead, neutral evil</em>
+<hr>
+<strong>Armor Class</strong> 12 (natural armor)
+<br>
+<strong>Hit Points</strong> 26 (4d8 + 8)
+<br>
+<strong>Speed</strong> 30 ft.
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>16 (+3)</td>
+      <td>14 (+2)</td>
+      <td>15 (+2)</td>
+      <td>1 (-5)</td>
+      <td>10 (+0)</td>
+      <td>1 (-5)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
+<strong>Languages</strong> Understands the languages it knew in life but cannot speak<br>
+<strong>Challenge</strong> 1<br>
+<hr>
+<p><strong><em>Compression</em></strong> The boneless can move through any opening at least 1 inch wide without squeezing. It can also squeeze to fit into a space that a <strong><em>Tiny</em></strong> create could fit in.</p>
+<p><strong><em>Unusual nature.</em></strong> The boneless doesn't require sleep.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> The boneless makes two <strong><em>Slam</em></strong> attacks. If both attacks hit a Large or smaller creature, the create is grappled (escape DC 13), and the boneless can use <strong><em>Crushing Embrace</em></strong>.</p>
+<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d4 + 3) bludgeoning damage.</p>
+<p><strong><em>Crushing Embrace.</em></strong> The boneless wraps its body around a  Large or smaller creature grappled by it. While the boneless is attached, the target is blinded and unable to breathe. The target must succeed on a DC 13 Strength saving throw at the start of each of the boneless' turns or take 5 (1d4 + 3) bludgeoning damage. If something moves the target, the boneless moves with it. The boneless can detach itself by spending 5 feet of its movement. A creature, including the target, can use its action to try to detach the boneless and force it to move into the nearest unoccupied space, doing so with a successful DC 13 Strength check. When the boneless dies, it detaches from any creature it is attached to.</p>
+</div>
 ## A2g. The Dungeon
 ### Reliquary
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
