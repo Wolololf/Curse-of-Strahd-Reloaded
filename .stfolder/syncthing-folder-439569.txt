@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: hzmch-demd2
+created: 2025-03-04T19:07:20Z

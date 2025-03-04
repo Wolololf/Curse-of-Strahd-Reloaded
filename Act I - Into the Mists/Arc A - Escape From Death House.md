@@ -10,9 +10,9 @@
 > [!warning]+ **A Second-Level Adventure**
 > Remember that, unlike the original *Curse of Strahd* adventure, the players in this guide begin at 2nd level, rather than 1st level.
 
-The players begin in the town of Daggerford on the night before Highharvesttide, an annual feast and holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Nightmare’s Bridle, a ramshackle tavern on the outskirts of town. 
+The players begin on the road to the town of Daggerford, having set out from Waterdeep a few days prior. They aim to get there for Highharvesttide, an annual feast and holiday celebration. They are travelling as hired guards (or for other reasons) with a merchants' caravan which needed added protection due to rumours of werewolves in the forests nearby. 
 
-When the relics they carry sense the presence of Death House, however, the players are led through Daggerford’s rainy streets and into the house’s waiting threshold.
+When the players wake up, they realise that the caravan and some of their belongings (mainly weapons and gear) are gone, and they're finding themselves in a strange misty forest. As they try to find their way out of the forest, they stumble upon the Death House where the players take refuge from the worsening fog and creeping shadows.
 
 Once inside, the players are trapped and told that a monster will hunt them down once it awakens. They have six hours to find it first and either appease it with a suitable sacrifice—or kill it. As they explore the house, they come to learn the house’s lurid history, as well as the true identity of the beast that lurks beneath.
 
@@ -211,17 +211,17 @@ If the players proceed, read:
 
 <div class="description">
 <p>The door cracks open, revealing a gray-furred wolf frozen into place. It's only a moment before you realize that it's not moving—and another before you realize that it's not alone.</p>
-<p>This oak-paneled room looks like a hunter's den. Mounted above the fireplace is a stag's head, and positioned around the outskirts of the room are two additional stuffed wolves—a large gray wolf and a smaller brown wolf.</p>
+<p>This oak-panelled room looks like a hunter's den. Mounted above the fireplace is a stag's head, and positioned around the outskirts of the room are two additional stuffed wolves—a large gray wolf and a smaller brown wolf.</p>
 <p>Two padded chairs draped in animal furs face a hearth, with an oak table between them supporting an assortment of objects. A chandelier hangs above a cloth-covered table surrounded by four chairs, and two cabinets stand against the walls. A pair of small toys seems to have been forgotten beneath one of the chairs.</p>
 </div>
 
-The discarded toys are small, plush gray wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitchwork on their stomachs reads ROSE and THORN, respectively.
+The discarded toys are small, plush grey wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitchwork on their stomachs reads ROSE and THORN, respectively.
 
 In addition to its other contents, the east cabinet contains five silvered crossbow bolts mixed in with the other sixty bolts. Meanwhile, the north cabinet also contains a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
 
-The first time that no players are looking at them, the three taxidermied wolves move. When the players next look at them, the large gray wolf is standing beside the smaller brown wolf, and the first gray wolf has turned its snarl toward the others.
+The first time that no players are looking at them, the three taxidermied wolves move. When the players next look at them, the large grey wolf is standing beside the smaller brown wolf, and the first grey wolf has turned its snarl toward the others.
 
-A player that succeeds on a DC 12 Intelligence (Nature) check can identify the large gray wolf as male and the other two as female.
+A player that succeeds on a DC 12 Intelligence (Nature) check can identify the large grey wolf as male and the other two as female.
 ### Dining Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 5.</em></span>
 
