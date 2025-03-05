@@ -867,7 +867,7 @@ Folded inside the foot locker, on top of its other contents, is a **boneless** (
 No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
 
 <div class="statblock">
-<h2>Bonless</h2>
+<h2>Boneless</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 12 (natural armor)
