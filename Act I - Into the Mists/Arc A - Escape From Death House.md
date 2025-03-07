@@ -269,20 +269,6 @@ This room is largely as described in <span class="citation">Servants’ Room (p.
 </div>
 
 The basket contains a man's laundry, including fine suits, tunics, neckties, pants, and stockings. However, a single, much-smaller woman's slip appears to have been mixed in with the rest.
-### Storage Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
-
-This room is largely as described in <span class="citation">Storage Room (p. 215)</span>, except that it's on the second floor instead. When the players enter it, read:
-
-<div class="description">
-<p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered broom leans against the far wall.</p>
-</div>
-
-When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
-
-> [!design]- **Moving the storage room to the second floor**
->  In its original location, players clear two floors of the house without any combat and then run into the animated armour and the broom of animated attack in two adjoining rooms. That's not ideal pacing.
-> If moved to the second floor instead, after the initial tension of being lost in the woods and then the ominous warning on the first floor, it's now been a while since anything actively dangerous happened, so players likely have relaxed a little. It's a good time to pick up the pace again with the first combat of the campaign but gives the players enough time to recover from combat before the animated armour on the next floor.
 
 ### Conservatory
 <span class="citation"><em>This scene takes place in Appendix B: Area 10.</em></span>
@@ -435,6 +421,16 @@ A roll of parchment is half-buried in the grain beside the shard. If unfurled, i
 See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more information about the amber shard.
 
 ***The Balcony.*** A player that exits the bedroom onto the balcony sees only a wall of fleshy tendrils encompassing the exterior of the house. The tendrils are as described in [[#Main Hall]].
+### Storage Room
+<span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
+
+This room is largely as described in <span class="citation">Storage Room (p. 215)</span>, except that it's on the second floor instead. When the players enter it, read:
+
+<div class="description">
+<p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered broom leans against the far wall.</p>
+</div>
+
+When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
 ### Bathroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
 
@@ -866,51 +862,7 @@ Folded inside the foot locker, on top of its other contents, is a **boneless** (
 
 No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
 
-<div class="statblock">
-<h2>Boneless</h2>
-<em>Medium undead, neutral evil</em>
-<hr>
-<strong>Armor Class</strong> 12 (natural armor)
-<br>
-<strong>Hit Points</strong> 26 (4d8 + 8)
-<br>
-<strong>Speed</strong> 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-      <td>15 (+2)</td>
-      <td>1 (-5)</td>
-      <td>10 (+0)</td>
-      <td>1 (-5)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Understands the languages it knew in life but cannot speak<br>
-<strong>Challenge</strong> 1<br>
-<hr>
-<p><strong><em>Compression</em></strong> The boneless can move through any opening at least 1 inch wide without squeezing. It can also squeeze to fit into a space that a <strong><em>Tiny</em></strong> create could fit in.</p>
-<p><strong><em>Unusual nature.</em></strong> The boneless doesn't require sleep.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The boneless makes two <strong><em>Slam</em></strong> attacks. If both attacks hit a Large or smaller creature, the create is grappled (escape DC 13), and the boneless can use <strong><em>Crushing Embrace</em></strong>.</p>
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d4 + 3) bludgeoning damage.</p>
-<p><strong><em>Crushing Embrace.</em></strong> The boneless wraps its body around a  Large or smaller creature grappled by it. While the boneless is attached, the target is blinded and unable to breathe. The target must succeed on a DC 13 Strength saving throw at the start of each of the boneless' turns or take 5 (1d4 + 3) bludgeoning damage. If something moves the target, the boneless moves with it. The boneless can detach itself by spending 5 feet of its movement. A creature, including the target, can use its action to try to detach the boneless and force it to move into the nearest unoccupied space, doing so with a successful DC 13 Strength check. When the boneless dies, it detaches from any creature it is attached to.</p>
-</div>
+![[Boneless]]
 ## A2g. The Dungeon
 ### Reliquary
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
