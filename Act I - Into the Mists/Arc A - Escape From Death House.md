@@ -10,9 +10,9 @@
 > [!warning]+ **A Second-Level Adventure**
 > Remember that, unlike the original *Curse of Strahd* adventure, the players in this guide begin at 2nd level, rather than 1st level.
 
-The players begin in the town of Daggerford on the night before Highharvesttide, an annual feast and holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Nightmare’s Bridle, a ramshackle tavern on the outskirts of town. 
+The players begin on the road to the town of Daggerford, having set out from Waterdeep a few days prior. They aim to get there for Highharvesttide, an annual feast and holiday celebration. They are travelling as hired guards (or for other reasons) with a merchants' caravan which needed added protection due to rumours of werewolves in the forests nearby. 
 
-When the relics they carry sense the presence of Death House, however, the players are led through Daggerford’s rainy streets and into the house’s waiting threshold.
+When the players wake up, they realise that the caravan and some of their belongings (mainly weapons and gear) are gone, and they're finding themselves in a strange misty forest. As they try to find their way out of the forest, they stumble upon the Death House where the players take refuge from the worsening fog and creeping shadows.
 
 Once inside, the players are trapped and told that a monster will hunt them down once it awakens. They have six hours to find it first and either appease it with a suitable sacrifice—or kill it. As they explore the house, they come to learn the house’s lurid history, as well as the true identity of the beast that lurks beneath.
 
@@ -20,74 +20,60 @@ If the players kill the monster, the house begins to collapse, forcing them to f
 
 > [!lore]+ **The History of Death House**
 > See [[History of Barovia#Strahd’s First Followers|Strahd's First Followers]] for a full retelling of the gruesome history of Death House.
-# A1. Daggerford
+# A1. The Road to Daggerford
 
 > [!warning]+ **Keep Your Workload Low**
 > *Curse of Strahd: Reloaded* has intentionally been written to minimize time spent away from the table, aiming to serve as a "zero-prep" campaign to the maximum extent possible. To make this possible, this guide has been designed to manipulate players into taking specific, curated paths through the adventure, even while providing intentional degrees of freedom that, while meaningful, will not substantially change the ultimate outcome of the campaign.
 > 
 > If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
-## A1a. The Nightmare’s Bridle
-If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Barovian Relics]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
+## A1a. At the campsite
 
 <div class="description">
-<p>It’s the evening before Highharvesttide, and a storm has descended over Daggerford, with dark clouds pouring cascades of rain down upon the town below. Despite the weather, however, the town buzzes with anticipation of the impending falltime festival, each home filled with warmth and joy. Bright, cheery candlelight twinkles from every window, and the sounds of song and dance echo throughout the wet and muddy streets.</p>
-<p>Amidst the merriment, however, you stand apart. Neither locals nor visitors, you’re vagabonds—travelers, ghosts passing through an unfamiliar town. As laughter rings out from inns and homes, you face a simpler, starker dilemma: the quest for shelter.</p>
-<p>Every room in this town is claimed, every hearth filled to bursting, leaving you in the grip of the bitter storm. Until, that is, the owner of the ramshackle Nightmare’s Bridle tavern offers you a grudging reprieve: the hayloft above their stable. It’s nothing to boast about, leaving the biting cold and the lingering scent of musty hay as your only companions. But it’s a roof over your heads nonetheless—a small mercy on a night such as this.</p>
-<p>One by one, you find a home amidst the muck and hay. Overhead, rain lashes the stable, thunder punctuating the rhythmic drumming on the roof. Flashes of lightning lance across the skies, casting the stable’s interior in stark lights and darks. Rainwater drips steadily down through a leak in the roof, snaking its way across the floor until it pools in the corner.</p>
-<p>Here, then, you find yourselves: huddled in the darkness amongst strangers, while joy and mirth dance just out of reach.</p>
+<p>It’s the evening before Highharvesttide, and all the world is coming to Daggerford to celebrate. This includes you, and the caravan of merchants you've been hired to guard. They're hoping to make some good money off the festival, and you're hoping to make good money off the merchants.</p>
+<p>You've been on the road for two days, having travelled from Waterdeep. You've been lucky with the weather, and even though it's autumn, there hasn't been much rain so far, so it's been easy going. Now, however, the mists have started creeping in, and it looks like you'll get a bit of rain tonight.</p>
+<p>The head of the guards has already stopped by to let you know that you're not on guard duty tonight since you've done the shift last night, so you must be exhausted. He mentioned that this part of the road is the rough bit: Locals have been complaining of cattle going missing, and there's talk of some travellers disappearing as well. Rumour is that werewolves are to blame, but surely not this close to civilisation?</p>
+<p>As you're preparing dinner, and as you huddle closer to the campfire for warmth, trying to keep the mists and damp out, bracing for the rain to come, you take a look around you at your fellow guards.</p>
 </div>
 
 Invite the players to describe each character's appearance and countenance, how they’ve positioned themselves, and how they’ve arranged their belongings.
 
-When the players have finished introducing themselves, read:
+When the players have finished introducing themselves and they've decided to rest, have them all roll a Constitution saving throw, and whoever rolls lowest is the first to wake up to go for a leak. 
 
 <div class="description">
-<p>A searing bolt of lightning rends the sky, illuminating the evening in a blinding flash of stark white. The booming thunder that follows is so loud it shakes the very ground beneath you, causing the timbers of the stable to creak and groan.</p>
-<p>The light of the strike lingers unnaturally, silhouetting small wisps of fog that twist through the air. A thick, ankle-deep mist gathers outside, shrouding the earth in a ghostly veil. Its tendrils curl invitingly, as though beckoning you to the darkness beyond.</p>
-<p>The rain continues to pelt the roof above, but the wind no longer howls, and the merry sounds of Daggerford’s festivities seem muted and distant. The horses in the stable beneath stir uneasily, their whinnies echoing loudly in the stillness. An uneasy feeling sweeps through the hayloft, a cold shiver that has nothing to do with the wind or rain.</p>
+<p>You wake up a couple of hours later, busting for a piss. The fog has really closed in now, it's thick in the air and the temperature has dropped. You make your way to the nearest bushes to relieve yourself.</p>
 </div>
 
-One by one, the players’ relics then react as follows, in the following order.
-
-* ***Stone Crest.*** The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.
-* ***Broken Blade.*** The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.
-* ***Dragon's Scale.*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.
-* ***Sunrise Medallion.*** The medallion shines with a warm, golden glow, emitting rays of bright light in the direction of Death House.
-* ***Amber Shard.*** The shard glows with amber light and tugs its cord in the direction of Death House.
-* ***Wolf's Tooth.*** The tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of Death House.
-* ***Crumpled Page.*** The ink on the page glows with amber light, the runes reshaping themselves into a map that shows the page's location—and an arrow that guides toward Death House.
-* ***Tattered Banner.*** The sound of war-drums fills the air, and the banner blows in an unseen wind in the direction of Death House.
-* ***Electrum Coin.*** The coin lands on its edge and begins rolling across the muddy cobblestones in the direction of Death House.
-* ***Angel's Feather.*** The feather is swept away by an unseen wind, its barbs glimmering with golden light as it twirls through the streets toward Death House.
-* ***Raven's Feather.*** The feather is swept away by the wind, its shadow seeming to dance in the air, as it twirls through the streets toward Death House.
-* ***Wanderer's Scarf.*** The scarf is carried away by the wind, its patterns shifting and turning in the air as it whirls through the streets toward Death House.
-
-If the players give chase, read:
+Roll perception, on less than 8 read the following, otherwise skip to [[#A1b A strange land]] below.
 
 <div class="description">
-<p>You emerge from the hayloft into the swirling mists beyond, the stones of Daggerford's streets slick and gleaming beneath your feet. The city’s laughter and cheer is now but a hollow echo, the brightness of its revelry drowned in the fog that encircles you. The taste of the cold, damp air is sharp on your tongue, and the sound of your own breath loud in your ears.</p>
-<p>Your relics call you forward, the mists parting to make way. You move slowly at first, then faster, your hearts pounding in your chest. As you venture deeper into the fog, each step you make feels heavier, each echo of thunder a beat in this relentless march.</p>
-<p>The fog swallows the town, buildings reduced to looming shadows, their shapes dancing and flickering in the storm's sporadic flashes of lightning. Rain drums a relentless rhythm, the patter of drops on cobblestone accompanying the distant, mournful peal of thunder. For brief moments, you can feel something else beneath your feet: the steady pounding of a deep and distant heartbeat.</p>
-<p>You're pulled left, then right, then left again, the relics guiding you through the murky labyrinth. Distance and direction have lost all meaning, the shadows around you contorting in twisted shapes. Your blood sings in your ears, and the air grows denser, electric, as the energy of the storm—of the chase—swells with reckless abandon.</p>
-<p>And then—the pounding stops.</p>
-<p>The thunder pauses.</p>
-<p>And the mist breaks.</p>
-<p>The fog pulls back like a curtain, revealing a tall, eerie silhouette that towers in the gloom before you.</p>
+<p>The fog is thick enough that you lose track of the other bedrolls, and trip over one of your fellow guardsmen.</p>
 </div>
+After the scuffle resolves itself, continue below.
+## A1b. A strange land
+
+<div class="description">
+<p>As you peer through the mist, you struggle to make out the now-familiar shapes of the merchant's carts. What's more, you could have sworn the campfire was burning well before you went to sleep, but now there aren't even embers left. As you poke around to try to relight it, you realise that the campfire isn't there any more, no embers, no logs, no firepit.</p>
+</div>
+
+Have the players explore a little and realise that the carts and guards are all gone. As they investigate, also feed back to them that they don't recall being quite this far in the forest, practically surrounded by trees.
+
+If any player mentions reaching for their weapons, let them know that they can't find their weapon. In fact, a lot of their gear seems to have gone missing, the only things left appear to be their bedroll and their clothing, including armour, plus one important personal item the players mentioned in Session Zero (and any relics, if used).
+Give each player a chance to convince you of one additional item they should have on them (e.g. a dagger in the boot, thieves tools on a necklace, etc). This gives player a chance to get to know each other further.
+
+The players should get moving on their own, but in case they don't, read the following to get them on their way:
+<div class="description">
+<p>The forest appears eerily silent, every sound seems muffled and far away. And yet you notice the soft sound of rapid, rushing footsteps not too far off. As you turn to look in the direction of the sound, you see a humanoid shape with a strange gait leap behind a tree before you can get a good look at it. There, again, another sound of something moving through the grass, another shape in the distance, not moving straight towards you, but closer nonetheless.</p>
+<p>As you try to keep track of them, you hear a howl in the distance, in the same direction as the moving shapes.</p>
+</div>
+Once the players are on the move, they inevitable burst into a clearing where the mists part to reveal an old-fashioned mansion.
 
 This is **Death House.**
+
+> [!design]- **Alternative opening to "Barovian relics" or "Lost in the mists"**
+>  The idea of the players meeting around a campfire allows for more team bonding before going straight into the Death House as in "Lost in the mists". Removing most of the gear amps up the tension, but also just saves time in Session Zero (use the pretext of "you'll get to pick your equipment once you get to your destination and you know what the quest is").
+>  Being defenceless and lost in a creepy forest is a good way to set the stage and introduce the general theme. The players "organically" finding the Death House as a safe refuge plays better than forcing them to follow magical relics or being tasked to go there because it gives them more agency, and then the reveal that they're actually trapped (even though they had no choice) feels more meaningful.
+>  The fog thickening and the "werewolves" closing in as a means of nudging players into the house only works if they're unarmed and the chance of being able to barricade inside the house and maybe find weapons is a good driver. The need to find weapons and gear in the house is a strong motivator to explore thoroughly instead of rushing through, and gives a nice risk/reward calculation for how to spend time in the house.
 # A2. Death House
-If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Lost in the Mists]] hook, read the following text. Otherwise, proceed to [[#A2a. The Arrival]] below.
-
-<div class="description">
-<p>Highharvesttide in Daggerford. It’s a time of joy and celebration, of hearth and home, of golden laughter ringing out into the night. But tonight, as a storm has swept over the town, you find yourselves apart from the warmth and revelry, drawn into the cold, dark embrace of mystery.</p>
-<p>As mercenaries, you're no strangers to danger or the unknown. But this—this is different. Over the past few weeks, whispers have spread throughout Daggerford of disappearances: ordinary folk, vanished without a trace.</p>
-<p>The only connection? A grand, old manor, known in hushed tones as “Death House.”</p>
-<p>Tonight, as the storm rages outside, you've been summoned to investigate this mysterious dwelling. The town crier’s proclamation still echoes in your ears, a bounty for any brave souls who dare to uncover the truth. Driven by a mix of greed, curiosity, and perhaps a touch of bravado, you stepped forward.</p>
-<p>Now, guided by the faint glow of your lanterns, you traverse the slick, fog-shrouded cobblestone streets. The distant merriment is a stark contrast to the eerie quiet around you. The world has been reduced to hushed whispers and the steady drumming of rain, a somber serenade to your perilous journey.</p>
-<p>And then, as if answering an unspoken summons, the mists before you part, revealing the grim silhouette of your destination: the “Death House.” Its dark, stone façade and towering spires loom ominously against the storm-tossed sky, a wordless challenge against your resolve.</p>
-</div>
-
 ## A2a. The Arrival
 ### Entrance
 <span class="citation"><em>This scene takes place in Appendix B: Area 1.</em></span>
@@ -98,23 +84,14 @@ Read all players the following text:
 <p>A grand manor stands before you, four stories of cold, soot-stained stone, tall narrow windows, and high peaked roofs forming a picture of austere, chilling grandeur. Midway up, a narrow balcony juts out from the third floor, offering a grim perch from which to survey the surrounding grounds.</p>
 <p>The centerpiece of this imposing facade is the portico, a stone arch standing sentinel before the house's oaken doors. A wrought-iron gate fills this arch, its rusty hinges creaking as it sways in the wind.</p>
 <p>On either side of the gate, oil lamps hang from chains, their light dim and flickering, casting a sickly glow that barely pierces the surrounding fog.</p>
-<p>Beyond the gate, a set of sturdy oaken doors stand closed, framed by the gate and the lamps. The doors are old and weathered, their wood darkened by time, but they stand strong and proud—an unwelcome entrance to the house beyond.</p>
+<p>Beyond the gate, a set of sturdy oaken doors stand open, framed by the gate and the lamps. The doors are old and weathered, their wood darkened by time, but they stand strong and proud—guardians to the house beyond.</p>
 <p>A gust of wind sweeps past you, carrying with it a whisper of cold dread that sends shivers down your spine.</p>
 </div>
-
-Any players who began with the ***Barovian Relics*** hook can now see the players who began with the ***Lost in the Mists*** hook, and vice-versa. (If any of the players’ relics flew or rolled to Death House—as with the ***wanderer’s scarf*** or the ***electrum coin***—they land on the house’s threshold, just beyond the portico.) The street is otherwise deserted.
+If the players don't enter the house of their own accord, relate that the fog is closing in, and so are the howls and footsteps.
 
 The entrance beyond the portico is otherwise as described in <span class="citation">Entrance (p. 212)</span>.
-
-> [!lore]+ **Strahd & the Cult**
->
-> The cult of Death House earned no love from Strahd in life. But in death, the two parties have come to an informal, unspoken understanding. 
->
-> In exchange for the permission to roam far afield from the misty land of Barovia to claim sacrifices, Death House is bound to return to the valley after each hunting excursion. Should any adventurers successfully escape the house's bloodied altar, they inevitably emerge into Strahd's domain—assuring him of a worthy crop of prey to pursue. 
 ### Main Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
-
-When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
 
 The main hall is largely as described in <span class="citation">Main Hall (p. 212)</span> but now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
 
@@ -149,14 +126,14 @@ The grandfather clock then strikes six o’clock.
 
 > [!info]+ **Time in Death House**
 >
-> When the clock strikes six, place three six-sided dice on the table in front of the players, with each side showing a six. Each pip on the dice represents twenty minutes until midnight.
+> When the clock strikes six, place six six-sided dice on the table in front of the players, with each side showing a six. Each pip on the dice represents ten minutes until midnight.
 >
 > As the players explore the house, tick this dice clock downward to indicate the passage of time, always starting with the die showing the lowest number. If the lowest die shows a one, you can tick it down to “zero” by removing it from the group instead.
 >
 > The dice clock counts down as follows to represent the total time the players have spent in the house:
 > - Each time the players enter a new floor of the house or dungeon, tick the dice clock down by one.
 > - Each time the players make a Perception or Investigation check to search an entire room, tick the dice clock down by one.
-> - Each time the players complete a short rest, tick the dice clock down by three.
+> - Each time the players complete a short rest, tick the dice clock down by six.
 >
 > A full hour passes each time a die decreases from 4 to 3, or each time a die decreases from 1 to 0. The grandfather clock in the **Main Hall** sounds on the hour, every hour, and can be heard throughout the house and dungeon.
 >
@@ -177,7 +154,7 @@ A player who opens any outside-facing door or curtain in Death House, or who exi
 ### Cloakroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
 
-A player who investigates the cloakroom adjoining the Main Hall can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
+If a player investigates the cloakroom adjoining the Main Hall, have them roll Perception. On 15+, they find 5 SP in a hidden coat pocket. Regardless of outcome, they can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
 
 <div class="description" style="text-align:center; padding: 15px;">
 You are cordially invited to join 
@@ -198,6 +175,7 @@ for a celebration of the one-year anniversary of the Durst Mill.
 ![[Durst Invitation.jpg]]
 <span class="credit">"Durst Invitation" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
+Any player investigating the cloakroom also finds a cane with the engraving "For the King!" on the handle. If they speak the words out loud, the cane transforms into a rapier (The cane is a Veteran's Cane, except it transforms into a rapier, not a longsword). The cane is Gustav's from his time as an officer in King Barov's army before he retired to start a family.
 ### Den of Wolves
 <span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
 
@@ -211,17 +189,19 @@ If the players proceed, read:
 
 <div class="description">
 <p>The door cracks open, revealing a gray-furred wolf frozen into place. It's only a moment before you realize that it's not moving—and another before you realize that it's not alone.</p>
-<p>This oak-paneled room looks like a hunter's den. Mounted above the fireplace is a stag's head, and positioned around the outskirts of the room are two additional stuffed wolves—a large gray wolf and a smaller brown wolf.</p>
+<p>This oak-panelled room looks like a hunter's den. Mounted above the fireplace is a stag's head, and positioned around the outskirts of the room are two additional stuffed wolves—a large gray wolf and a smaller brown wolf.</p>
 <p>Two padded chairs draped in animal furs face a hearth, with an oak table between them supporting an assortment of objects. A chandelier hangs above a cloth-covered table surrounded by four chairs, and two cabinets stand against the walls. A pair of small toys seems to have been forgotten beneath one of the chairs.</p>
 </div>
 
-The discarded toys are small, plush gray wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitchwork on their stomachs reads ROSE and THORN, respectively.
+The discarded toys are small, plush grey wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitchwork on their stomachs reads ROSE and THORN, respectively.
 
-In addition to its other contents, the east cabinet contains five silvered crossbow bolts mixed in with the other sixty bolts. Meanwhile, the north cabinet also contains a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
+In addition to its other contents (a hand crossbow, a light crossbow and a heavy crossbow), the east cabinet contains five silvered crossbow bolts mixed in with the other sixty bolts. The cabinet's lock can be picked with a DC 15 thieves' tools Dexterity check, or smashed with an AC 15 weapon attack. If it is smashed, a player who checks the wolves notices that their ears are flattened to their heads and one of them is snarling at the party.
 
-The first time that no players are looking at them, the three taxidermied wolves move. When the players next look at them, the large gray wolf is standing beside the smaller brown wolf, and the first gray wolf has turned its snarl toward the others.
+Meanwhile, the north cabinet contains a deck of playing cards and some fine wine glasses in a small box alongside a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
 
-A player that succeeds on a DC 12 Intelligence (Nature) check can identify the large gray wolf as male and the other two as female.
+The first time that no players are looking at them, the three taxidermized wolves move. When the players next look at them, the large grey wolf is standing beside the smaller brown wolf, and the first grey wolf has turned its snarl toward the others.
+
+A player that succeeds on a DC 12 Intelligence (Nature) check can identify the large grey wolf as male and the other two as female.
 ### Dining Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 5.</em></span>
 
@@ -260,6 +240,9 @@ A player who opens the pot finds it to contain a bottle of wine, a folded piece 
 * The parchment scroll reads: "For the light of my life. —G."
 
 If the players read the note, one of the knives in the kitchen flies off of its shelf and embeds itself in the opposite wall.
+
+If any player enters the pantry, one of the sacks of flour on the shelves tips over an spills cockroaches over any players in the room. On a DC 14 Nature check, a player may realise that the cockroaches move wrong (in unison, in repetitive motions). On a fail, roll a DC 15 Wisdom save or take 1d4 psychic damage as you're flailing to crush the roaches.
+Roll the same save again at the end of the round until you succeed, taking 1d4 damage every round, or until the player leaves the pantry, or another player snaps them out of it.
 ## A2c. The Second Floor
 ### Upper Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 6.</em></span>
@@ -270,7 +253,10 @@ This room is largely as described in <span class="citation">Upper Hall (p. 213)<
 <p>Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a longsword with a windmill cameo worked into the hilt.</p>
 <p>Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors between them are carved with images of dancing youths.</p>
 <p>The red marble staircase continues its upward spiral to a third floor, a cold draft whispering down from above.</p>
+<p>On the far end of the hall, a fireplace sheds dim light into the passage, catching a glint of steel where a longsword rests on leather fastenings above the hearth.
 </div>
+
+The longsword is a family heirloom. Its hilt is elegantly carved in the shape of a windmill, two blades forming the cross guard and the base of the windmill flattening out towards the pommel.
 
 ### Servants’ Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 7.</em></span>
@@ -283,6 +269,7 @@ This room is largely as described in <span class="citation">Servants’ Room (p.
 </div>
 
 The basket contains a man's laundry, including fine suits, tunics, neckties, pants, and stockings. However, a single, much-smaller woman's slip appears to have been mixed in with the rest.
+
 ### Conservatory
 <span class="citation"><em>This scene takes place in Appendix B: Area 10.</em></span>
 
@@ -365,6 +352,8 @@ The chest no longer contains the deed to Old Bonegrinder. Additionally, change S
 
 The players do not recognize the name "Strahd von Zarovich."
 
+In addition to the letter, the players find three blank books with black leather covers, three spell scrolls (_bless_, _protection from poison_, and _spiritual weapon_). The chest still contains the deed to the house and a signed will which leaves the house and all other family property to Rose and Thorn.
+
 > [!design]- **Design Note: Removing the Deed**
 > Players who find the deed to Old Bonegrinder in the secret chest often come to the mistaken conclusion that looting the deed makes them the new owners of the mill. Such players are likely, as a result, to attempt to explore the windmill during [[Act I - Into the Mists/Arc C - Into the Valley]], triggering a conflict with the night hag coven and—through no fault of their own—a likely TPK. As such, the deed has been removed to help avoid this outcome.
 
@@ -379,8 +368,9 @@ This room is largely as described in <span class="citation">Balcony (p. 214)</sp
 <p>You climb the red marble staircase to its full height, arriving at a dusty balcony. The air here is dry and musty, but tinged with a strange, coppery scent. </p>
 <p>A suit of black plate armor stands against one wall, draped in cobwebs and marked by age. Oil lamps are mounted on the faded oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny beasts.</p>
 </div>
+A DC 15 Intelligence (Arcana) check or a DC 18 Perception (Wisdom) check reveals that this armour is magical or that its stance is more menacing and its joints look better kept than in the suits of armour below.
 
-When triggered, the **animated armor** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
+When triggered, the **animated armour** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
 
 If the armor is thrown down to the first floor and the players do not reveal their presence atop the balcony, it is unable to observe them with its sixty feet of blindsight, and is too stupid to think to climb back up. 
 
@@ -431,20 +421,25 @@ A roll of parchment is half-buried in the grain beside the shard. If unfurled, i
 See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more information about the amber shard.
 
 ***The Balcony.*** A player that exits the bedroom onto the balcony sees only a wall of fleshy tendrils encompassing the exterior of the house. The tendrils are as described in [[#Main Hall]].
-### Bathroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
-
-This room is as described in <span class="citation">Bathroom (p. 215)</span>.
 ### Storage Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
 
-This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter it, read:
+This room is largely as described in <span class="citation">Storage Room (p. 215)</span>, except that it's on the second floor instead. When the players enter it, read:
 
 <div class="description">
 <p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered broom leans against the far wall.</p>
 </div>
 
 When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
+### Bathroom
+<span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
+
+Replace the text in <span class="citation">Bathroom (p. 215)</span> with the below:
+<div class="description">
+<p>This dark room contains a wooden tub with clawed feet and a stopped-up drain in the centre, a small iron stove with a kettle resting atop it, and a barrel under a spigot in the east wall.</p>
+</div>
+
+If a player approaches the tub, the kettle starts whistling and water starts bubbling up from the tub's drain, looking muddy at first but then taking on a reddish hue. As the bathtub fills with blood, the kettle reaches higher and higher pitches until it stops all of a sudden, and the tub is empty and dry.
 ### Nursemaid’s Suite
 <span class="citation"><em>This scene takes place in Appendix B: Area 15.</em></span>
 
@@ -866,6 +861,8 @@ Folded inside the foot locker, on top of its other contents, is a **boneless** (
 > * ***Six Players.*** Increase the boneless’ hit points to 31. Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.
 
 No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
+
+![[Boneless]]
 ## A2g. The Dungeon
 ### Reliquary
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
