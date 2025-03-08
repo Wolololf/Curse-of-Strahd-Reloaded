@@ -44,4 +44,4 @@
 <p><strong><em>Crushing Embrace.</em></strong> The boneless wraps its body around a  Large or smaller creature grappled by it. While the boneless is attached, the target is blinded and unable to breathe. The target must succeed on a DC 13 Strength saving throw at the start of each of the boneless' turns or take 5 (1d4 + 3) bludgeoning damage. If something moves the target, the boneless moves with it. The boneless can detach itself by spending 5 feet of its movement. A creature, including the target, can use its action to try to detach the boneless and force it to move into the nearest unoccupied space, doing so with a successful DC 13 Strength check. When the boneless dies, it detaches from any creature it is attached to.</p>
 </div>
 
-[[Boneless-5e.webp]]
+[[Boneless.webp]]
