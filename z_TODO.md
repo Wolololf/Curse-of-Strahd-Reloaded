@@ -1,16 +1,9 @@
 DM prep:
-- Character overview for PCs and major NPCs
-	- Class, race, level, alignment , attributes and modifiers, max and current hit points, saving throws, AC, initiative, passive perception, key items in inventory
-		- Essentially a modified stat block
-- What Strahd knows session template
+- Re-read death house again
 - Encounter prep with pre-rolled hit points and initiative plus links to stat blocks
 - New folder with reusable stat blocks and picture, link into chapters via embedded notes and to encounters via links
-	- Boneless
-	- Zombie
-		- Bonus note: Small zombie (reduced stats, reduced HP and damage)
 	- Plague spreader
 	- Wight
-	- Ghoul
 	- Vampire spawn
 	- Bandit
 	- Scout

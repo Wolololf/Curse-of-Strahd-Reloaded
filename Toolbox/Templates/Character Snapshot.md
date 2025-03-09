@@ -2,36 +2,27 @@
 >> [!infobox]
 >> # Character name
 >> ![[Placeholder]]
->> ###### Stats
->>  |
->> ---|---|
->> **Initiative** | +2 |
->> **AC** | 15
->> **Level** | 1 |
->> **Class(s)** | Wizard |
->> **Sub-Class(s)** | Evocation |
->> **Race** | Human |
->> **Speed** | 30 |
->> **Proficiency** Bonus | +2 |
->> **HP** | 40 |
->> **Hit Dice** | 1d6  |
->> **Passive Perception** | 13 |
+>> ##### Overview
+>>  | **Level** | **Class** | **Subclass** | **Race** |
+>>  | --- | --- | --- | --- |
+>>  | 1 | Wizard | Evocation | Human |
+>> ### Key stats
+>>  | **Initiative** | **AC** | **Speed** | **Proficiency Bonus** | **Passive Perception** | - |
+>>  | --- | --- | --- | --- | --- | - |
+>>  | +2 | 15 | 30 | +2 | 13 | - |
+>> ### Hit points
+>>  | **Max** | **Current** | **Temporary** | **Hit die** | **Remaining** | **Death saves** | - |
+>>  | --- | --- | --- | --- | --- | --- | - |
+>>  | 40 | 20 | 0 | 1d6 | 1 | 0/0 | - |
 >> 
 >> ### Attributes
 | <font color="#ff0000">**STR**</font> | <font color="#ffff00">**DEX**</font> | <font color="#00b050">**CON**</font> | <font color="#7030a0">**INT**</font> | <font color="#245bdb">**WIS**</font> | <font color="#de7802">**CHA**</font> |
 | ----- | ----------- | ----------------------- | --------------------------------- | ----------------------------------- |
-| 15 | 15 | 15  | 15 | 15 | 15 |
-| +2 | +2 | +2  | +2 | +2 | +2 |
+| 15 (+2) | 15 (+2) | 15 (+2)  | 15 (+2) | 15 (+2) | 15 (+2) |
 >> ### Saving throws
 | <font color="#ff0000">**STR**</font> | <font color="#ffff00">**DEX**</font> | <font color="#00b050">**CON**</font> | <font color="#7030a0">**INT**</font> | <font color="#245bdb">**WIS**</font> | <font color="#de7802">**CHA**</font> |
 | ----- | ----------- | ----------------------- | --------------------------------- | ----------------------------------- |
-| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | <input type="checkbox" unchecked>  | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> |
-| +2 | +2 | +2  | +2 | +2 | +2 |
->> ### Death Saves
-| Type | - | - | - | 
-| ------- | --- | --------------------------------- | --------------------------------- |
-| Success | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | 
-| Fails  | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | 
+| <input type="checkbox" unchecked> +2 | <input type="checkbox" unchecked> +2 | <input type="checkbox" unchecked> +2  | <input type="checkbox" unchecked> +2 | <input type="checkbox" unchecked> +2 | <input type="checkbox" unchecked> +2 |
 >>  ### Weapons
 | Name         | Equipped         | Attack bonus         | Damage         | Damage type         | Notes         |
 | -------------- | -------------- | ------------ | ---------------- | ---------------- | ---------------- |

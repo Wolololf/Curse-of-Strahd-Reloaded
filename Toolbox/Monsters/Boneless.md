@@ -7,6 +7,8 @@
 <strong>Hit Points</strong> 26 (4d8 + 8)
 <br>
 <strong>Speed</strong> 30 ft.
+<br>
+<strong>Initiative</strong> +4
 <hr>
 <table class="ability-table">
   <thead>
@@ -35,7 +37,7 @@
 <strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
 <strong>Languages</strong> Understands the languages it knew in life but cannot speak<br>
 <strong>Challenge</strong> 1<br>
-<hr>
+<h3>Traits</h3>
 <p><strong><em>Compression</em></strong> The boneless can move through any opening at least 1 inch wide without squeezing. It can also squeeze to fit into a space that a <strong><em>Tiny</em></strong> create could fit in.</p>
 <p><strong><em>Unusual nature.</em></strong> The boneless doesn't require sleep.</p>
 <h3>Actions</h3>
