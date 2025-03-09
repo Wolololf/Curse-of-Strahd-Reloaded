@@ -89,6 +89,8 @@ Read all players the following text:
 </div>
 If the players don't enter the house of their own accord, relate that the fog is closing in, and so are the howls and footsteps.
 
+![[DeathHouse.png]]
+
 The entrance beyond the portico is otherwise as described in <span class="citation">Entrance (p. 212)</span>.
 ### Main Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
@@ -154,7 +156,10 @@ A player who opens any outside-facing door or curtain in Death House, or who exi
 ### Cloakroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
 
-If a player investigates the cloakroom adjoining the Main Hall, have them roll Perception. On 15+, they find 5 SP in a hidden coat pocket. Regardless of outcome, they can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
+If a player investigates the cloakroom adjoining the Main Hall, have them roll Perception. On 15+, they find 5 Electrum pieces in a hidden coat pocket. They bear the face of Strahd.
+![[Electrum Coin.png]]
+
+Regardless of outcome, they can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
 
 <div class="description" style="text-align:center; padding: 15px;">
 You are cordially invited to join 
@@ -175,7 +180,7 @@ for a celebration of the one-year anniversary of the Durst Mill.
 ![[Durst Invitation.jpg]]
 <span class="credit">"Durst Invitation" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Any player investigating the cloakroom also finds a cane with the engraving "For the King!" on the handle. If they speak the words out loud, the cane transforms into a rapier (The cane is a Veteran's Cane, except it transforms into a rapier, not a longsword). The cane is Gustav's from his time as an officer in King Barov's army before he retired to start a family.
+Any player investigating the cloakroom also finds a [[Veteran's Cane]] with the engraving "For the King!" on the handle. If they speak the words out loud, the cane transforms into a rapier (The cane is a Veteran's Cane, except it transforms into a rapier, not a longsword). The cane is Gustav's from his time as an officer in King Barov's army before he retired to start a family.
 ### Den of Wolves
 <span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
 

@@ -1,7 +1,11 @@
 DM prep:
 - Re-read death house again
 - Encounter prep with pre-rolled hit points and initiative plus links to stat blocks
-- New folder with reusable stat blocks and picture, link into chapters via embedded notes and to encounters via links
+	- Encounter template
+		- Table for monster type, AC, current/max HP, pre-rolled initiative
+			- Initiative tracker!
+	- Link encounters to place in the story
+- Reusable monster stat blocks
 	- Plague spreader
 	- Wight
 	- Vampire spawn
@@ -12,9 +16,8 @@ DM prep:
 		- Izmark
 		- Rahadin
 - New folder for item notes to embed
-	- Veteran's Cane
+	- Secret chest loot
 	- Master bedroom loot
-	- Other loot in later sections as I come across it during prep
 
 Session Zero
 - Tie-ins and relics
@@ -32,9 +35,6 @@ Session Zero
 	- Acting out characters vs being mean
 
 Death house
-- Death house artwork for outside
-- Cloakroom
-	- Add image of Strahd's coin
 - Servant's room
 	- Letter between servants' about cult dealings and running away
 - Conservatory
