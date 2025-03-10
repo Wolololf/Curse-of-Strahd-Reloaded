@@ -1,28 +1,15 @@
 DM prep:
 - Re-read death house again
-- Encounter prep with pre-rolled hit points and initiative plus links to stat blocks
-	- Encounter template
-		- Table for monster type, AC, current/max HP, pre-rolled initiative
-			- Initiative tracker!
-	- Link encounters to place in the story
-- Reusable monster stat blocks
-	- Plague spreader
-	- Wight
-	- Vampire spawn
-	- Bandit
-	- Scout
-	- Custom stat blocks
-		- Parriwimple
-		- Izmark
-		- Rahadin
-- New folder for item notes to embed
-	- Secret chest loot
-	- Master bedroom loot
+- Campaign intro
+	- Gothic horror: Gloomy atmosphere, vampires, werewolves and haunted castles (plus a dragon, lots of witches and some demons)
+	- Long running, really evil nemesis
+	- Large cast of characters to befriend or fight
+	- Connected story, not a set of one-offs
+- Tooling intro
+	- Digital battle maps
+	- Hopefully all materials just on the phone, so could still play at the pub if need be
 
 Session Zero
-- Style intro
-	- Gothic horror, really evil villains and cool boss fights, lots of RP and mysteries
-	- Digital battle maps
 - Tie-ins and relics
 	- Vistani ancestry (connection to Vistani and Es, scarf relic)
 	- Descendant of Silver Dragon
@@ -40,12 +27,8 @@ Session Zero
 	- Acting out characters vs being mean
 
 Death house
-- Servant's room
-	- Letter between servants' about cult dealings and running away
 - Conservatory
 	- Come up with melody for Waltz for Klara
-- Master Suite
-	- Unfinished letter boasting to a friend about having captured and killed adventurers, and mentions falling out with Strahd
 - Large guest bedroom changes
 	- Theren's book (excerpts for start, middle, end)
 		- Author: Theramenes of Amn
@@ -58,22 +41,8 @@ Death house
 		- Stocky short one suffered in silence
 		- Childlike one nearly escaped twice
 		- Human swore colourfully
-		- Skinny long-eared one screamed and prayed to his god but noone answered
+		- Skinny long-eared one screamed and prayed to his god but of course nobody answered
 	- Note down rewards
-- Ghoul ambush
-	- Replace ghouls with zombies, two adults, two children
-		- Adjust HP with custom "small zombie" stat block
-- Master bedroom in basement with magic loot from previous party
-	- Loot (add new folder for item notes that can be embedded)
-		- Very sharp great axe
-		- Cloak of billowing
-		- Hat of vermin
-		- 2 of the following, determine based on party
-			- Boots of elvenkind
-			- Bracers of archery
-			- Circlet of blasting
-			- Cloak of protection
-			- Ring of protection
 
 Later on:
 - Dream pastries!

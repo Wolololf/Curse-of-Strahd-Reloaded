@@ -275,6 +275,16 @@ This room is largely as described in <span class="citation">Servants’ Room (p.
 
 The basket contains a man's laundry, including fine suits, tunics, neckties, pants, and stockings. However, a single, much-smaller woman's slip appears to have been mixed in with the rest.
 
+If the players decide to search the room, they can find a letter sticking out from underneath one of the mattresses (DC 12 Perception check). The front of the note appears to be a shopping list, but the back reads the following in rough handwriting:
+
+<div class="description">
+<p>Lyssa,</p>
+<p>I hope you find this as soon as you get back from the market. I know we've talked of leaving before, but we have to get out, tomorrow. After what happened to Klara, it's not safe for us to stick around.</p>
+<p>And listen, I don't want you to be mad at me, but you know how they like to climb up to the attic after their parties to do Morninglord knows what? I followed them the other night, and they all went into the storage room and then disappeared. I was too sensible to follow them, but I heard muffled screaming which seemed to come from below.</p>
+<p>I'm starting to have doubts that Tomas really left, or that he's down there somewhere instead. My love, we have to get away before we get caught up in whatever is going on.</p>
+<p>Anya</p>
+</div>
+
 ### Conservatory
 <span class="citation"><em>This scene takes place in Appendix B: Area 10.</em></span>
 
@@ -406,7 +416,7 @@ This room is largely as described in <span class="citation">Master Suite (p. 214
 
 <div class="description">
 <p>You enter a dusty, cobweb-filled master bedroom with burgundy drapes covering the windows. A four-poster bed with embroidered curtains and tattered gossamer veils stands against the center wall.</p>
-<p>A door facing the foot of the bed has a faded full-length mirror mounted on it. In the right-hand corner of the room stands a small wooden door, its surface half-rotted by age. A tarnished metal button is set into the wall beside it.</p>
+<p>A door facing the foot of the bed has a faded full-length mirror mounted on it. In the right-hand corner of the room stands a small wooden door, its surface half-rotted by age.</p>
 <p>A rotting tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait of the man and woman from the first-floor portrait hanging above it. A web-filled parlor in the southwest corner contains two chairs and a table holding several items, as well as a door with a dark, dirt-flecked window. </p>
 <p>The room also contains a matching pair of wardrobes, a padded chair, and a vanity with a wood-framed mirror and a silver jewelry box. A soft amber glow emanates from beneath the jewelry box's lid.</p>
 </div>
@@ -426,6 +436,19 @@ A roll of parchment is half-buried in the grain beside the shard. If unfurled, i
 </div>
 
 See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more information about the amber shard.
+
+***The table.*** Two chairs are standing next to the table. Resting on the dusty table cloth are an empty wine glass and a pen on top of an unfinished letter.
+
+<div class="description">
+<p>Dearest Minodora,</p>
+<p>I hope this letter finds you well.</p>
+<p>As I'm sure you're pleased to hear, our parties are in full swing again. After our dear patron has turned his back on us, we've indulged ourselves with some truly fine guests at our latest gathering; what a shame you had to miss it. We've had the distinct pleasure of having some strangers from far out of town grace our dinner table, and they were such delicious company!</p>
+<p>As I'm sure you'd agree, we're doing just as well without His Lordship's sponsorship. I'd even go so far as to say that his petty refusal to engage with us more directly stems from fear of our power. Well he shall see that he was right to...</p>
+</div>
+
+The letter breaks off mid-sentence. Some sprinkles of red dot the paper; wine, or something more sinister?
+
+Next to the letter sit three gold rings, each worth 25 GP.
 
 ***The Balcony.*** A player that exits the bedroom onto the balcony sees only a wall of fleshy tendrils encompassing the exterior of the house. The tendrils are as described in [[#Main Hall]].
 ### Storage Room
@@ -875,6 +898,19 @@ Folded inside the foot locker, on top of its other contents, is a **boneless** (
 > * ***Six Players.*** Increase the boneless’ hit points to 31. Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.
 
 No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
+
+The foot locker contains the following:
+- 4 [[Potion of Healing]]
+- 1 [[Flask of Alchemist's Fire]]
+- 1 Bullseye Lantern
+- 1 Set of Thieves Tools
+- 1 Bow (short or long)
+- 1 Great axe
+- [[Cloak of Protection]]
+- [[Cloak of Billowing]]
+- [[Circlet of Blasting]]
+- [[Hat of Vermin]]
+- [[Sentinel Shield]]
 ## A2g. The Dungeon
 ### Reliquary
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
