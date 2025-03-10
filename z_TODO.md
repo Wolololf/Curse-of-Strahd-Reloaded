@@ -20,6 +20,9 @@ DM prep:
 	- Master bedroom loot
 
 Session Zero
+- Style intro
+	- Gothic horror, really evil villains and cool boss fights, lots of RP and mysteries
+	- Digital battle maps
 - Tie-ins and relics
 	- Vistani ancestry (connection to Vistani and Es, scarf relic)
 	- Descendant of Silver Dragon
@@ -28,7 +31,9 @@ Session Zero
 	- Former student of Van Richten
 	- Lost family in werewolf attack (enemy of Kirill)
 	- Sent by Lathander to look for Ithuriel (feather of Ithuriel relic)
-	- Amber shard inherited or found
+	- Amber shard inherited or found, or received by a powerful helper in an hour of need
+	- Wolfir tooth as good luck charm (druid or ranger), recognised by druids, werewolves and in Soldav
+	- Foundling after a wolf attack in the forest, lost family in the woods (human female only), replaces Ireena as Izek's sister
 	- Ireena stand-in smuggled out of Barovia
 - Set expectations
 	- Decide soft and hard limits of topics

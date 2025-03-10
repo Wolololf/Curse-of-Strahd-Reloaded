@@ -40,7 +40,7 @@
 <strong>Languages</strong> Understands the languages it knew in life but can't speak<br>
 <strong>Challenge</strong> 1/4<br>
 <h3>Traits</h3>
-<p><strong><em>Undead Fortitude</em></strong> If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.</p>
+<p><strong><em>Undead Fortitude. (1/day)</em></strong> If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, or if the damage taken is 15 or more.</p>
 <h3>Actions</h3>
 <p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d8 + 1) bludgeoning damage.</p>
 </div>

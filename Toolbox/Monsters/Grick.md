@@ -48,4 +48,4 @@
 
 [[Grick.png]]
 
-HP used to be 27 (6d8) but everything else stayed. This seems quite strong for CR 2, so maybe take some HP and some damage away.
+Reduce HP to 22, reduce Tentacles to 7 (2d6) and Beak to 4 (1d8)

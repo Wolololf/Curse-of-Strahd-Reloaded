@@ -1,7 +1,52 @@
 {
-  "players": [],
-  "parties": [],
-  "defaultParty": null,
+  "players": [
+    {
+      "note": "Jack's Character",
+      "path": "z_DM Space/Character Sheets/Jack's Character.md",
+      "name": "Jack",
+      "level": 2,
+      "hp": 20,
+      "ac": "15",
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "name": "Navin",
+      "level": 2,
+      "hp": 20,
+      "ac": "15",
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "name": "Gaja",
+      "level": 2,
+      "hp": 20,
+      "ac": "15",
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "name": "Ori",
+      "level": 2,
+      "hp": 20,
+      "ac": "15",
+      "modifier": 2,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Default",
+      "players": [
+        "Jack",
+        "Navin",
+        "Gaja",
+        "Ori"
+      ]
+    }
+  ],
+  "defaultParty": "Default",
   "statuses": [
     {
       "name": "Blinded",
@@ -98,18 +143,139 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Jack",
+        "initiative": 18,
+        "static": false,
+        "modifier": 2,
+        "hp": 20,
+        "currentMaxHP": 20,
+        "ac": "15",
+        "currentAC": "15",
+        "note": "Jack's Character",
+        "path": "z_DM Space/Character Sheets/Jack's Character.md",
+        "id": "ID_8aa84a980848",
+        "currentHP": 20,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Navin",
+        "initiative": 14,
+        "static": false,
+        "modifier": 2,
+        "hp": 20,
+        "currentMaxHP": 20,
+        "ac": "15",
+        "currentAC": "15",
+        "id": "ID_c8fb9ae80bba",
+        "currentHP": 20,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Gaja",
+        "initiative": 4,
+        "static": false,
+        "modifier": 2,
+        "hp": 20,
+        "currentMaxHP": 20,
+        "ac": "15",
+        "currentAC": "15",
+        "id": "ID_eaebfae928f8",
+        "currentHP": 20,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Ori",
+        "initiative": 3,
+        "static": false,
+        "modifier": 2,
+        "hp": 20,
+        "currentMaxHP": 20,
+        "ac": "15",
+        "currentAC": "15",
+        "id": "ID_59bb4a1bd9fb",
+        "currentHP": 20,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Flesh Mound",
+        "initiative": 5,
+        "static": false,
+        "modifier": -1,
+        "hp": 75,
+        "currentMaxHP": 75,
+        "ac": 15,
+        "currentAC": 15,
+        "id": "ID_6a486bcaca3a",
+        "currentHP": 75,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      },
+      {
+        "name": "Walter",
+        "initiative": 1,
+        "static": false,
+        "modifier": -1,
+        "hp": 75,
+        "currentMaxHP": 75,
+        "ac": 15,
+        "currentAC": 15,
+        "id": "ID_890ac90ba80b",
+        "currentHP": 75,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      }
+    ],
     "state": false,
-    "name": null,
+    "name": "Encounter",
     "round": 1,
     "logFile": "",
     "rollHP": false
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
-  "beginnerTips": true,
-  "displayDifficulty": true,
+  "beginnerTips": false,
+  "displayDifficulty": false,
   "encounters": {},
   "warnedAboutImports": false,
   "openState": {
@@ -130,9 +296,115 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
-    "showXP": true,
-    "sidebarIcon": true
+    "showParty": false,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        },
+        {
+          "type": 1,
+          "text": "Name",
+          "fields": [
+            "name"
+          ],
+          "options": "",
+          "id": "ID_DEFAULT_NAME_FILTER",
+          "derive": false
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "rollPlayerInitiatives": 0
 }
