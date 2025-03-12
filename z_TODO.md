@@ -1,10 +1,12 @@
+House rules:
 DM prep:
 - Re-read death house again
 - Campaign intro
-	- Gothic horror: Gloomy atmosphere, vampires, werewolves and haunted castles (plus a dragon, lots of witches and some demons)
-	- Long running, really evil nemesis
+	- Gothic horror: Gloomy atmosphere, vampires, werewolves and haunted castles (plus a dragon, lots of witches and some demons), strong sense of place
+	- Long running, really evil nemesis and mini-bosses
 	- Large cast of characters to befriend or fight
 	- Connected story, not a set of one-offs
+	- Strong intro, first two chapters aren't just rescuing kittens
 - Tooling intro
 	- Digital battle maps
 	- Hopefully all materials just on the phone, so could still play at the pub if need be
@@ -25,8 +27,15 @@ Session Zero
 - Set expectations
 	- Decide soft and hard limits of topics
 	- Acting out characters vs being mean
+- Character creation
+	- No rolling, use point buy or standard array
 
 Death house
+- Add door to lowest level, locked with key in cult leader's chest, to ensure players find loot
+- Fallback options for players failing or falling unconscious
+	- Modified spectre stat block for Rose and Thorn, including healing
+	- Modified spectre stat block for Klara
+	- Norganas intervention, vague design for first interaction and offer
 - Conservatory
 	- Come up with melody for Waltz for Klara
 - Large guest bedroom changes
