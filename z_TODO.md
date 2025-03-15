@@ -1,4 +1,3 @@
-House rules:
 DM prep:
 - Re-read death house again
 - Campaign intro
@@ -12,39 +11,55 @@ DM prep:
 	- Hopefully all materials just on the phone, so could still play at the pub if need be
 
 Session Zero
+- Character ideas:
+	- Ori: Wood elf beast master ranger or circle of the land druid
+	- Gaja:
+		- Tiefling Fiend/Hexblade warlock?
+		- Tiefling Bard, Sword or Lore college?
+		- Wildfire druid?
+		- Swashbuckler Rogue?
+		- Arcane archer?
+	- Jack: Paladin or Cleric
+	- Navin:
+		- Rune Knight / Samurai in search of glory
+		- Wild magic barbarian/sorcerer with a drinking problem
+		- Drow Twilight Cleric (but actually a Dusk Elf)
+		- Grave cleric monster hunter (Esmeralda connection?)
+		- Dusk Elf Shadow Sorcerer (descendant of Patrina)
+		- Anarchist spore druid
+		- Divine soul Aasimar
+		- Swashbuckling rogue
+	- Fallback if no magic wielders? Ireena as Light Cleric caster? Viktor as a full battle mage?
 - Tie-ins and relics
 	- Vistani ancestry (connection to Vistani and Es, scarf relic)
 	- Descendant of Silver Dragon
 	- Offshoot of Silver Dragon order
 		- Both have dragon scale relic
-	- Former student of Van Richten
+	- Former student of Van Richten, or hunted with Esmeralda
 	- Lost family in werewolf attack (enemy of Kirill)
+	- Offshoot of the cult of Mother Night
+	- Seemingly a Drow, but really in fact a Dusk Elf whose family escaped the slaughter
 	- Sent by Lathander to look for Ithuriel (feather of Ithuriel relic)
 	- Amber shard inherited or found, or received by a powerful helper in an hour of need
 	- Wolfir tooth as good luck charm (druid or ranger), recognised by druids, werewolves and in Soldav
+	- Coin of Strahd has always been lucky charm, stolen from a nobleman's mansion, and a clue to find more wealth wherever it came from
+	- Sunrise medallion as an arcane focus / holy symbol for good-aligned casters and light/life clerics/paladins
+	- Stone crest as an arcane focus for nature casters or forest-dwelling species
+	- Broken blade for Dusk Elf characters
+	- Raven's feather???
+	- Crumpled page???
+	- Tattered banner???
 	- Foundling after a wolf attack in the forest, lost family in the woods (human female only), replaces Ireena as Izek's sister
 	- Ireena stand-in smuggled out of Barovia
 - Set expectations
 	- Decide soft and hard limits of topics
 	- Acting out characters vs being mean
-- Character creation
-	- No rolling, use point buy or standard array
 
 Death house
-- Add door to lowest level, locked with key in cult leader's chest, to ensure players find loot
 - Fallback options for players failing or falling unconscious
 	- Modified spectre stat block for Rose and Thorn, including healing
 	- Modified spectre stat block for Klara
 	- Norganas intervention, vague design for first interaction and offer
-- Conservatory
-	- Come up with melody for Waltz for Klara
-- Large guest bedroom changes
-	- Theren's book (excerpts for start, middle, end)
-		- Author: Theramenes of Amn
-		- Start: Dinner party with Waterdeep politicians and crime bosses, fairly dry reading, accounts of conversations and outfits
-		- Middle: A fight with some orcs, author recalls heroic deeds of magic
-		- End: Lending aid to village troubled by werewolves, followed them into mists, killed two in a fight using silver, but were injured and had to retreat, found lovely country mansion with friendly hosts who chased off their pursuers
-	- Signs of a scuffle
 - Cultist quarters
 	- Log book description changes to mention different races
 		- Stocky short one suffered in silence

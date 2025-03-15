@@ -37,3 +37,5 @@ Additional prompts:
 3. What would your character do with lots of money?
 
 "Xanathar's Guide to Everything" for per-class prompts
+
+Party connections: At least two pairs of party members must know each other somehow

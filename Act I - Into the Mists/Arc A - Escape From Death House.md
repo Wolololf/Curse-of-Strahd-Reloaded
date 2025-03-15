@@ -30,8 +30,9 @@ If the players kill the monster, the house begins to collapse, forcing them to f
 
 <div class="description">
 <p>It’s the evening before Highharvesttide, and all the world is coming to Daggerford to celebrate. This includes you, and the caravan of merchants you've been hired to guard. They're hoping to make some good money off the festival, and you're hoping to make good money off the merchants.</p>
-<p>You've been on the road for two days, having travelled from Waterdeep. You've been lucky with the weather, and even though it's autumn, there hasn't been much rain so far, so it's been easy going. Now, however, the mists have started creeping in, and it looks like you'll get a bit of rain tonight.</p>
-<p>The head of the guards has already stopped by to let you know that you're not on guard duty tonight since you've done the shift last night, so you must be exhausted. He mentioned that this part of the road is the rough bit: Locals have been complaining of cattle going missing, and there's talk of some travellers disappearing as well. Rumour is that werewolves are to blame, but surely not this close to civilisation?</p>
+<p>The caravan that has hired you heard some concerning news about the road: Locals have been complaining of cattle going missing, and there's talk of some travellers disappearing as well. Rumour is that werewolves are to blame, but surely not this close to civilisation?</p>
+<p>You've been on the road for two days, having travelled from Waterdeep. It's been an uneventful trip. Your wagon is number 4, near the back of the caravan. The merchant is a dour fellow called Isebald, more of an accountant than a salesperson, but his driver, Hariwar, is good company, a font of bawdy stories and bawdier songs.</p>
+<p>You've been lucky with the weather, and even though it's autumn, there hasn't been much rain so far, so it's been easy going. Now, however, the mists have started creeping in, and it looks like you'll get a bit of rain tonight. Gendal, the head of the guards has already stopped by to let you know that you're not on guard duty tonight since you've done the shift last night, so you must be exhausted.</p>
 <p>As you're preparing dinner, and as you huddle closer to the campfire for warmth, trying to keep the mists and damp out, bracing for the rain to come, you take a look around you at your fellow guards.</p>
 </div>
 
@@ -615,7 +616,38 @@ A player inspecting the remains feels a cold breath on their shoulder and the un
 ### Guest Bedroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 19.</em></span>
 
-This room is as described in <span class="citation">Spare Bedroom (p. 215)</span>.
+This room is as described in <span class="citation">Spare Bedroom (p. 215)</span>, except there are two beds instead of one. Add the following:
+
+<div class="description">
+<p>Two bedrolls are laid out near the stove, the covers rumpled and disordered. The stove has fallen over on its side, and some of the furniture appears to have been pushed to the side.</p>
+</div>
+
+Investigation reveals that a scuffle broke out in this room:
+- Some blood stains on one of the bed rolls.
+- The rocking chair is missing a leg and another one is cracked.
+- A crossbow bolt is embedded in a wall next to the door at head height.
+
+This is the room the other party of adventurers rested in when the cultists ambushed them, overwhelmed them and imprisoned them downstairs.
+
+In the confusion, the wizard's journal slipped underneath one of the beds where it was missed by the cultists. A player who finds and reads it discovers that this appears to be the travel journal of a Theramenes of Amn. If they decide to skim it, they find the following sections, starting at the beginning, which describes a high-society dinner in Waterdeep:
+
+<div class="description">
+<p>...at which point the mayor's second cousin, Lord Wildebard, entered, wearing his usual costume of a fine blue vest over a neatly pressed white shirt and striped blue-grey trousers. He still hasn't given up his newest affectation, a rather dashing coat of pale blue that he can cause to billow dramatically at will. Apparently it is an import of rather grand extravagance, but one wonders if magical talent on the one hand, and excessive wealth on the other, couldn't be put to better use than this. On his arm, he wore a young gent with more than a drop of elven blood in him, who I know for a fact owes a debt to the Zentharim; another affectation, a sign of involvement with the underworld, or a display of utter cluelessness? I shall endeavour to find out. I have to admit that his newest conquest is indeed rather dashing, so at least the investigation shall be delightful.</p>
+</div>
+
+This section describes an encounter with some orcs.
+
+<div class="description">
+<p>...and speared him right through the chest. The orc tumbled over, as I quickly leapt into the action to assist my shadowy acquaintance. Bolts of finely crafted magic soared across the battlefield to impale three witless assailants, putting them down for good. The last two struggled on, one of them a prime specimen, huge across the chest and bicep, but with not enough spark behind the eyes to light dry tinder. One of my noble companions, of great spirit but a distinct lack of skill with any bladed weapon, proved me right yet again that the mystic arts truly are superior to the martial, when they swung at the lesser orc and flatly missed him. The giant brute let out an impressive bellow and got ready to charge...</p>
+</div>
+
+The final section is the last entry in the book:
+
+<div class="description">
+<p>..as we continued our tactical retreat through the dark, misty forests with the remnant of the lycanthropes fast on our heels. Having taken down half their pack, we had hoped the rest would disperse, but the remaining three kept up the chase. We were running low on silver bolts, and my magic was waning, but flight in an unknown land is a dangerous undertaking, especially where the pursuers have the advantage of home territory. Just as we were about to give up hope, we broke into a vast clearing with a breath taking mansion in its centre. A few servants were milling about, and as they saw us and heard the howl behind, they scrambled up the steps to the main building, with us following suit. As we reached the doorway, the lady of the estate gracefully allowed us entry, offering to give us shelter from these moon-cursed scourges. Her name is Elisabeth Durst, and her family is one of the foremost in this land which appears to be the domain of Barovia. A strikingly beautiful woman, age has</p>
+</div>
+
+The page breaks off at this point where the author was interrupted by the arrival of the cultists. A few blotches of ink stain the final page.
 ### Secret Stairs
 <span class="citation"><em>This scene takes place in Appendix B: Area 21.</em></span>
 
@@ -814,7 +846,18 @@ If the players continue down the corridor, read:
 This room is largely as described in <span class="citation">Stairs Down (p. 218)</span>. When the players approach this area, read:
 
 <div class="description">
-<p>A dark set of chiseled stone steps descends into darkness. It's clear that the origin of the muffled chanting you've been hearing lies below.</p>
+<p>A robust oak door blocks this passage. It's clear that the origin of the muffled chanting you've been hearing lies below. It doesn't appear to have a lock of any kind.</p>
+</div>
+
+The key is in the chest in <span class="citation">Cult Leader's Quarters</span>. This door is really just there as a fallback to ensure players go to the quarters and find the gear they need.
+
+If they're stumped, have one of the Barovian relics lead them to the chest.
+
+Once they have the keys, read:
+
+<div class="description">
+<p>As you approach the oak door, the key starts glowing and a lock materialises on the surface of the door, along with a door handle. As you turn the key, the door swings open with ease making mockery of its age.</p>
+<p>A dark set of chiselled stone steps descends into darkness. The chanting from below is loud enough now that you can almost make out the words.</p>
 </div>
 
 ### Darklord’s Shrine
@@ -911,6 +954,8 @@ The foot locker contains the following:
 - [[Circlet of Blasting]]
 - [[Hat of Vermin]]
 - [[Sentinel Shield]]
+
+The players also find the key to the dungeon in this chest.
 ## A2g. The Dungeon
 ### Reliquary
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
