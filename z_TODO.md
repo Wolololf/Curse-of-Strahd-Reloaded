@@ -2,9 +2,6 @@ DM prep:
 - Re-read death house again
 
 Session Zero
-- Set up character sheets
-- Send prompts for back stories
-	- Including class prompts
 - Figure put backstory tie-ins
 	- Ori
 		- Secret Dusk Elf
