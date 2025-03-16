@@ -1,5 +1,5 @@
 <div class="statblock">
-<h2>Name</h2>
+<h2>Zombie</h2>
 <em>Medium Undead, Neutral Evil</em>
 <hr>
 <strong>Armor Class</strong> 8

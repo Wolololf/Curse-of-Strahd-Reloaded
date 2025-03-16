@@ -1,35 +1,27 @@
 DM prep:
 - Re-read death house again
-- Campaign intro
-	- Gothic horror: Gloomy atmosphere, vampires, werewolves and haunted castles (plus a dragon, lots of witches and some demons), strong sense of place
-	- Long running, really evil nemesis and mini-bosses
-	- Large cast of characters to befriend or fight
-	- Connected story, not a set of one-offs
-	- Strong intro, first two chapters aren't just rescuing kittens
-- Tooling intro
-	- Digital battle maps
-	- Hopefully all materials just on the phone, so could still play at the pub if need be
 
 Session Zero
-- Character ideas:
-	- Ori: Wood elf beast master ranger or circle of the land druid
-	- Gaja:
-		- Tiefling Fiend/Hexblade warlock?
-		- Tiefling Bard, Sword or Lore college?
-		- Wildfire druid?
-		- Swashbuckler Rogue?
-		- Arcane archer?
-	- Jack: Paladin or Cleric
-	- Navin:
-		- Rune Knight / Samurai in search of glory
-		- Wild magic barbarian/sorcerer with a drinking problem
-		- Drow Twilight Cleric (but actually a Dusk Elf)
-		- Grave cleric monster hunter (Esmeralda connection?)
-		- Dusk Elf Shadow Sorcerer (descendant of Patrina)
-		- Anarchist spore druid
-		- Divine soul Aasimar
-		- Swashbuckling rogue
-	- Fallback if no magic wielders? Ireena as Light Cleric caster? Viktor as a full battle mage?
+- Set up character sheets
+- Send prompts for back stories
+	- Including class prompts
+- Figure put backstory tie-ins
+	- Ori
+		- Secret Dusk Elf
+		- Werewolf attack and collaboration with Esmeralda?
+	- Navin
+		- Tattoos from Vistani travellers, friend of Stanimir, vistani scarf as arm band
+		- Amber shard found on travels?
+		- Dragon scale heirloom, stories told of Argynvost's visit?
+	- Jack
+		- Broken blade of fascinating steel
+	- Gaja
+		- Amber shard for sure
+- Characters:
+	- Ori: Wood Elf Beastmaster Ranger
+	- Navin: Goliath Rune Knight
+	- Gaja: Tiefling Wildfire Druid
+	- Jack: Dwarf Wild Magic Sorcerer
 - Tie-ins and relics
 	- Vistani ancestry (connection to Vistani and Es, scarf relic)
 	- Descendant of Silver Dragon

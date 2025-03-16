@@ -1,5 +1,5 @@
 <div class="statblock">
-<h2>Name</h2>
+<h2>Animated Armour</h2>
 <em>Medium Construct, Unaligned</em>
 <hr>
 <strong>Armor Class</strong> 18 (natural armour)

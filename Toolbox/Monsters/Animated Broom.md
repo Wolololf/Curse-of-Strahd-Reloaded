@@ -1,5 +1,5 @@
 <div class="statblock">
-<h2>Name</h2>
+<h2>Animated Broom</h2>
 <em>Small Construct, Unaligned</em>
 <hr>
 <strong>Armor Class</strong> 15
