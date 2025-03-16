@@ -1,6 +1,9 @@
 DM prep:
 - Re-read death house again
 
+Layout:
+- Is ITS + fantasy stat blocks just broken due to readable-line-length?
+
 Session Zero
 - Figure put backstory tie-ins
 	- Ori

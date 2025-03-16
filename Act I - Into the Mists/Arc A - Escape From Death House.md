@@ -90,6 +90,7 @@ Read all players the following text:
 </div>
 If the players don't enter the house of their own accord, relate that the fog is closing in, and so are the howls and footsteps.
 
+[[DeathHouse.png]]
 ![[DeathHouse.png]]
 
 The entrance beyond the portico is otherwise as described in <span class="citation">Entrance (p. 212)</span>.
@@ -100,6 +101,7 @@ The main hall is largely as described in <span class="citation">Main Hall (p. 21
 
 Instead of a longsword, the portrait of the Durst family from <span class="citation">Upper Hall (p. 213)</span> now hangs above the fireplace. In the portrait, Thorn is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
+[[The Durst Family.png]]
 ![[The Durst Family.png]]
 <span class="credit">"The Durst Family" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -158,6 +160,8 @@ A player who opens any outside-facing door or curtain in Death House, or who exi
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
 
 If a player investigates the cloakroom adjoining the Main Hall, have them roll Perception. On 15+, they find 5 Electrum pieces in a hidden coat pocket. They bear the face of Strahd.
+
+[[Electrum Coin.png]]
 ![[Electrum Coin.png]]
 
 Regardless of outcome, they can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
@@ -178,6 +182,7 @@ for a celebration of the one-year anniversary of the Durst Mill.
 <em>Dinner and refreshments to be served.</em>
 </div>
 
+[[Durst Invitation.jpg]]
 ![[Durst Invitation.jpg]]
 <span class="credit">"Durst Invitation" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -540,6 +545,7 @@ The music box contains a rusted, bloodstained skinning knife as well as the key 
 
 The music box also contains two curled-up pieces of parchment. The first parchment shows a basic floor plan split into three rectangles labeled QUARTERS, SHRINE, and ALTAR. QUARTERS and SHRINE are connected at the top by a single line, and at the bottom by a double line, which connects both to ALTAR. The second parchment contains a list of unfamiliar names beneath the word RECRUITMENT.
 
+[[Death House Dungeon Map.png]]
 ![[Death House Dungeon Map.png]]
 <span class="credit">"Death House Dungeon Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -549,44 +555,7 @@ As the players exit the room, the rocking chair begins to rock softly and the mu
 
 This room is largely as described in **Children’s Room** (p. 215-16).
 
-![[Rose and Thorn.png]]
-<span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-> [!profile]+ **Profile: Rosavalda "Rose" Durst**
->
-> **Roleplaying Information**
-> ***Resonance.*** Rose should inspire sympathy for her insecurities and fears, endearment for her dedication to Thorn, and gratitude for her earnest efforts to aid the players.
->
-> ***Emotions.*** Rose most often feels apprehensive, curious, defiant, or bold.
->
-> ***Motivations.*** Rose wants to keep Thorn safe and comforted, and to allow their spirits to finally find peace.
->
-> ***Inspirations.*** When playing Rose, channel Eleven (*Stranger Things*), Matilda (*Matilda*), and Lucy Pevensie (*The Chronicles of Narnia*). 
->
-> **Character Information**
-> ***Persona.*** To the world, Rose is Thorn's fiercest protector. To those she trusts, Rose is a lost, fearful, and traumatized young girl.
->
-> ***Morale.*** In a fight, Rose would plead for peace, but flee with Thorn if that proved impossible.
->
-> ***Relationships.*** Rose is Thorn Durst's older sister, Walter Durst's half-sibling, and the eldest child of Elisabeth and Gustav Durst.
-
-> [!profile]+ **Profile: Thornboldt "Thorn" Durst**
->
-> **Roleplaying Information**
-> ***Resonance.*** Thorn should inspire sympathy for his shyness and fear, and endearment for his childlike joy.
->
-> ***Emotions.*** Thorn most often feels uncomfortable, joyous, anxious, or terrified.
->
-> ***Motivations.*** Thorn wants to keep close to Rose and find toys to play with.
->
-> ***Inspirations.*** When playing Thorn, channel Neville Longbottom (*Harry Potter*) and Piglet (*Winnie the Pooh*).
->
-> **Character Information**
-***Persona.*** To the world, Thorn is a frightened young boy who clings to his sister. To those he trusts, Thorn is  a quietly observant and insightful child.
->
-> ***Morale.*** In a fight, Thorn would cower and cry, pleading for Rose to rescue him.
->
-> ***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and Gustav Durst.
+![[Rosavalda (Rose) Durst & Thornboldt (Thorn) Durst]]
 
 In life, Rose was a budding wizard who discovered a small spellbook in her father’s library, and took great care in copying the _mending_, _light_, and _shocking grasp_ cantrips into her diary.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
