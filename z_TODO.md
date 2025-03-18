@@ -1,5 +1,6 @@
 DM prep:
 - Re-read death house again
+- Roll a Charlatan Fiend Warlock Infernal Tiefling for Gaja
 
 Layout:
 - Is ITS + fantasy stat blocks just broken due to readable-line-length?
@@ -59,6 +60,21 @@ Death house
 		- Human swore colourfully
 		- Skinny long-eared one screamed and prayed to his god but of course nobody answered
 	- Note down rewards
+- Rose and Thorn roleplay prep
+	- Voices and speech
+	- Magic
+	- Possession
+- Ending prep
+	- Farewell scene
+	- Wooden horse gift
+- Prep fallback if too much unexplored when time runs out
+	- Or just remove it because it will force a speed-run instead of exploration?
+	- Would resting more than once be so bad? Could be good environmental storytelling
+	- The added pressure of a time limit just removes exploration
+- Rewrite beginning so no equipment goes missing
+	- Also rewrite so players on guard duty, but fog becomes really thick and drowns out other noises, then players in new location
+	- Solves problem of long rests by making first session at night, end of day, and makes it spookier
+	- Also no chance people won't go to sleep
 
 Later on:
 - Dream pastries!
