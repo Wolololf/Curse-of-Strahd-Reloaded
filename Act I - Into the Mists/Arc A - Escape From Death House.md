@@ -12,7 +12,7 @@
 
 The players begin on the road to the town of Daggerford, having set out from Waterdeep a few days prior. They aim to get there for Highharvesttide, an annual feast and holiday celebration. They are travelling as hired guards (or for other reasons) with a merchants' caravan which needed added protection due to rumours of werewolves in the forests nearby. 
 
-When the players wake up, they realise that the caravan and some of their belongings (mainly weapons and gear) are gone, and they're finding themselves in a strange misty forest. As they try to find their way out of the forest, they stumble upon the Death House where the players take refuge from the worsening fog and creeping shadows.
+One night as they make camp, a heavy fog moves in, drowning out their surroundings, and when it lifts, they're finding themselves in a strange misty forest. As they try to find their way out of the forest, they stumble upon the Death House where the players take refuge from the worsening fog and creeping shadows.
 
 Once inside, the players are trapped and told that a monster will hunt them down once it awakens. They have six hours to find it first and either appease it with a suitable sacrifice—or kill it. As they explore the house, they come to learn the house’s lurid history, as well as the true identity of the beast that lurks beneath.
 
@@ -32,34 +32,16 @@ If the players kill the monster, the house begins to collapse, forcing them to f
 <p>It’s the evening before Highharvesttide, and all the world is coming to Daggerford to celebrate. This includes you, and the caravan of merchants you've been hired to guard. They're hoping to make some good money off the festival, and you're hoping to make good money off the merchants.</p>
 <p>The caravan that has hired you heard some concerning news about the road: Locals have been complaining of cattle going missing, and there's talk of some travellers disappearing as well. Rumour is that werewolves are to blame, but surely not this close to civilisation?</p>
 <p>You've been on the road for two days, having travelled from Waterdeep. It's been an uneventful trip. Your wagon is number 4, near the back of the caravan. The merchant is a dour fellow called Isebald, more of an accountant than a salesperson, but his driver, Hariwar, is good company, a font of bawdy stories and bawdier songs.</p>
-<p>You've been lucky with the weather, and even though it's autumn, there hasn't been much rain so far, so it's been easy going. Now, however, the mists have started creeping in, and it looks like you'll get a bit of rain tonight. Gendal, the head of the guards has already stopped by to let you know that you're not on guard duty tonight since you've done the shift last night, so you must be exhausted.</p>
+<p>You've been lucky with the weather, and even though it's autumn, there hasn't been much rain so far, so it's been easy going. Now, however, the weather is worsening, a few hours of rain have muddied the roads and travel has become a slog. As a heavy fog has started moving in, the caravan decided to stop early and dig in for the night. Gendal, the head of the guards, has already come by to let you know that you're off duty tonight and to get some rest.</p>
 <p>As you're preparing dinner, and as you huddle closer to the campfire for warmth, trying to keep the mists and damp out, bracing for the rain to come, you take a look around you at your fellow guards.</p>
 </div>
 
 Invite the players to describe each character's appearance and countenance, how they’ve positioned themselves, and how they’ve arranged their belongings.
 
-When the players have finished introducing themselves and they've decided to rest, have them all roll a Constitution saving throw, and whoever rolls lowest is the first to wake up to go for a leak. 
-
-<div class="description">
-<p>You wake up a couple of hours later, busting for a piss. The fog has really closed in now, it's thick in the air and the temperature has dropped. You make your way to the nearest bushes to relieve yourself.</p>
-</div>
-
-Roll perception, on less than 8 read the following, otherwise skip to [[#A1b A strange land]] below.
-
-<div class="description">
-<p>The fog is thick enough that you lose track of the other bedrolls, and trip over one of your fellow guardsmen.</p>
-</div>
-After the scuffle resolves itself, continue below.
+When the players have finished introducing themselves, mention that the fog is now thick enough that they can barely hear the other campfires any more. Come to think of it, they can't see them either.
 ## A1b. A strange land
 
-<div class="description">
-<p>As you peer through the mist, you struggle to make out the now-familiar shapes of the merchant's carts. What's more, you could have sworn the campfire was burning well before you went to sleep, but now there aren't even embers left. As you poke around to try to relight it, you realise that the campfire isn't there any more, no embers, no logs, no firepit.</p>
-</div>
-
 Have the players explore a little and realise that the carts and guards are all gone. As they investigate, also feed back to them that they don't recall being quite this far in the forest, practically surrounded by trees.
-
-If any player mentions reaching for their weapons, let them know that they can't find their weapon. In fact, a lot of their gear seems to have gone missing, the only things left appear to be their bedroll and their clothing, including armour, plus one important personal item the players mentioned in Session Zero (and any relics, if used).
-Give each player a chance to convince you of one additional item they should have on them (e.g. a dagger in the boot, thieves tools on a necklace, etc). This gives player a chance to get to know each other further.
 
 The players should get moving on their own, but in case they don't, read the following to get them on their way:
 <div class="description">
@@ -159,12 +141,12 @@ A player who opens any outside-facing door or curtain in Death House, or who exi
 ### Cloakroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
 
-If a player investigates the cloakroom adjoining the Main Hall, have them roll Perception. On 15+, they find 5 Electrum pieces in a hidden coat pocket. They bear the face of Strahd.
+If a player investigates the cloakroom adjoining the Main Hall, they find 5 Electrum pieces in one of the coat pockets. They bear the face of Strahd.
 
 [[Electrum Coin.png]]
 ![[Electrum Coin.png]]
 
-Regardless of outcome, they can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
+They also spot an envelope poking out of the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
 
 <div class="description" style="text-align:center; padding: 15px;">
 You are cordially invited to join 
@@ -251,9 +233,6 @@ A player who opens the pot finds it to contain a bottle of wine, a folded piece 
 * The parchment scroll reads: "For the light of my life. —G."
 
 If the players read the note, one of the knives in the kitchen flies off of its shelf and embeds itself in the opposite wall.
-
-If any player enters the pantry, one of the sacks of flour on the shelves tips over an spills cockroaches over any players in the room. On a DC 14 Nature check, a player may realise that the cockroaches move wrong (in unison, in repetitive motions). On a fail, roll a DC 15 Wisdom save or take 1d4 psychic damage as you're flailing to crush the roaches.
-Roll the same save again at the end of the round until you succeed, taking 1d4 damage every round, or until the player leaves the pantry, or another player snaps them out of it.
 ## A2c. The Second Floor
 ### Upper Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 6.</em></span>
@@ -261,8 +240,7 @@ Roll the same save again at the end of the round until you succeed, taking 1d4 d
 This room is largely as described in <span class="citation">Upper Hall (p. 213)</span>. When the players enter this room, read:
 
 <div class="description">
-<p>Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a longsword with a windmill cameo worked into the hilt.</p>
-<p>Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors between them are carved with images of dancing youths.</p>
+<p>Unlit oil lamps are mounted on the walls of this elegant hall. Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors between them are carved with images of dancing youths.</p>
 <p>The red marble staircase continues its upward spiral to a third floor, a cold draft whispering down from above.</p>
 <p>On the far end of the hall, a fireplace sheds dim light into the passage, catching a glint of steel where a longsword rests on leather fastenings above the hearth.
 </div>
@@ -286,7 +264,7 @@ If the players decide to search the room, they can find a letter sticking out fr
 <div class="description">
 <p>Lyssa,</p>
 <p>I hope you find this as soon as you get back from the market. I know we've talked of leaving before, but we have to get out, tomorrow. After what happened to Klara, it's not safe for us to stick around.</p>
-<p>And listen, I don't want you to be mad at me, but you know how they like to climb up to the attic after their parties to do Morninglord knows what? I followed them the other night, and they all went into the storage room and then disappeared. I was too sensible to follow them, but I heard muffled screaming which seemed to come from below.</p>
+<p>And listen, I don't want you to be mad at me, but you know how they like to climb up to the attic after their parties to do Morninglord knows what? I followed them the other night, and they all went into the storage room and then disappeared. It wasn't safe to follow them, but I heard muffled screaming which seemed to come from below.</p>
 <p>I'm starting to have doubts that Tomas really left, or that he's down there somewhere instead. My love, we have to get away before we get caught up in whatever is going on.</p>
 <p>Anya</p>
 </div>
@@ -412,10 +390,9 @@ When a player first approaches this door, read:
 
 <div class="description">
 <p>These grand doors loom tall, their dark wood frames enclosing a pair of dusty stained-glass windows. Each pane is etched with intricate designs that resemble windmills, their once-vibrant hues now faded and obscured beneath a thick veil of grime.</p>
-<p>Through the dusty haze that prickles your eyes, you catch a glimpse of something through the windows: a silhouette, standing mere inches behind the glass, lit from behind by a dim, amber glow. It's still and unmoving, but the mere sight of it seizes your muscles in a vice-like grip, your limbs refusing to obey your conscious mind.</p>
 <p>The air around you thickens, its temperature plummeting to a bone-chilling cold. Your breath fogs the glass panes, a delicate frost creeping across them as the house's distant creaks and whispers are swallowed by a heavy silence.</p>
-<p>The shadow behind the door is nearly formless—insubstantial—but its presence invokes a primordial dread deep within your marrow. Your heart beats faster, sweat beading on your forehead, pulse racing through your veins. Slowly, the silhouette begins to turn its head toward yours.</p>
-<p>And then, just as suddenly as it appeared, the shadow evaporates. The biting cold ebbs away, and the house's quiet sounds return once more.</p>
+<p>Through the dusty haze that prickles your eyes, you catch a glimpse of something through the windows: a silhouette, standing mere inches behind the glass, lit from behind by a dim, amber glow. It's still and unmoving, apparently unaware of your presence. Then, slowly, the silhouette begins to turn its head toward yours.</p>
+<p>And just as suddenly as it appeared, the shadow evaporates. The biting cold ebbs away, and the house's quiet sounds return once more.</p>
 </div>
 
 This room is largely as described in <span class="citation">Master Suite (p. 214)</span>. When the players enter this room, read:

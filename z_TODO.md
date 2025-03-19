@@ -65,16 +65,40 @@ Death house
 	- Magic
 	- Possession
 - Ending prep
-	- Farewell scene
+	- Rose and Thorn guard players
+	- Burial in the morning
+	- Rose has information about village and how to get there
 	- Wooden horse gift
-- Prep fallback if too much unexplored when time runs out
-	- Or just remove it because it will force a speed-run instead of exploration?
-	- Would resting more than once be so bad? Could be good environmental storytelling
-	- The added pressure of a time limit just removes exploration
+	- Farewell scene with ashes on the wind
+- Remove time pressure
 - Rewrite beginning so no equipment goes missing
 	- Also rewrite so players on guard duty, but fog becomes really thick and drowns out other noises, then players in new location
 	- Solves problem of long rests by making first session at night, end of day, and makes it spookier
 	- Also no chance people won't go to sleep
+
+Village of Barovia
+- Prep NPCs
+	- Ismark
+	- Bildrath
+	- Ireena
+	- Kolyan
+	- Parriwimple
+	- Rahadin
+	- Donavich
+	- Doru
+- Prep stat blocks
+	- Ghoul
+	- Wight
+	- Ismark
+	- Bildrath
+	- Parriwimple
+	- Rahadin
+	- Doru
+- Rewrites
+	- Desdrelda is Bildrath's sister, Parriwimple's mother, and Anton is Parriwimple's father
+		- If party takes Parriwimple along, chance to reunite with father
+	- Parriwimple as deaf-mute but strong and diligent, not simpleminded
+		- Chance for players with telepathy to interact with him
 
 Later on:
 - Dream pastries!
