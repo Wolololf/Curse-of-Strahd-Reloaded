@@ -49,4 +49,5 @@ The DC for stabilizing a creature reduced to 0 hit points in this way increases 
 
 [[Zombie.png]]
 
+Custom stats for first encounter: 130 HP, Slam necrotic damage 1d8, Virulent Miasma 7 (2d6) poison damage
 Custom stats for second encounter: 112 HP, Slam necrotic damage 1d6

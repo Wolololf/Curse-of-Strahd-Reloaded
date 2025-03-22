@@ -1,6 +1,5 @@
 DM prep:
 - Re-read death house again
-- Roll a Charlatan Fiend Warlock Infernal Tiefling for Gaja
 
 Layout:
 - Is ITS + fantasy stat blocks just broken due to readable-line-length?
@@ -16,8 +15,12 @@ Session Zero
 		- Dragon scale heirloom, stories told of Argynvost's visit?
 	- Jack
 		- Broken blade of fascinating steel
+		- Coin?
+		- Dragon scale heirloom?
 	- Gaja
 		- Amber shard for sure
+		- Coin?
+		- Wolfir tooth as good luck charm?
 - Characters:
 	- Ori: Wood Elf Beastmaster Ranger
 	- Navin: Goliath Rune Knight
@@ -49,10 +52,6 @@ Session Zero
 	- Acting out characters vs being mean
 
 Death house
-- Fallback options for players failing or falling unconscious
-	- Modified spectre stat block for Rose and Thorn, including healing
-	- Modified spectre stat block for Klara
-	- Norganas intervention, vague design for first interaction and offer
 - Cultist quarters
 	- Log book description changes to mention different races
 		- Stocky short one suffered in silence
@@ -64,17 +63,10 @@ Death house
 	- Voices and speech
 	- Magic
 	- Possession
-- Ending prep
-	- Rose and Thorn guard players
-	- Burial in the morning
-	- Rose has information about village and how to get there
-	- Wooden horse gift
-	- Farewell scene with ashes on the wind
-- Remove time pressure
-- Rewrite beginning so no equipment goes missing
-	- Also rewrite so players on guard duty, but fog becomes really thick and drowns out other noises, then players in new location
-	- Solves problem of long rests by making first session at night, end of day, and makes it spookier
-	- Also no chance people won't go to sleep
+- Fallback options for players failing or falling unconscious
+	- Modified spectre stat block for Rose and Thorn, including healing
+	- Modified spectre stat block for Klara
+	- Norganas intervention, vague design for first interaction and offer
 
 Village of Barovia
 - Prep NPCs
@@ -82,23 +74,13 @@ Village of Barovia
 	- Bildrath
 	- Ireena
 	- Kolyan
-	- Parriwimple
+	- Alenka
 	- Rahadin
 	- Donavich
 	- Doru
 - Prep stat blocks
-	- Ghoul
-	- Wight
-	- Ismark
-	- Bildrath
-	- Parriwimple
 	- Rahadin
 	- Doru
-- Rewrites
-	- Desdrelda is Bildrath's sister, Parriwimple's mother, and Anton is Parriwimple's father
-		- If party takes Parriwimple along, chance to reunite with father
-	- Parriwimple as deaf-mute but strong and diligent, not simpleminded
-		- Chance for players with telepathy to interact with him
 
 Later on:
 - Dream pastries!

@@ -23,4 +23,4 @@
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Stat block TBD
+[[Toolbox/Allies/Ismark Kolyanovich|Ismark Kolyanovich]]

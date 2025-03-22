@@ -21,6 +21,9 @@ When a creature rolls a critical hit, they roll damage as normally and then add 
 To speed up combat, roll hit and damage dice at the same time. This way, if the attack hits, you don't need to start collecting dice for the damage, but it's all done in one go.
 ## Improved healing potions
 Instead of rolling for healing potions, they always heal for the maximum amount. However, using a potion takes an action, not a bonus action as in the new rulebook. The aim here is to make healing potions reliable since they're expensive and a rare find, and to make a better replacement for lack of a dedicated healer. To avoid them being overpowered, healing potions need to take an action to consume; combined with the fixed healing amount, it's now a meaningful choice to forgo another action in favour of healing.
+## Communicating AC
+I'll share most monsters' AC with the group. It lets me ask players to check if they hit so they roll and compare against the AC. It's faster and teaches them the system so they feel more comfortable in combat.
+Also, most players try to figure out monsters' AC from observed rolls anyway. By giving them upfront, I hope I can actually reduce that metagaming. I'm usually not giving away too much either because characters should be able to roughly guess AC anyway based on seeing armour or lack thereof. I'll withhold AC if that's not the case, but it can be determined by Arcana or Nature checks for magical beings and animals respectively. Bosses and minibosses never reveal AC.
 ## Flanking to reduce AC
 As a counterweight to half, 3/4 and full cover, re-introduce flanking: A creature is flanked if it's adjacent to two creatures directly opposite. Flanking reduces the flanked creature's AC by 2. A third attacker at a right angle to the other two will reduce the AC further, to a total reduction of 5.
 

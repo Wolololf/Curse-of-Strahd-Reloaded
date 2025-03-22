@@ -191,7 +191,7 @@ Shortly after Ismark begins answering the players' questions, read:
 
 The man is Bildrath Cantemir, the owner of <span class="citation">Bildrath's Mercantile (p. 43)</span>. If any of the players appear interested in speaking with him further, he invites them to sit at his table instead to "hear the real story of this bloody land." "The wine's shit," he grunts, shoving a pitcher of wine across the table, "but so's everything else."
 
-![[Bildrath Cantemir]]
+![[Toolbox/NPCs/Bildrath Cantemir]]
 
 If asked about Bildrath's statement about "the last fools that trusted him," Ismark winces. "He's right to hate me," he says quietly. "I asked the other villagers to stay and defend our homes. I was arrogant and foolish—I didn't appreciate just how powerful the Devil and his creatures were." He closes his eyes. "Now dozens of my friends and neighbors are gone—and I'm still here."
 
@@ -200,8 +200,8 @@ Should one or more of the players join him, Bildrath can share the following inf
 * Just over three months ago, a pack of would-be "revolutionaries" marched off to Castle Ravenloft to "slay the vampire." Doru, the son of Father Donavich, the village priest, "filled their heads with fairy tales" of banishing the Mists and bringing the Sun back to Barovia.
 * None of the revolutionaries ever came back. A few days later, a dusk-skinned elf came to the village and announced that the village had ninety days to make peace with the gods before the lord of Castle Ravenloft—now awoken after a hundred years of slumber—exacted penance for their disobedience.
 * Some villagers left. Many others wanted to leave. However, Ismark delivered a resounding speech in the village square before the statue of Ismark the Great, promising the villagers that those who remained would stand and defend their homes. "The audacity of the bastard," Bildrath sneers. "Standing in front of his great-grandfather's statue like he was worth a *tenth* of him."
-* Bildrath wanted to leave—but his sister, Marta, and her husband, Dragomir, chose to stay with their son, Parriwimple, inspired by Ismark's words. Unwilling to leave his family, Bildrath stayed as well. "They figured they'd fight to defend what's theirs," he chokes out, blinking back tears. "Bloody *idiots* should've run, and never looked back."
-* Ninety days after the elf delivered his proclamation, the undead came, swarming in hordes dozens strong from the Svalich Wood. The villagers fought back, defending the streets with barricades, swords, and arrows. "But the dead kept coming," Bildrath croaks. "And Marta—" He falls silent. (Bildrath lost Marta and Dragomir in the attacks, and blames Ismark for his failure to protect them, which left Parriwimple—Bildrath's nephew—an orphan.)
+* Bildrath wanted to leave—but his sister, Marta, and her husband, Dragomir, chose to stay with their son, Parry, inspired by Ismark's words. Unwilling to leave his family, Bildrath stayed as well. "They figured they'd fight to defend what's theirs," he chokes out, blinking back tears. "Bloody *idiots* should've run, and never looked back."
+* Ninety days after the elf delivered his proclamation, the undead came, swarming in hordes dozens strong from the Svalich Wood. The villagers fought back, defending the streets with barricades, swords, and arrows. "But the dead kept coming," Bildrath croaks. "And Marta—" He falls silent. (Bildrath lost Marta and Dragomir in the attacks, and blames Ismark for his failure to protect them, which left Parry—Bildrath's nephew—an orphan.)
 
 When he's regained his composure, Bildrath warns the players that the village is doomed, and likely all of Barovia with it. "There's no sun to bring back," he spits. "No escape from the mists. This is Hell, now and for all eternity. The sooner you lot accept that, the better off you'll be."
 ### Mary's News
@@ -375,7 +375,7 @@ When the players are ready to depart, Ireena retrieves a wooden crate containing
 ![[Fire Bottle]]
 
 > [!abstract]+ **Visiting the Church**
-> Players who insist upon visiting <span class="citation">E5. Church (p. 45)</span> find it largely as described in [[#B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
+> Players who insist upon visiting <span class="citation">E5. Church (p. 45)</span> find it largely as described in [[#B5i. The Barovian Church]] below. However, Parry is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
 ## B5e. Bildrath’s Mercantile
 <span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
 
@@ -383,28 +383,28 @@ Should the players choose to visit it before proceeding to [[#B5f. The Eastern B
 
 If any players were kind to him in the tavern, he instead sells those players items at the normal price listed in the *Player's Handbook*—a special deal, for them only. If any players defended Ismark in the tavern, Bildrath glowers at them and instead sells those players items at five times the price listed in the _Player’s Handbook_, spitefully claiming them to be a “special deal" for friends of the town’s “great hero."
 
-During the players’ conversation with Bildrath, Parriwimple enters the room carrying a box of wares that Bildrath asked him to fetch. He is excitedly curious about the players’ presence, but Bildrath orders him to return to his bedroom in order to avoid “disturbing the customers."
+During the players’ conversation with Bildrath, Parry enters the room carrying a box of wares that Bildrath asked him to fetch. He is curious about the players but reserved, and doesn't engage them in conversation. Once he's done dropping off the boxes, he signals to Bildrath to ask if he's free to go back to the barricades.
 
-If Bildrath orders Parriwimple to remove the players from the store, Parriwimple attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
+If Bildrath orders Parry to remove the players from the store, Parry attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
 
-![[Parriwimple Cantemir]]
+![[Parpol (Parry) Cantemir]]
 ## B5f. The Eastern Barricade
 ### Preparing the Barricade
-Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
+Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parry, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
 
-When the players first encounter Parriwimple, read:
+When the players first encounter Parry, read:
 
 <div class="description">
 <p>A hulking figure stands at Bildrath’s side—a young man, tall and brawny. His shaggy brown hair falls messily across his face, and his crooked teeth glint in the grey light. Though muscles ripple beneath his tunic, there's a lightness and immaturity to his posture that belies his strength and size. He fidgets with the hem of his tunic as your eyes fall upon him.</p>
 </div>
 
-Bildrath greets the players warmly or coldly, depending on their interaction at the Blood of the Vine Tavern and (if they visited him there) Bildrath's Mercantile. Regardless of Bildrath’s disposition, Parriwimple is glad to meet new friends.
+Bildrath greets the players warmly or coldly, depending on their interaction at the Blood of the Vine Tavern and (if they visited him there) Bildrath's Mercantile. Regardless of Bildrath’s disposition, Parry is glad to meet new friends.
 
-![[Parriwimple Cantemir]]
+![[Parpol (Parry) Cantemir]]
 
 Bildrath is pleased to see the players’ delivery of *fire bottles*. He can inform the players that they have been assigned to defend the eastern barricade from any smaller bands of undead that might drift around the edges of the village rather than attacking from the north, south, or west.
 
-If any of the players treated him kindly at the Blood of the Vine Tavern or Bildrath's Mercantile, Bildrath instructs Parriwimple to present them with a crate containing two bags of ball bearings, two bags of caltrops, ten iron spikes, and three flasks of oil from his shop, to be used in preparing the barricade for the siege. (See <span class="citation">Adventuring Gear (Player’s Handbook, p. 148)</span> for more information regarding these items.) Bildrath also directs the players to a pair of ten-foot ladders nailed to one of the houses nearby, which can allow any ranged combatants to ascend to the house’s roof. Finally, Bildrath instructs Parriwimple to obey those players’ instructions as though they were his own.
+If any of the players treated him kindly at the Blood of the Vine Tavern or Bildrath's Mercantile, Bildrath instructs Parry to present them with a crate containing two bags of ball bearings, two bags of caltrops, ten iron spikes, and three flasks of oil from his shop, to be used in preparing the barricade for the siege. (See <span class="citation">Adventuring Gear (Player’s Handbook, p. 148)</span> for more information regarding these items.) Bildrath also directs the players to a pair of ten-foot ladders nailed to one of the houses nearby, which can allow any ranged combatants to ascend to the house’s roof. Finally, Bildrath instructs Parry to obey those players’ instructions as though they were his own.
 
 > [!info]+ **The Barricade**
 > The barricade the players have been assigned to defend is a thirty-foot-long, six-foot-tall assembly of tree logs, piled furniture, and nailed wooden planks. Each five-foot-long section of the barricade has AC 15, 10 hit points, and immunity to piercing, psychic, and poison damage. 
@@ -418,13 +418,13 @@ Dusk falls soon after the players complete their preparations. Read:
 <p>A blood-curdling howl pierces the night, followed by a second—and then a third. The cacophony of inhuman shrieks and moans grows louder, echoing across the basin from all directions as the distant forest seems to come alive.</p>
 </div>
 
-If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. Parriwimple nods in determination, clutching his spear closer to his chest.
+If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. Parry nods in determination, clutching his spear closer to his chest.
 
 > [!info]+ **A Moonless Night**
 > At night, torches mounted at ten-foot intervals along the barricade illuminate the surrounding area out to a distance of forty feet. On the night of the siege, thick cloud cover obscures the moonlight, preventing defenders without darkvision from seeing any approaching creatures in the darkness.
 
 > [!abstract]+ **Holding the Line**
-> If the zombies successfully break through the barricade, Parriwimple attempts to hold the choke point with his spear, though he’s grateful for any aid the players might provide.
+> If the zombies successfully break through the barricade, Parry attempts to hold the choke point with his spear, though he’s grateful for any aid the players might provide.
 
 > [!info]+ **Undead Fortitude**
 > Revise each **zombie** and **zombie plague spreader’s** ***undead fortitude*** feature to read as follows:
@@ -433,7 +433,7 @@ If he is present, Bildrath’s face grows grim, and he grips his crossbow tightl
 
   
 > [!combat]- **Balancing the Siege** 
-> Due to the wave mechanic, this combat encounter is a series of two consecutive **mild** combat encounters and a third **bloody** combat encounter against a party of five 3rd-level players, a CR 0 ally (Bildrath), and a CR 5 ally (Parriwimple), the first of which will consume approximately 15% of their total maximum hit points, the second of which will consume approximately 17% of their total maximum hit points, and the third of which will consume approximately 34% of their maximum hit points (for a total of 66% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> Due to the wave mechanic, this combat encounter is a series of two consecutive **mild** combat encounters and a third **bloody** combat encounter against a party of five 3rd-level players, a CR 0 ally (Bildrath), and a CR 5 ally (Parry), the first of which will consume approximately 15% of their total maximum hit points, the second of which will consume approximately 17% of their total maximum hit points, and the third of which will consume approximately 34% of their maximum hit points (for a total of 66% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the number of zombies in the first wave to 5. Remove the zombies in the second wave. Replace the wight in the third wave with a ghoul. 
 > * **Four Players**. Reduce the number of zombies in the first wave to five. Reduce the number of zombies in the second wave to one. Replace the wight in the third wave with three zombies. 
 > * **Six Players**. Increase the number of zombies in the first wave to seven. Increase the number of zombies in the second wave to three. Add one zombie to the third wave.
@@ -454,6 +454,8 @@ In combat, the zombies focus their attacks on the barricade, attempting to batte
 
 The zombies again attempt to batter down the barricade, while the ghouls attempt to climb over it using their claws.
 
+**Reinforcements.** At the beginning of the fifth round of combat after the first wave arrives, reinforcements arrive in the form of Korga (and Kereza) as needed. They will take up position on the rooftops.
+
 ***The Third Wave.*** At the beginning of the seventh round of combat after the first wave arrives, a **wight** and a **zombie plague spreader** <span class="citation">(<em>Van Richten’s Guide to Ravenloft</em>, p. 255)</span> approach the barricade. Read:
 
 <div class="description">
@@ -465,7 +467,7 @@ The zombies again attempt to batter down the barricade, while the ghouls attempt
 >
 > In addition, revise its ***virulent miasma*** action such that a Humanoid reduced to 0 hit points doesn’t automatically die, and instead only rises as a zombie if it dies before stabilizing or regaining hit points. The DC for stabilizing a creature reduced to 0 hit points in this way increases to 20.
 
-The plague spreader first approaches the players as closely as possible, then releases its ***virulent miasma***, attempting to hit as many creatures as possible. (If possible, aim to ensure that the miasma hits Bildrath, to make sure the players understand the nature of its attack. Neither Bildrath nor Parriwimple have seen or heard of a zombie plague spreader before, and both are ignorant of the virus it carries.) After the plague spreader uses its miasma, the red mist stops spilling from its mouth.
+The plague spreader first approaches the players as closely as possible, then releases its ***virulent miasma***, attempting to hit as many creatures as possible. (If possible, aim to ensure that the miasma hits Bildrath, to make sure the players understand the nature of its attack. Neither Bildrath nor Parry have seen or heard of a zombie plague spreader before, and both are ignorant of the virus it carries.) After the plague spreader uses its miasma, the red mist stops spilling from its mouth.
 
 Meanwhile, the wight attacks from the darkness beyond the torches’ light, making ***longbow*** attacks from 60 feet away. If the players engage the plague spreader in melee combat or reduce it to 90 hit points or fewer, the wight draws its ***longsword*** and engages the players directly.
 ## B5g. The Western Barricade
@@ -540,7 +542,7 @@ The players can notice that any other Barovians within ten feet of Rahadin appea
 
 Upon approaching Ismark, Rahadin inspects him briefly, then states coldly: “Please accept my congratulations on your new position—and my condolences on your loss." Unless obstructed, he then turns his horse around and departs the village, once more trailed by the twelve **zombies**.
 
-Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after Rahadin departs, Ismark appears to process the weight of Rahadin’s words, releases a bellowing, wordless cry, and runs for the burgomaster’s mansion. (If Parriwimple is present, he urges the players to follow Ismark.)
+Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after Rahadin departs, Ismark appears to process the weight of Rahadin’s words, releases a bellowing, wordless cry, and runs for the burgomaster’s mansion. (If Parry is present, he urges the players to follow Ismark.)
 
 > [!abstract]+ **The Players Challenge Rahadin**
 > Rahadin takes little interest in the players. If challenged, he states merely that the siege was “the will of Strahd," and informs the players that it is “not for them to question the actions of their betters." If asked his identity, he shares only that he is Rahadin, chamberlain of Castle Ravenloft, and a humble servant of Strahd von Zarovich.
@@ -751,27 +753,20 @@ The players have one round to kill the rat as it scurries toward a large hole in
 ## B5i. The Barovian Church
 <span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
 
-When the players arrive at the church with the burgomaster’s body, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parriwimple is still alive, read the following:
+When the players arrive at the church with the burgomaster’s body, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parry is still alive, read the following:
 
 <div class="description">
-<p>As Ismark's knock echoes through the cold air, a voice rings out from the darkened street: "He won't come out."</p>
-<p>A hulking silhouette steps forward from the mist—Parriwimple.</p>
+<p>You hear heavy footsteps behind you. As you turn, a hulking silhouette steps forward from the mist—Parry.</p>
 </div>
 
 If Bildrath died in the siege, add:
 
 <div class="description">
-<p>Parriwimple's clothes are still disheveled and bloodstained, and his cheeks are blotchy and red.</p>
+<p>Parry's clothes are still disheveled and bloodstained, and his cheeks are blotchy and red.</p>
 </div>
 
-Parriwimple, who is out for a walk ("It helps me think," he mumbles, if asked), can share the following information if asked:
-
-* Father Donavich used to be a kind and friendly man, always ready to share a word of wisdom or a warm crabapple pie with visitors. 
-* Ever since the siege started, however, Donavich shut himself inside the church and turned away visitors more often than not. When Parriwimple last saw him two days ago, Donavich looked like he hadn’t slept or bathed in almost a week.
-* Father Donavich hasn’t worn his holy symbol (a bronze sunburst) since the rebellion, which Parriwimple considers odd. (Parriwimple always loved how the light would glint off of its surface, and adored hearing Donavich’s son, Doru, tell stories of how the sun once shone in Barovia.)
-* Parriwimple misses Doru, who left to lead the rebellion against Strahd three months ago alongside the stranger, Alanik. (Parriwimple also misses Alanik’s pet monkey, which he loved to play with.) Despite his uncle telling him that Doru died at Castle Ravenloft, Parriwimple hopes that he somehow survived.
-
-Parriwimple won’t accompany the players inside of the church, but wishes them well and invites them to visit him at Bildrath’s Mercantile before departing. 
+Parry, who is either out for a walk to get away from the bloodshed, or is grieving Bildrath's death and is looking for consolation from Donavich, indicates that he hasn't seen him in about two days, and that he's shut himself into the church.
+Parry will follow the players into the church if they invite him along, or returns to the shop otherwise.
 ### Inside the Church
 This area is largely as described in <span class="citation">Church (p. 45)</span>. However, modify the descriptive text for <span class="citation">E5a. Hall (p. 45)</span> to remove Doru’s scream: 
 
