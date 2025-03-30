@@ -2,26 +2,24 @@
 >
 > **Roleplaying Information**
 > ***Quote.*** TBD
-> 
-> ***Resonance.*** TBD
 >
-> ***Emotions.*** TBD
+> ***Mannerisms.*** TBD
 >
-> ***Motivations.*** TBD
+> ***Speech.*** TBD
+>
+> ***Traits and attitude.*** TBD
 >
 > ***Inspirations.*** TBD
 >
 > **Character Information**
 > ***Appearance.*** TBD
 >
-> ***Persona.*** TBD
+> ***Background.*** TBD
 >
-> ***Morale.*** TBD
+> ***Motivations.*** TBD
 >
 > ***Relationships.*** TBD
 >
-> ***Mannerisms.*** TBD
->
-> ***Speech.*** TBD
+> ***Key info.*** TBD
 
 ![[]]
