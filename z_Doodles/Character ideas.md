@@ -17,9 +17,23 @@ Valyas Hillbloom
 - Archfey Warlock
 	- As a child, struck a deal with an ambitious young fey noble in exchange for a kitten
 	- Fey thought he was a fullgrown halfling
-	- 12 years later, cat died, so Valyas sets out to revive it
-	- Fey promises revival in exchange for service
-	- Eventual resurrection of cat as spirit familiar?
+	- "Cat" is sphinx of wonder familiar
+	- Now of age, left home to see the world and carry out favours for his patron
+- Spells
+	- Cantrips
+		- Eldritch Blast
+		- Minor Illusion
+		- Mage Hand
+	- 1st
+		- Hex
+		- Tasha's Hideous Laughter
+	- 2nd
+		- Mind Spike
+		- Suggestion
+- Invocations
+	- Pact of the chain: Sphinx
+	- Agonising Blast
+	- Armour of Shadows
 
 Kaylinn Westwood
 - Female Clint Eastwood gone bad, anarchist revolutionary who believes its time for the empires to fall for something new to rise

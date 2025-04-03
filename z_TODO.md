@@ -1,6 +1,8 @@
 DM prep:
 - Re-read death house again
 - Wrap up death house prep
+	- Add encounter with wolves in the forest if players don't move, but potentially remove/rebalance dungeon encounter in exchange
+	- Logbook
 - Review Xanathar's minor magic item list
 
 Session Zero
