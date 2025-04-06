@@ -45,9 +45,14 @@ Have the players explore a little and realise that the carts and guards are all 
 
 The players should get moving on their own, but in case they don't, read the following to get them on their way:
 <div class="description">
-<p>The forest appears eerily silent, every sound seems muffled and far away. And yet you notice the soft sound of rapid, rushing footsteps not too far off. As you turn to look in the direction of the sound, you see a humanoid shape with a strange gait leap behind a tree before you can get a good look at it. There, again, another sound of something moving through the grass, another shape in the distance, not moving straight towards you, but closer nonetheless.</p>
+<p>The forest appears eerily silent, every sound seems muffled and far away. And yet you notice the soft sound of rapid, rushing footsteps not too far off. As you turn to look in the direction of the sound, you see a shape leap behind a tree before you can get a good look at it. There, again, another sound of something moving through the grass, another shape in the distance, not moving straight towards you, but closer nonetheless.</p>
 <p>As you try to keep track of them, you hear a howl in the distance, in the same direction as the moving shapes.</p>
 </div>
+
+If the players do not start moving away from the shapes, narrate the howls seeming closer than before, and a DC 15 Perception check reveals eyes flashing in the dark.
+If after a few minutes, the players still remain, start the encounter with wolves: [[Encounter - Campfire]].
+At the start of the third turn, or when one of the wolves has died, introduce four more wolves, two from the north-east and two from the south-east. On the fifth turn, or if half of the wolves are defeated, introduce two more wolves and two dire wolves in the middle.
+
 Once the players are on the move, they inevitable burst into a clearing where the mists part to reveal an old-fashioned mansion.
 
 This is **Death House.**
@@ -261,14 +266,8 @@ The basket contains a man's laundry, including fine suits, tunics, neckties, pan
 
 If the players decide to search the room, they can find a letter sticking out from underneath one of the mattresses (DC 12 Perception check). The front of the note appears to be a shopping list, but the back reads the following in rough handwriting:
 
-<div class="description">
-<p>Lyssa,</p>
-<p>I hope you find this as soon as you get back from the market. I know we've talked of leaving before, but we have to get out, tomorrow. After what happened to Klara, it's not safe for us to stick around.</p>
-<p>And listen, I don't want you to be mad at me, but you know how they like to climb up to the attic after their parties to do Morninglord knows what? I followed them the other night, and they all went into the storage room and then disappeared. It wasn't safe to follow them, but I heard muffled screaming which seemed to come from below.</p>
-<p>I'm starting to have doubts that Tomas really left, or that he's down there somewhere instead. My love, we have to get away before we get caught up in whatever is going on.</p>
-<p>Anya</p>
-</div>
-
+[[LyssasLetter.png]]
+![[LyssasLetter.png]]
 ### Conservatory
 <span class="citation"><em>This scene takes place in Appendix B: Area 10.</em></span>
 
@@ -308,14 +307,8 @@ This room is largely as described in <span class="citation">Library (p. 213-14)<
 
 ***The Desk.*** A handwritten note sits atop the desk. It reads:
 
-<div class="description">
-<p>Dear Mr. and Mrs. Durst,</p>
-<p>In light of my current condition, I respectfully ask your leave for a brief time away from my responsibilities. </p>
-<p>While my devotion to your dear children makes this decision difficult, I have taken it upon myself to find a solution that, I hope, will serve your household well. A good acquaintance of mine is experienced in the care of children, and I believe that she could assume my role during my temporary leave without difficulty.</p>
-<p>I realize that my request is not without its complications. However, my years serving your family have shown me the depth of your understanding and compassion. I truly feel that I have become a part of this family, and I look forward to bringing another member of that family into this world.</p>
-<p>Yours sincerely,</p>
-<p>Klara</p>
-</div>
+[[KlarasResignation.png]]
+![[KlarasResignation.png]]
 
 The top drawer of the desk now contains a number of receipts for candles, daggers, and incense, rather than the key to [[#Children’s Room]].
 
@@ -340,6 +333,9 @@ This room is largely as described in <span class="citation">Secret Room (p. 214)
 </div>
 
 The chest no longer contains the deed to Old Bonegrinder. Additionally, change Strahd’s letter to read as follows:
+
+[[LetterFromStrahd.jpg]]
+![[LetterFromStrahd.jpg]]
 
 <div class="description">
 <p>My most pathetic servant,</p>
@@ -410,24 +406,15 @@ This room is largely as described in <span class="citation">Master Suite (p. 214
 
 A roll of parchment is half-buried in the grain beside the shard. If unfurled, it reads as follows:
 
-<div class="description">
-<p>Drasha,</p>
-<p>I have selected you as the Beast’s custodian in my absence. Should the Beast grow unruly or show signs of agitation while I am away, I have left this amber shard to weaken it and soothe its fury.</p>
-<p>Should the need arise, present the shard and speak the Beast's name; if you speak with conviction, it shall obey you in my stead, if only for a time. But be sure to begone from the house before it awakens fully at midnight.</p>
-<p>So long as the Beast draws breath, it—not you—is the heart of this house, and no meal shall ever sate its appetite. Should you linger in its domain, it will mean doom for you all.</p>
-<p>Elisabeth</p>
-</div>
+[[LetterToDrasha.jpg]]
+![[LetterToDrasha.jpg]]
 
 See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more information about the amber shard.
 
 ***The table.*** Two chairs are standing next to the table. Resting on the dusty table cloth are an empty wine glass and a pen on top of an unfinished letter.
 
-<div class="description">
-<p>Dearest Minodora,</p>
-<p>I hope this letter finds you well.</p>
-<p>As I'm sure you're pleased to hear, our parties are in full swing again. After our dear patron has turned his back on us, we've indulged ourselves with some truly fine guests at our latest gathering; what a shame you had to miss it. We've had the distinct pleasure of having some strangers from far out of town grace our dinner table, and they were such delicious company!</p>
-<p>As I'm sure you'd agree, we're doing just as well without His Lordship's sponsorship. I'd even go so far as to say that his petty refusal to engage with us more directly stems from fear of our power. Well he shall see that he was right to...</p>
-</div>
+[[LetterToMinadora.jpg]]
+![[LetterToMinadora.jpg]]
 
 The letter breaks off mid-sentence. Some sprinkles of red dot the paper; wine, or something more sinister?
 
@@ -610,9 +597,9 @@ When the players enter this room, read:
 As the players descend the stairs, read:
 
 <div class="description">
-<p>The broken cobwebs around you sway like a gossamer wedding veil, beckoning you forward as the ancient stairs creak and groan underfoot. The gaping maw of the stairwell draws you deeper, swallowing you up as you descend further down its gullet. You descend one floor—two floors—three.</p>
+<p>The broken cobwebs around you sway like a wedding veil, beckoning you forward as the ancient stairs creak and groan underfoot. The gaping maw of the stairwell draws you deeper, swallowing you up as you descend further down its gullet. You descend one floor—two floors—three.</p>
 <p>The walls of the stone shaft narrow around you, forcing you to hunch your shoulders and pull in your elbows to continue downward. In the darkness, you can only hear the shuffle of your feet, the choking groan of the stairs, and the pounding of your blood in your ears. </p>
-<p>Finally, after what feels like hours, the descent levels out, and the spiral staircase ends at a darkened landing of  packed earth. A narrow tunnel supported by aged timber braces stretches ahead of you, its stone walls seeming to bleed with deposits of streaked, red clay. Eight feet ahead, the tunnel splits, branching to the left and right.</p>
+<p>Finally, the descent levels out, and the spiral staircase ends at a darkened landing of  packed earth. A narrow tunnel supported by aged timber braces stretches ahead of you, its stone walls seeming to bleed with deposits of streaked, red clay. Eight feet ahead, the tunnel splits, branching to the left and right.</p>
 <p>As your eyes and ears adjust to the cold, subterranean corridor, you notice that the tunnel isn't as silent as the staircase above. An eerie, low-pitched sound echoes through the space—and you soon recognize it as a deep, incessant chanting.</p>
 </div>
 
@@ -658,7 +645,7 @@ If the characters enter **Gustav’s Crypt**, read:
 If the characters enter **Elisabeth’s Crypt**, read:
 
 <div class="description">
-<p>A thick, acrid miasma hangs over the interior of this crypt, which holds a stone-carved coffin resting atop a stone bier. The floor before it is littered with the bodies of hundreds of dead termites. Many cling to the elongated, bloated body of a dead termite queen, while others appear to have died atop the scarred, mutilated bodies of four larger beetles not far away.</p>
+<p>A thick, acrid miasma hangs over the interior of this crypt, which holds a stone-carved coffin resting atop a stone bier.</p>
 </div>
 
 As the players approach **Rose’s Crypt** and **Thorn’s Crypt**, read:
@@ -695,9 +682,18 @@ The well comprises a 4-foot-diameter well shaft with a 3-foot-high stone lip, an
 
 If the players toss an object down the well and then turn away, they hear loud splashing and tearing sounds coming from below. When they turn back, the object has been torn to pieces, with large parts missing.
 
-Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
+The following can be found in the various rooms, secured in a wooden chest with a DC 15 lockpicking lock (or AC 15, 10 HP, vulnerability to bludgeoning damage):
+- Northmost room: 11 GP, 60 SP in leather pouch (DC 13 Perception or Nature to reveal human skin)
+- Northwest room: 3 green gemstones worth 10 GP each
+- West room: Black leather eyepatch with carnelian gemstone (50 GP)
+- Southwest room: Ivory hairbrush (25GP)
+- South room: Logbook, 1 potion of healing, 30 GP
 
+The south room contains a logbook bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
 
+The last few entries read:
+[[DrashasJournal.jpg]]
+![[DrashasJournal.jpg]]
 ### Hidden Spiked Pit
 <span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
 
@@ -895,11 +891,12 @@ The foot locker contains the following:
 - 1 Set of Thieves Tools
 - 1 Bow (short or long)
 - 1 Great axe
-- [[Cloak of Protection]]
-- [[Cloak of Billowing]]
-- [[Circlet of Blasting]]
-- [[Hat of Vermin]]
-- [[Sentinel Shield]]
+- [[Sentinel Shield]] or [[Battering shield]] (for Navin)
+- [[Cloak of Protection]] or [[Wand of the War Mage]] (for Jack)
+- [[Circlet of Blasting]] or [[Staff of the Snake]] (for Gaja)
+- [[Quiver of Ehlonna]] or [[Boots of Elvenkind]] (for Ori)
+- [[Cloak of Billowing]] (for anyone)
+- [[Hat of Vermin]] (for anyone)
 
 The players also find the key to the dungeon in this chest.
 ## A2g. The Dungeon

@@ -15,25 +15,52 @@ Valyas Hillbloom
 - Upbeat, helpful, chaotic good
 - Illusionist, juggler, street performer
 - Archfey Warlock
-	- As a child, struck a deal with an ambitious young fey noble in exchange for a kitten
+	- As a child, struck a deal with an ambitious young fey noble in exchange for a dragon
 	- Fey thought he was a fullgrown halfling
-	- "Cat" is sphinx of wonder familiar
+	- "Dragon" is a pseudodragon familiar
 	- Now of age, left home to see the world and carry out favours for his patron
 - Spells
 	- Cantrips
 		- Eldritch Blast
 		- Minor Illusion
-		- Mage Hand
+		- Mage Hand (if possible)
 	- 1st
 		- Hex
 		- Tasha's Hideous Laughter
+		- Charm person?
 	- 2nd
 		- Mind Spike
 		- Suggestion
 - Invocations
-	- Pact of the chain: Sphinx
+	- Pact of the chain: Pseudodragon
 	- Agonising Blast
 	- Armour of Shadows
+- Background: Entertainer
+- Stats if standard array
+	- Str 8
+	- Dex 16
+	- Con 14
+	- Int 12
+	- Wis 10
+	- Cha 16
+- Stats if point buy
+	- Str 8
+	- Dex 16
+	- Con 14
+	- Wis 8
+	- Int 12
+	- Cha 16
+- Feat:
+	- Musician: Lute
+	- Tough because farmer?
+	- Lucky because halfling?
+	- Skilled by default?
+- Skills
+	- Acrobatics
+	- Performance
+	- Deception
+	- Arcana
+	- Persuasion
 
 Kaylinn Westwood
 - Female Clint Eastwood gone bad, anarchist revolutionary who believes its time for the empires to fall for something new to rise

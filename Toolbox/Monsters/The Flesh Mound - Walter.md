@@ -113,5 +113,6 @@
 <p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks. If it moves toward the attacker, it can then immediately attempt to shove them.</p>
 </div>
 
+[[FleshMound_v2.webp]]
 
-![[FleshMound.jpg]]
+[[FleshMound_v3.webp]]
