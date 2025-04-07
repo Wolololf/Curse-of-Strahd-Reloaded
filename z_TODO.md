@@ -1,7 +1,5 @@
 DM prep:
 - Re-read death house again
-- Prep handouts
-	- Logbook
 - Spell cards
 	- Arrange spells
 	- Send to Navin for print

@@ -337,14 +337,6 @@ The chest no longer contains the deed to Old Bonegrinder. Additionally, change S
 [[LetterFromStrahd.jpg]]
 ![[LetterFromStrahd.jpg]]
 
-<div class="description">
-<p>My most pathetic servant,</p>
-<p>I am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not the one who brought me to this beautiful land. You are but a worm writhing in my earth.</p>
-<p>You say that you are cursed, your fortune spent. Your husband took solace in the bosom of another woman, sired a bastard son, and drove you to abandon love for madness. Cursed by darkness? Of that I have no doubt. Save you from your wretchedness? I think not. I much prefer you as you are.</p>
-<p>Your dread lord and master,</p>
-<p>Strahd von Zarovich</p>
-</div>
-
 The players do not recognize the name "Strahd von Zarovich."
 
 In addition to the letter, the players find three blank books with black leather covers, three spell scrolls (_bless_, _protection from poison_, and _spiritual weapon_). The chest still contains the deed to the house and a signed will which leaves the house and all other family property to Rose and Thorn.
@@ -564,21 +556,17 @@ This is the room the other party of adventurers rested in when the cultists ambu
 
 In the confusion, the wizard's journal slipped underneath one of the beds where it was missed by the cultists. A player who finds and reads it discovers that this appears to be the travel journal of a Theramenes of Amn. If they decide to skim it, they find the following sections, starting at the beginning, which describes a high-society dinner in Waterdeep:
 
-<div class="description">
-<p>...at which point the mayor's second cousin, Lord Wildebard, entered, wearing his usual costume of a fine blue vest over a neatly pressed white shirt and striped blue-grey trousers. He still hasn't given up his newest affectation, a rather dashing coat of pale blue that he can cause to billow dramatically at will. Apparently it is an import of rather grand extravagance, but one wonders if magical talent on the one hand, and excessive wealth on the other, couldn't be put to better use than this. On his arm, he wore a young gent with more than a drop of elven blood in him, who I know for a fact owes a debt to the Zentharim; another affectation, a sign of involvement with the underworld, or a display of utter cluelessness? I shall endeavour to find out. I have to admit that his newest conquest is indeed rather dashing, so at least the investigation shall be delightful.</p>
-</div>
+[[TheramenesJournal_1.jpg]]
+![[TheramenesJournal_1.jpg]]
 
 This section describes an encounter with some orcs.
 
-<div class="description">
-<p>...and speared him right through the chest. The orc tumbled over, as I quickly leapt into the action to assist my shadowy acquaintance. Bolts of finely crafted magic soared across the battlefield to impale three witless assailants, putting them down for good. The last two struggled on, one of them a prime specimen, huge across the chest and bicep, but with not enough spark behind the eyes to light dry tinder. One of my noble companions, of great spirit but a distinct lack of skill with any bladed weapon, proved me right yet again that the mystic arts truly are superior to the martial, when they swung at the lesser orc and flatly missed him. The giant brute let out an impressive bellow and got ready to charge...</p>
-</div>
-
+[[TheramenesJournal_2.jpg]]
+![[TheramenesJournal_2.jpg]]
 The final section is the last entry in the book:
 
-<div class="description">
-<p>..as we continued our tactical retreat through the dark, misty forests with the remnant of the lycanthropes fast on our heels. Having taken down half their pack, we had hoped the rest would disperse, but the remaining three kept up the chase. We were running low on silver bolts, and my magic was waning, but flight in an unknown land is a dangerous undertaking, especially where the pursuers have the advantage of home territory. Just as we were about to give up hope, we broke into a vast clearing with a breath taking mansion in its centre. A few servants were milling about, and as they saw us and heard the howl behind, they scrambled up the steps to the main building, with us following suit. As we reached the doorway, the lady of the estate gracefully allowed us entry, offering to give us shelter from these moon-cursed scourges. Her name is Elisabeth Durst, and her family is one of the foremost in this land which appears to be the domain of Barovia. A strikingly beautiful woman, age has</p>
-</div>
+[[TheramenesJournal_3.jpg]]
+![[TheramenesJournal_3.jpg]]
 
 The page breaks off at this point where the author was interrupted by the arrival of the cultists. A few blotches of ink stain the final page.
 ### Secret Stairs
@@ -893,7 +881,7 @@ The foot locker contains the following:
 - 1 Great axe
 - [[Sentinel Shield]] or [[Battering shield]] (for Navin)
 - [[Cloak of Protection]] or [[Wand of the War Mage]] (for Jack)
-- [[Circlet of Blasting]] or [[Staff of the Snake]] (for Gaja)
+- [[Circlet of Blasting]] or [[Staff of the Viper]] (for Gaja)
 - [[Quiver of Ehlonna]] or [[Boots of Elvenkind]] (for Ori)
 - [[Cloak of Billowing]] (for anyone)
 - [[Hat of Vermin]] (for anyone)

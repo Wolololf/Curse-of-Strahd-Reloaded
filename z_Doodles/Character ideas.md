@@ -67,3 +67,37 @@ Kaylinn Westwood
 - Spore Druid, focus on decay and rebirth as cycle of life
 - Ends justify the means, true neutral
 - Older wood elf, has seen society decline over time and has come pit of the woods to fix it
+
+Eye of the Owlbear
+
+Rising up, back on its feet,
+Hit its hide, missed our chances.
+Closed the distance, but it's hunting for meat,
+Just a beast and its will to survive.
+
+So many times, it happens too fast,
+You're in the middle of melee.
+-Don't lose your grip on the dreams of the past-
+You must fight just to keep them alive
+
+It's the eye of the owlbear, it's the thrill of the fight
+Risin' up to the challenge of our rival
+And the last known survivor stalks his prey in the night
+And he's watching us all with the eye of the owlbear
+
+Face to face, out on the heat
+Hangin' tough, stayin' hungry
+They stack the odds still we take to the street
+For the kill, with the skill to survive
+It's the eye of the tiger, it's the thrill of the fight
+Risin' up to the challenge of our rival
+And the last known survivor stalks his prey in the night
+And he's watching us all with the eye of the tiger
+Risin' up, straight to the top
+Had the guts, got the glory
+Went the distance, now I'm not gonna stop
+Just a man and his will to survive
+It's the eye of the tiger, it's the thrill of the fight
+Risin' up to the challenge of our rival
+And the last known survivor stalks his prey in the night
+And he's watching us all with the eye of the tiger

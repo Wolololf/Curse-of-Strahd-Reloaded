@@ -106,6 +106,7 @@
 | Shillelagh | C | - |
 | Poison Spray | C | - |
 | Chill Touch | C | - |
+| Burning Hands | C | - |
 | Speak with animals | 1 | - |
 | Cure wounds | 1 | - |
 | Goodberry | 1 | - |

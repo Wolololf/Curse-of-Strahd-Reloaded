@@ -1,4 +1,4 @@
-> [!item]+ **Staff of the Snake**
+> [!item]+ **Staff of the Viper**
 > Staff, uncommon (requires attunement by Cleric, Druid or Warlock)*
 >
 > You can use an action to speak this staff's command word and throw the staff on the ground within 10 feet of you. The staff becomes a giant venomous snake under your control and acts on its own initiative count. By using a bonus action to speak the command word again, you return the staff to its normal form in a space formerly occupied by the snake.
@@ -9,4 +9,4 @@
 > 
 > If the snake reverts to staff form before losing all its hit points, it regains all of them the next dawn.
 
-[[StaffOfTheSnake.jpeg]]
+[[StaffOfTheViper.jpeg]]
