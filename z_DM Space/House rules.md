@@ -13,8 +13,6 @@ If something requires an ability check, only one of the players can take it, alt
 Older versions of D&D had the concept of "Take 10": A player could spend 10 minutes doing something that required a skill check and could then treat the outcome of the skill check as if they had rolled a 10 (on top of which any modifiers are applied). This is a workaround to "one check only" by letting the player take their time on the check to get the outcome they would get on average based on their skills; the catch here is that the party often doesn't have 10 minutes to spare. It's useful if the party wants to invest time to guarantee a success on a medium (DC 15) challenge for a skilled party member, but it also precludes any opportunity to get lucky on a hard challenge.
 ## Rolling checks
 Some checks continue for a fixed duration or until something significant changes. If the party rolled well on stealth, then they will continue to be stealthy, i.e. every enemy observer has to check their passive perception against the stealth roll. The party only needs to reroll once a major change occurred, e.g. they get into a fight, or they alert guards while picking a lock.
-## Rolling checks
-Some checks continue for a fixed duration or until something significant changes. If the party rolled well on stealth, then they will continue to be stealthy, i.e. every enemy observer has to check their passive perception against the stealth roll. The party only needs to reroll once a major change occurred, e.g. they get into a fight, or they alert guards while picking a lock.
 ## Improved criticals
 When a creature rolls a critical hit, they roll damage as normally and then add the maximum amount of their damage die on top. So that means if the normal damage is 1d8+2, on a crit that becomes 1d8+2+8. This goes for players, allies and enemies alike. The aim here is to make criticals feel more impactful because it's not fun to land a critical hit and then roll horribly.
 ## Roll hit and damage dice simultaneously
@@ -28,3 +26,6 @@ Also, most players try to figure out monsters' AC from observed rolls anyway. By
 As a counterweight to half, 3/4 and full cover, re-introduce flanking: A creature is flanked if it's adjacent to two creatures directly opposite. Flanking reduces the flanked creature's AC by 2. A third attacker at a right angle to the other two will reduce the AC further, to a total reduction of 5.
 
 This could be potentially quite deadly when fighting groups of enemies, or a useful tool to gang up on a single boss. Depending on how this goes, might need to carefully consider using this. I'd hold off for now and maybe introduce this later.
+
+## On Deck
+At the start of a character's turn, I'll put the next character "on deck", i.e. I'll let everyone know who goes next so they can prepare, especially if the next character is a PC. This should help pull people out of daydreaming, give them a chance to make concrete plans and then execute them in a minute or so. Ideally they also look up their attack rolls and damage already and find the right dice.

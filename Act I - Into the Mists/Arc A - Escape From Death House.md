@@ -210,7 +210,7 @@ This room is largely as described in <span class="citation">Dining Room (p. 213)
 <div class="description">
 <p>You enter into a wood-paneled dining room. The centerpiece is a carved mahogany table surrounded by eight high-backed chairs with sculpted armrests and cushioned seats. A crystal chandelier hangs above the table, which is set with resplendent silverware and crystal glasses polished to a dazzling shine. Mounted above the marble fireplace is a mahogany-framed painting of an alpine vale.</p>
 <p>The wall paneling is carved with elegant images of deer among the trees. Red silk drapes cover the windows, and a tapestry hangs from an iron rod bolted to the south wall.</p>
-<p>The table groans beneath the weight of a delicious-looking feast. Exquisite dishes lay on grand platters: succulent roasted poultry glazed with a shimmering honey sauce, perfectly grilled cuts of beef still steaming lightly, a variety of cheeses and fresh fruits, and freshly baked breads giving off a comforting aroma. </p>
+<p>The table groans beneath the weight of a delicious-looking feast. The smell of exquisite dishes rises from the table: succulent roasted poultry glazed with a shimmering honey sauce, perfectly grilled cuts of beef still steaming lightly, a variety of cheeses and fresh fruits, and freshly baked breads giving off a comforting aroma. </p>
 </div>
 
 A player who partakes in the food suffers no ill effects.
@@ -245,7 +245,7 @@ If the players read the note, one of the knives in the kitchen flies off of its 
 This room is largely as described in <span class="citation">Upper Hall (p. 213)</span>. When the players enter this room, read:
 
 <div class="description">
-<p>Unlit oil lamps are mounted on the walls of this elegant hall. Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors between them are carved with images of dancing youths.</p>
+<p>The smell of stale oil from unlit lamps mounted on the walls of this elegant hall hits you. Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors between them are carved with images of dancing youths.</p>
 <p>The red marble staircase continues its upward spiral to a third floor, a cold draft whispering down from above.</p>
 <p>On the far end of the hall, a fireplace sheds dim light into the passage, catching a glint of steel where a longsword rests on leather fastenings above the hearth.
 </div>
@@ -266,6 +266,14 @@ The basket contains a man's laundry, including fine suits, tunics, neckties, pan
 
 If the players decide to search the room, they can find a letter sticking out from underneath one of the mattresses (DC 12 Perception check). The front of the note appears to be a shopping list, but the back reads the following in rough handwriting:
 
+<div class="description">
+ <p>Lyssa,</p>
+ <p>I hope you find this as soon as you get back from the market. I know we've talked of leaving before, but we have to get out, tomorrow. After what happened to Klara, it's not safe for us to stick around.</p>
+ <p>And listen, I don't want you to be mad at me, but you know how they like to climb up to the attic after their parties to do Morninglord knows what? I followed them the other night, and they all went into the storage room and then disappeared. It wasn't safe to follow them, but I heard muffled screaming which seemed to come from below.</p>
+ <p>I'm starting to have doubts that Tomas really left, or that he's down there somewhere instead. My love, we have to get away before we get caught up in whatever is going on.</p>
+ <p>Anya</p>
+ </div>
+
 [[LyssasLetter.png]]
 ![[LyssasLetter.png]]
 ### Conservatory
@@ -276,8 +284,8 @@ Players that approach this door can hear the faint sound of a harpsichord playin
 This room is largely as described in <span class="citation">Conservatory (p. 214)</span>. When the players enter it, read:
 
 <div class="description">
-<p>You enter into an elegantly appointed hall, the windows of which are covered by gossamer drapes. A brass-plated chandelier hangs from the ceiling, and upholstered chairs line the walls. </p>
-<p>Several stained-glass wall hangings depict beautiful men, women, and children singing and playing instruments. A harpsichord with a bench rests in the northwest corner. Near the fireplace is a large standing harp. Alabaster figurines of well-dressed dancers adorn the mantelpiece. </p>
+<p>You enter into an elegantly appointed hall, the windows of which are covered by drapes thin as veils. A brass-plated chandelier hangs from the ceiling, and upholstered chairs line the walls. </p>
+<p>Several stained-glass wall hangings depict beautiful men, women, and children singing and playing instruments. A harpsichord with a bench rests in the northwest corner. Near the fireplace is a large standing harp. Alabaster figurines of well-dressed dancers adorn the mantelpiece. As you enter, you hear your footsteps echo in this vast, largely empty room.</p>
 </div>
 
 ***The Harpsichord.*** A player who inspects the harpsichord finds that one of the keys appears to be permanently pressed in the "down" position. A player who investigates the interior of the harpsichord finds the cause: a rolled-up piece of parchment tucked beneath one of the strings. 
@@ -301,11 +309,20 @@ Playing *Waltz for Klara* also causes the bookshelf in the [[#Library]] to swing
 This room is largely as described in <span class="citation">Library (p. 213-14)</span>. When the players enter this room, read:
 
 <div class="description">
-<p>Red velvet drapes cover the windows of this room. An exquisite mahogany desk and a matching high-back chair face the entrance and the fireplace, above which hangs a framed picture of a windmill perched atop a rocky crag. Situated in corners of the room are two overstuffed chairs. </p>
-<p>Floor-to-ceiling bookshelves line the south wall. A rolling wooden ladder allows one to more easily reach the high shelves.</p>
+<p>Red velvet drapes cover the windows of this room. An exquisite mahogany desk and a matching high-back chair face the entrance and the fireplace, above which hangs a framed picture of a windmill perched atop a rocky crag. The warmth of the fire covers the room like a cozy blanket. Situated in corners of the room are two overstuffed chairs. </p>
+<p>Floor-to-ceiling bookshelves line the south wall, bursting with books of all shapes and sizes. A rolling wooden ladder allows one to more easily reach the high shelves.</p>
 </div>
 
 ***The Desk.*** A handwritten note sits atop the desk. It reads:
+
+<div class="description">
+ <p>Dear Mr. and Mrs. Durst,</p>
+ <p>In light of my current condition, I respectfully ask your leave for a brief time away from my responsibilities. </p>
+ <p>While my devotion to your dear children makes this decision difficult, I have taken it upon myself to find a solution that, I hope, will serve your household well. A good acquaintance of mine is experienced in the care of children, and I believe that she could assume my role during my temporary leave without difficulty.</p>
+ <p>I realize that my request is not without its complications. However, my years serving your family have shown me the depth of your understanding and compassion. I truly feel that I have become a part of this family, and I look forward to bringing another member of that family into this world.</p>
+ <p>Yours sincerely,</p>
+ <p>Klara</p>
+ </div>
 
 [[KlarasResignation.png]]
 ![[KlarasResignation.png]]
@@ -329,10 +346,18 @@ The door cannot be opened unless the amber shard from the [[#Master Suite]] is p
 This room is largely as described in <span class="citation">Secret Room (p. 214)</span>. When the players enter this room, read:
 
 <div class="description">
-<p>This small hidden room is packed with bookshelves groaning with old and ominous-looking leather-bound tomes. A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest, its ribs and head caught beneath the lid, is a skeleton in leather armor.</p>
+<p>This small hidden room is packed with bookshelves groaning with old and ominous-looking leather-bound tomes. Compared to the spacious library, this place feels cramped as if the shelves are leaning in on you. A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest, its ribs and head caught beneath the lid, is a skeleton in leather armor.</p>
 </div>
 
 The chest no longer contains the deed to Old Bonegrinder. Additionally, change Strahd’s letter to read as follows:
+
+<div class="description">
+ <p>My most pathetic servant,</p>
+ <p>I am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not the one who brought me to this beautiful land. You are but a worm writhing in my earth.</p>
+ <p>You say that you are cursed, your fortune spent. Your husband took solace in the bosom of another woman, sired a bastard son, and drove you to abandon love for madness. Cursed by darkness? Of that I have no doubt. Save you from your wretchedness? I think not. I much prefer you as you are.</p>
+ <p>Your dread lord and master,</p>
+ <p>Strahd von Zarovich</p>
+ </div>
 
 [[LetterFromStrahd.jpg]]
 ![[LetterFromStrahd.jpg]]
@@ -388,7 +413,7 @@ This room is largely as described in <span class="citation">Master Suite (p. 214
 <div class="description">
 <p>You enter a dusty, cobweb-filled master bedroom with burgundy drapes covering the windows. A four-poster bed with embroidered curtains and tattered gossamer veils stands against the center wall.</p>
 <p>A door facing the foot of the bed has a faded full-length mirror mounted on it. In the right-hand corner of the room stands a small wooden door, its surface half-rotted by age.</p>
-<p>A rotting tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait of the man and woman from the first-floor portrait hanging above it. A web-filled parlor in the southwest corner contains two chairs and a table holding several items, as well as a door with a dark, dirt-flecked window. </p>
+<p>A rotting tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait of the man and woman from the first-floor portrait hanging above it. A web-filled parlor in the southwest corner contains two chairs and a table holding several items, as well as a door with a dark, dirt-flecked window. The smell of dust mingles unpleasantly with the sweet smell of rotting wood, and the stench of the decaying tiger.</p>
 <p>The room also contains a matching pair of wardrobes, a padded chair, and a vanity with a wood-framed mirror and a silver jewelry box. A soft amber glow emanates from beneath the jewelry box's lid.</p>
 </div>
 
@@ -398,12 +423,27 @@ This room is largely as described in <span class="citation">Master Suite (p. 214
 
 A roll of parchment is half-buried in the grain beside the shard. If unfurled, it reads as follows:
 
+<div class="description">
+ <p>Drasha,</p>
+ <p>I have selected you as the Beast’s custodian in my absence. Should the Beast grow unruly or show signs of agitation while I am away, I have left this amber shard to weaken it and soothe its fury.</p>
+ <p>Should the need arise, present the shard and speak the Beast's name; if you speak with conviction, it shall obey you in my stead, if only for a time. But be sure to begone from the house before it awakens fully at midnight.</p>
+ <p>So long as the Beast draws breath, it—not you—is the heart of this house, and no meal shall ever sate its appetite. Should you linger in its domain, it will mean doom for you all.</p>
+ <p>Elisabeth</p>
+ </div>
+
 [[LetterToDrasha.jpg]]
 ![[LetterToDrasha.jpg]]
 
 See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more information about the amber shard.
 
 ***The table.*** Two chairs are standing next to the table. Resting on the dusty table cloth are an empty wine glass and a pen on top of an unfinished letter.
+
+<div class="description">
+ <p>Dearest Minodora,</p>
+ <p>I hope this letter finds you well.</p>
+ <p>As I'm sure you're pleased to hear, our parties are in full swing again. After our dear patron has turned his back on us, we've indulged ourselves with some truly fine guests at our latest gathering; what a shame you had to miss it. We've had the distinct pleasure of having some strangers from far out of town grace our dinner table, and they were such delicious company!</p>
+ <p>As I'm sure you'd agree, we're doing just as well without His Lordship's sponsorship. I'd even go so far as to say that his petty refusal to engage with us more directly stems from fear of our power. Well he shall see that he was right to...</p>
+ </div>
 
 [[LetterToMinadora.jpg]]
 ![[LetterToMinadora.jpg]]
@@ -556,14 +596,26 @@ This is the room the other party of adventurers rested in when the cultists ambu
 
 In the confusion, the wizard's journal slipped underneath one of the beds where it was missed by the cultists. A player who finds and reads it discovers that this appears to be the travel journal of a Theramenes of Amn. If they decide to skim it, they find the following sections, starting at the beginning, which describes a high-society dinner in Waterdeep:
 
+<div class="description">
+ <p>...at which point the mayor's second cousin, Lord Wildebard, entered, wearing his usual costume of a fine blue vest over a neatly pressed white shirt and striped blue-grey trousers. He still hasn't given up his newest affectation, a rather dashing coat of pale blue that he can cause to billow dramatically at will. Apparently it is an import of rather grand extravagance, but one wonders if magical talent on the one hand, and excessive wealth on the other, couldn't be put to better use than this. On his arm, he wore a young gent with more than a drop of elven blood in him, who I know for a fact owes a debt to the Zentharim; another affectation, a sign of involvement with the underworld, or a display of utter cluelessness? I shall endeavour to find out. I have to admit that his newest conquest is indeed rather dashing, so at least the investigation shall be delightful.</p>
+ </div>
+
 [[TheramenesJournal_1.jpg]]
 ![[TheramenesJournal_1.jpg]]
 
 This section describes an encounter with some orcs.
 
+<div class="description">
+ <p>...and speared him right through the chest. The orc tumbled over, as I quickly leapt into the action to assist my shadowy acquaintance. Bolts of finely crafted magic soared across the battlefield to impale three witless assailants, putting them down for good. The last two struggled on, one of them a prime specimen, huge across the chest and bicep, but with not enough spark behind the eyes to light dry tinder. One of my noble companions, of great spirit but a distinct lack of skill with any bladed weapon, proved me right yet again that the mystic arts truly are superior to the martial, when they swung at the lesser orc and flatly missed him. The giant brute let out an impressive bellow and got ready to charge...</p>
+ </div>
+
 [[TheramenesJournal_2.jpg]]
 ![[TheramenesJournal_2.jpg]]
 The final section is the last entry in the book:
+
+<div class="description">
+ <p>..as we continued our tactical retreat through the dark, misty forests with the remnant of the lycanthropes fast on our heels. Having taken down half their pack, we had hoped the rest would disperse, but the remaining three kept up the chase. We were running low on silver bolts, and my magic was waning, but flight in an unknown land is a dangerous undertaking, especially where the pursuers have the advantage of home territory. Just as we were about to give up hope, we broke into a vast clearing with a breath taking mansion in its centre. A few servants were milling about, and as they saw us and heard the howl behind, they scrambled up the steps to the main building, with us following suit. As we reached the doorway, the lady of the estate gracefully allowed us entry, offering to give us shelter from these moon-cursed scourges. Her name is Elisabeth Durst, and her family is one of the foremost in this land which appears to be the domain of Barovia. A strikingly beautiful woman, age has</p>
+ </div>
 
 [[TheramenesJournal_3.jpg]]
 ![[TheramenesJournal_3.jpg]]
@@ -585,7 +637,7 @@ When the players enter this room, read:
 As the players descend the stairs, read:
 
 <div class="description">
-<p>The broken cobwebs around you sway like a wedding veil, beckoning you forward as the ancient stairs creak and groan underfoot. The gaping maw of the stairwell draws you deeper, swallowing you up as you descend further down its gullet. You descend one floor—two floors—three.</p>
+<p>The broken cobwebs around you sway like a thin veil, beckoning you forward as the ancient stairs creak and groan underfoot. The gaping maw of the stairwell draws you deeper, swallowing you up as you descend further down its gullet. You descend one floor—two floors—three.</p>
 <p>The walls of the stone shaft narrow around you, forcing you to hunch your shoulders and pull in your elbows to continue downward. In the darkness, you can only hear the shuffle of your feet, the choking groan of the stairs, and the pounding of your blood in your ears. </p>
 <p>Finally, the descent levels out, and the spiral staircase ends at a darkened landing of  packed earth. A narrow tunnel supported by aged timber braces stretches ahead of you, its stone walls seeming to bleed with deposits of streaked, red clay. Eight feet ahead, the tunnel splits, branching to the left and right.</p>
 <p>As your eyes and ears adjust to the cold, subterranean corridor, you notice that the tunnel isn't as silent as the staircase above. An eerie, low-pitched sound echoes through the space—and you soon recognize it as a deep, incessant chanting.</p>
@@ -724,6 +776,7 @@ This area is largely as described in <span class="citation">Larder (p. 218)</spa
 The **grick** in this alcove—the warped remains of Gustav Durst’s flayed corpse—is coiled on the ceiling, and drops onto its victim when they enter. A DC 17 Wisdom (Perception) check allows a player to determine its presence before entering. 
 
 If the players disturb the grick, read:
+(Skip this, just show the image?)
 
 <div class="description">
 <p>A horrific creature drops from the ceiling—a long, flesh-like worm the breadth and length of a human man, its trunk resembling a humanoid body with its arms sewn to its torso and both legs sewn together. Its flayed muscles split open to reveal a flapping, gaping maw ringed by hundreds of tiny, humanlike teeth and a gnashing, bony beak. </p>
@@ -776,7 +829,7 @@ If the players continue down the corridor, read:
 This room is largely as described in <span class="citation">Stairs Down (p. 218)</span>. When the players approach this area, read:
 
 <div class="description">
-<p>A robust oak door blocks this passage. It's clear that the origin of the muffled chanting you've been hearing lies below. It doesn't appear to have a lock of any kind.</p>
+<p>A robust oak door blocks this passage. The muffled chanting you've been hearing lies is loudest here. It doesn't appear to have a lock of any kind.</p>
 </div>
 
 The key is in the chest in <span class="citation">Cult Leader's Quarters</span>. This door is really just there as a fallback to ensure players go to the quarters and find the gear they need.
@@ -786,7 +839,7 @@ If they're stumped, have one of the Barovian relics lead them to the chest.
 Once they have the keys, read:
 
 <div class="description">
-<p>As you approach the oak door, the key starts glowing and a lock materialises on the surface of the door, along with a door handle. As you turn the key, the door swings open with ease making mockery of its age.</p>
+<p>As you approach the oak door, the key starts glowing and a lock materialises on the surface of the door, along with a door handle. As you turn the key, the door swings open with ease belying its age.</p>
 <p>A dark set of chiselled stone steps descends into darkness. The chanting from below is loud enough now that you can almost make out the words.</p>
 </div>
 
@@ -854,21 +907,9 @@ This room is largely as described in <span class="citation">Cult Leaders’ Quar
 
 <div class="description">
 <p>This room contains a large wood-framed bed, the feather mattress rotted by years of disuse. An old wooden wardrobe carved with demonic faces stands against the wall to the left, and a faded wooden footlocker stands quietly at the foot of the bed.</p>
-<p>The room is suffused with a familiar stench of death—but far stronger, mixing with a noxious scent that fills your lungs with every breath.</p>
 </div>
 
-The wardrobe contains several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. A rotting aroma also emanates from a pair of rotted organs—a half-eaten liver and a gnawed intestine—lying hidden beneath the hems of the robes.
-
-Folded inside the foot locker, on top of its other contents, is a **boneless** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 228)</span> made of the recognizable flayed skin of Gustav Durst. When the foot locker is opened, the **boneless** springs out to attack the nearest creature.
-
-[[Encounter - Death House - Boneless]]
-
-> [!combat]- **Balancing the Boneless**
-> This combat encounter is a **mild** encounter against a party of five 2nd-level players, and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Reduce the boneless’ hit points to 16. Reduce its slam ***attack*** and its ***crushing embrace*** action to 3 (1d4+1) damage each.
-> * ***Four Players.*** Reduce the boneless’ hit points to 21. Reduce its ***slam*** attack and its ***crushing embrace*** action to 4 (1d4+2) damage each.
-> * ***Six Players.*** Increase the boneless’ hit points to 31. Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.
+The wardrobe contains several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it.
 
 No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
 

@@ -36,13 +36,13 @@
 >> ### Attributes
 | <font color="#ff0000">**STR**</font> | <font color="#ffff00">**DEX**</font> | <font color="#00b050">**CON**</font> | <font color="#7030a0">**INT**</font> | <font color="#245bdb">**WIS**</font> | <font color="#de7802">**CHA**</font> | |
 | ----- | ----------- | ----------------------- | --------------------------------- | ----------------------------------- | - |
-| 16 | 14 | 14| 9 | 11 | 9 | |
-| +3 | +2 | +2  | -1 | +1 | -1 | |
+| 16 | 14 | 14| 10 | 11 | 10 | |
+| +3 | +2 | +2  | +0 | +1 | +0 | |
 >> ### Saving throws
 | <font color="#ff0000">**STR**</font> | <font color="#ffff00">**DEX**</font> | <font color="#00b050">**CON**</font> | <font color="#7030a0">**INT**</font> | <font color="#245bdb">**WIS**</font> | <font color="#de7802">**CHA**</font> | |
 | ----- | ----------- | ----------------------- | --------------------------------- | ----------------------------------- | - |
 | <input type="checkbox" checked> | <input type="checkbox" unchecked> | <input type="checkbox" checked>  | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | |
-| +5 | +2 | +4 | -1 | +0 | -1 | |
+| +5 | +2 | +4 | +0 | +0 | +0 | |
 >> ### Proficiencies
 | Proficiency               | Notes |
 | --------------------- | --------------------------------- | 
@@ -56,7 +56,7 @@
 | --------------------- | --------------------------------- | 
 | Savage Attacker      | - |
 | Fighting style      | Defence |
-| Weapon mastery     | Greatsword, Javelin, Flail |
+| Weapon mastery     | TBD |
 | Second Wind      | - |
 | Action Surge     | - |
 | Tactical Mind     | - |
@@ -65,19 +65,19 @@
 | --------------------- | --------------------------------- | --- |
 | Acrobatics (DEX)      | <input type="checkbox" unchecked> | +2 |
 | Animal Handling (WIS) | <input type="checkbox" unchecked> | +0 |
-| Arcana (INT)          | <input type="checkbox" unchecked> | -1 |
+| Arcana (INT)          | <input type="checkbox" unchecked> | +0 |
 | Athletics (STR)       | <input type="checkbox" checked> | +5 |
-| Deception (CHA)       | <input type="checkbox" unchecked> | -1 |
-| History (INT)         | <input type="checkbox" unchecked> | -1 |
+| Deception (CHA)       | <input type="checkbox" unchecked> | +0 |
+| History (INT)         | <input type="checkbox" unchecked> | +0 |
 | Insight (WIS)         | <input type="checkbox" checked>   | +2 |
 | Intimidation (CHA)    | <input type="checkbox" checked> | +1 |
-| Investigation (INT)   | <input type="checkbox" unchecked>   | -1 |
+| Investigation (INT)   | <input type="checkbox" unchecked>   | +0 |
 | Medicine (WIS)        | <input type="checkbox" checked> | +2 |
-| Nature (INT)          | <input type="checkbox" unchecked> | -1 |
+| Nature (INT)          | <input type="checkbox" unchecked> | +0 |
 | Perception (WIS)      | <input type="checkbox" unchecked>   | +0 |
-| Performance (CHA)     | <input type="checkbox" unchecked> | -1 |
-| Persuasion (CHA)      | <input type="checkbox" unchecked> | -1 |
-| Religion (INT)        | <input type="checkbox" unchecked> | -1 |
+| Performance (CHA)     | <input type="checkbox" unchecked> | +0 |
+| Persuasion (CHA)      | <input type="checkbox" unchecked> | +0 |
+| Religion (INT)        | <input type="checkbox" unchecked> | +0 |
 | Sleight of Hand (DEX) | <input type="checkbox" unchecked> | +2 |
 | Stealth (DEX)         | <input type="checkbox" unchecked> | +2 |
 | Survival (WIS)        | <input type="checkbox" unchecked> | +0 |

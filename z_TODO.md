@@ -1,8 +1,5 @@
 DM prep:
 - Re-read death house again
-- Spell cards
-	- Arrange spells
-	- Send to Navin for print
 - Wrap up death house prep
 	- Rose and Thorn roleplay prep
 		- Voices and speech
