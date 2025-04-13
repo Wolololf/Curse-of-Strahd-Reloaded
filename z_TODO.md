@@ -1,4 +1,9 @@
 DM prep:
+- Revist ghoul encounter, are 4 too many even if prone, reduce to 3 (small in centre of party, medium in front of the party, small distant in side corridor), then at start of turn 2, another medium one joins at distance in an empty hallway
+- Amend shadows to take damage and fizzle out if gemstone is destroyed
+- Better spell cards
+	- Jack's missing
+	- Gaja's Tiefling cards missing, some spells outdated, some incorrect class
 - Re-read death house again
 - Wrap up death house prep
 	- Rose and Thorn roleplay prep
@@ -9,32 +14,29 @@ DM prep:
 		- Modified spectre stat block for Rose and Thorn, including healing
 		- Modified spectre stat block for Klara
 		- Norganas intervention, vague design for first interaction and offer
+- Barovia prep
+	- Introduction
+	- Bar scene (Izmark, Bildrath, Mad Mary)
+	- Burgomaster's Mansion and lunch
+	- Bildrath's Mercantile
+	- Siege
 
 Session Zero
 - Figure put backstory tie-ins
 	- Ori
 		- Secret Dusk Elf
-		- Werewolf attack and collaboration with Esmeralda?
+		- Werewolf attack and collaboration with Esmeralda
 	- Navin
 		- Tattoos from Vistani travellers, friend of Stanimir, vistani scarf as arm band
-		- Amber shard found on travels?
-		- Dragon scale heirloom, stories told of Argynvost's visit?
 	- Jack
 		- Broken blade of fascinating steel
-		- Coin?
-		- Dragon scale heirloom?
 	- Gaja
 		- Amber shard for sure
-		- Coin?
-		- Wolfir tooth as good luck charm?
 - Characters:
 	- Ori: Wood Elf Beastmaster Ranger
 	- Navin: Goliath Rune Knight
 	- Gaja: Tiefling Wildfire Druid
 	- Jack: Dwarf Wild Magic Sorcerer
-- Set expectations
-	- Decide soft and hard limits of topics
-	- Acting out characters vs being mean
 
 Village of Barovia
 - Revise existing NPCs using new NPC template
@@ -51,11 +53,11 @@ Village of Barovia
 	- Donavich
 	- Doru
 - Prep stat blocks
+	- Ireena
 	- Rahadin
 	- Doru
 - Item rewards
 	- Moon-touched sword, family heirloom given by Ismark
-	- 
 
 Later on:
 - Early Dark Powers prep for players
@@ -100,12 +102,14 @@ Additional magic items
 	- Ring of spell storing (Van Richten's cache)
 	- Bloodwell Vial (Khazan's tower)
 - Ori
-	- Nature's mantle (Dusk elves encampment?)
-	- Bracers of Archery (...?)
+	- Moon-touched rapier (Izmark's heirloom)
+	- Nature's mantle (Dusk elves encampment)
+	- Bracers of Archery (Argynvostholt)
 - Navin
-	- Magic tattoo (vistani camps)
-	- Moon-touched sword (Ismark quest reward)
+	- Magic tattoo (Stanimir at Vistani camps)
+	- Magic melee weapon (Krezk or Abbey)
 - Gaja
 	- Cindermoth Cloak (Luvash's reward)
+	- Ranged or melee simple weapon with thematic impact (Winery or Gulthias Tree)
 - All
-	- Stone of good luck
+	- Stone of good luck (storytelling reward)

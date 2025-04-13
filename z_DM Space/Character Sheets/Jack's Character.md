@@ -1,26 +1,26 @@
 >[!column|flex 2]
 >> [!infobox]
->> # TBD Rockseeker
+>> # Pickel Rockseeker
 >> ![[Placeholder]]
 >> ###### Stats
 >>  |
 >> ---|---|
 >> **Level** | 2 |
->> **XP** | 0 |
+>> **XP** | 300 |
 >> **Speed** | 30 |
 >> **Proficiency** Bonus | +2 |
 >> **Initiative** | +1 |
 >> **AC** | 11 |
 >> **HP** | 17 |
 >> **Hit Dice** | 2d6  |
->> **Passive Perception** | 11 |
+>> **Passive Perception** | 14 |
 >>  
 >> ###### Bio
 >>   |
 >> ---|---|
 >> **Race** | Dwarf (Mountain) |
 >> **Sex** | Male |
->> **Age** | TBD |
+>> **Age** | 30 |
 >> **Alignment** | Lawful Good |
 >> **Languages** | Common, Dwarfish, Gnomish |
 >> ###### Info
@@ -36,20 +36,20 @@
 >> ### Attributes
 | <font color="#ff0000">**STR**</font> | <font color="#ffff00">**DEX**</font> | <font color="#00b050">**CON**</font> | <font color="#7030a0">**INT**</font> | <font color="#245bdb">**WIS**</font> | <font color="#de7802">**CHA**</font> | |
 | ----- | ----------- | ----------------------- | --------------------------------- | ----------------------------------- | - |
-| 17 | 12 | 18  | 12 | 12 | 15 | |
+| 17 | 12 | 18 | 12 | 12 | 15 | |
 | +3 | +1 | +4  | +1 | +1 | +2 | |
 >> ### Saving throws
 | <font color="#ff0000">**STR**</font> | <font color="#ffff00">**DEX**</font> | <font color="#00b050">**CON**</font> | <font color="#7030a0">**INT**</font> | <font color="#245bdb">**WIS**</font> | <font color="#de7802">**CHA**</font> | |
 | ----- | ----------- | ----------------------- | --------------------------------- | ----------------------------------- | - |
 | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | <input type="checkbox" checked>  | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | <input type="checkbox" checked> | |
-| +3 | +1 | +6 | +1 | +1 | +4 | |
+| +3 | +1 | +6  | +1 | +1 | +4 | |
 >> ### Proficiencies
 | Proficiency              | Notes |
 | --------------------- | --------------------------------- | 
 | No armour      | - |
 | Simple weapons      | - |
 | Smithing Kit     | - |
-| Tinker's Tools     | - |
+| Tinkerer's Tools     | - |
 | Mason's Tools     | - |
 | Carpenter's Tools     | - |
 >> ### Traits
@@ -57,9 +57,11 @@
 | --------------------- | --------------------------------- | 
 | Darkvision 120ft      | - |
 | Dwarven resilience      | Resistance to poison damage, advantage on poison saves |
-| Stone cunning      | - |
-| Crafter      | Fast crafting |
-| Innate Sorcery      | - |
+| Stone cunning      | Tremorsense, learn from stone for 10 minutes |
+| Crafter      | Fast-crafting, tool proficiencies |
+| Magic Incarnate      | TBD |
+| Innate Sorcerer      | TBD |
+| Tides of Chaos      | Advantage on D20, then next spell triggers wild magic surge |
 >> ### Skill Checks
 | Skill               | Proficiency   | Modifier |
 | --------------------- | --------------------------------- | --- |
@@ -84,7 +86,7 @@
 >>  ### Weapons
 | Name         | Equipped         | Attack bonus         | Damage         | Damage type         | Notes         |
 | -------------- | -------------- | ------------ | ---------------- | ---------------- | ---------------- |
-| Light Hammer | <input type="checkbox" checked> | +5 | 1d4 + 3 | B | - |
+| Hammer | <input type="checkbox" checked> | +5 | 1d4 + 3 | B | - |
 | Sickle | <input type="checkbox" checked> | +5 | 1d4 + 3 | S | - |
 >>  ### Other equipment
 | Name         | Equipped         | AC         | Notes         |
@@ -92,13 +94,24 @@
 >>  ### Currency
 | Copper         | Silver         | Gold         | Electrum         | Platinum         |
 | -------------- | -------------- | ------------ | ---------------- | ---------------- |
-| 0 | 0 | 60 | 0 | 0 |
+| 0 | 0 | 59 | 0 | 0 |
 >>  ### Inventory
 | Name         | Amount         | Notes         |
 | -------------- | -------------- | ------------ |
-| Smith's tools | 1 | - |
+| Dungeoneer's pack | 1 | - |
+| Smithing tools | 1 | - |
+| Broken sword | 1 | Dusk Elf Royal Blade, can be reforged |
 >>  ### Spell list
 | Name         | Level         | Notes         |
 | -------------- | -------------- | ------------ |
-| TBD | C | - |
-| TBD | 1 | - |
+| Thaumaturgy | C | - |
+| Firebolt | C | - |
+| Shillelagh | C | - |
+| Poison Spray | C | - |
+| Chill Touch | C | - |
+| Speak with animals | 1 | - |
+| Cure wounds | 1 | - |
+| Goodberry | 1 | - |
+| Thunderwave | 1 | - |
+| Entangle | 1 | - |
+| Faerie fire | 1 | - |

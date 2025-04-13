@@ -799,9 +799,13 @@ This area is largely as described in <span class="citation">Ghoulish Encounter (
 
 </div>
 
-Use [[Encounter - Death House - Zombies]] instead, so 4 Zombies rise where the Ghouls would normally.
+Depending on time and resources remaining, use [[Encounter - Death House - Ghouls]] or the easier [[Encounter - Death House - Zombies]] instead, so 4 Zombies rise where the Ghouls would normally.
 
-When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack.
+Depending on the situation, trigger the encounter when a player enters the central intersection. The two strongest opponents appear perpendicular to the central player, one of the weaker ones appears on the far end and the other in the middle of the party.
+
+Alternatively, when a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack, with the fourth one appearing further to the east.
+
+Check the party formation. If players are keen to try it, run the start of the encounter as a quicktime event: Roll a d4/d6 to decide which player is affected, then have the small monster in the middle of the party burst out a hand and grab that player by the ankle. The player then has 10 seconds in real time to react (counted fown on the DMs fingers). After that, roll initiative.
 
 ![[Ghoulish Encounter Map.png]]
 

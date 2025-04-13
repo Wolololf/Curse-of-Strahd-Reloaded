@@ -6,14 +6,14 @@
 >>  |
 >> ---|---|
 >> **Level** | 2 |
->> **XP** | 0 |
+>> **XP** | 300 |
 >> **Speed** | 35 |
 >> **Proficiency** Bonus | +2 |
 >> **Initiative** | +4 |
 >> **AC** | 15
 >> **HP** | 21 |
 >> **Hit Dice** | 2d10  |
->> **Passive Perception** | 16 |
+>> **Passive Perception** | 17 |
 >>  
 >> ###### Bio
 >>   |
@@ -70,7 +70,7 @@
 | Investigation (INT)   | <input type="checkbox" unchecked>   | +0 |
 | Medicine (WIS)        | <input type="checkbox" unchecked> | +3 |
 | Nature (INT)          | <input type="checkbox" unchecked> | +0 |
-| Perception (WIS)      | <input type="checkbox" checked>   | +5 |
+| Perception (WIS)      | <input type="checkbox" checked>   | +7 |
 | Performance (CHA)     | <input type="checkbox" unchecked> | -2 |
 | Persuasion (CHA)      | <input type="checkbox" unchecked> | -2 |
 | Religion (INT)        | <input type="checkbox" unchecked> | +0 |

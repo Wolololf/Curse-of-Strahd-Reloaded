@@ -5,7 +5,7 @@
 <hr>
 <strong>Armor Class</strong> 12 (14 with shield)
 <br>
-<strong>Hit Points</strong> 17/17
+<strong>Hit Points</strong> 13/17
 <br>
 <strong>Hit Die</strong> 2d8 (2 remaining)
 <br>
@@ -30,19 +30,19 @@
       <td>12 (+1)</td>
       <td>14 (+2)</td>
       <td>12 (+1)</td>
-      <td>15 (+2)</td>
+      <td>16 (+3)</td>
       <td>14 (+2)</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Saving throws</strong> Intelligence (+3), Wisdom (+4) <br>
+<strong>Saving throws</strong> Intelligence (+3), Wisdom (+5) <br>
 <strong>Damage Resistances</strong> Fire <br>
-<strong>Senses</strong> Darkvision 60ft, Passive Perception 14<br>
+<strong>Senses</strong> Darkvision 60ft, Passive Perception 15<br>
 <strong>Languages</strong> Common, Infernal, Orc, Druidic<br>
 <h3>Traits</h3>
-<p><strong><em>Wild shape</em></strong> 4 shapes, 2 charges</p>
+<p><strong><em>Wild shape</em></strong> 4 shapes, 2 charges (1 remaining)</p>
 <h3>Actions</h3>
 <p><strong><em>Dagger.</em></strong> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., one target. <em>Hit:</em> 1d4 + 1 piercing damage.</p>
-<p><strong><em>Staff.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 1d8 + 2 bludgeoning damage.</p>
+<p><strong><em>Staff.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1d8 + 3 bludgeoning damage.</p>
 </div>

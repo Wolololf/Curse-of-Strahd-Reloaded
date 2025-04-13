@@ -1,6 +1,6 @@
 
 <div class="statblock">
-<h2>Rockseeker</h2>
+<h2>Pickel Rockseeker</h2>
 <em>Wild Magic Sorcerer, Mountain Dwarf, Lawful Good</em>
 <hr>
 <strong>Armor Class</strong> 11

@@ -38,7 +38,7 @@
 <hr>
 <strong>Saving throws</strong> Strength (+4), Dexterity (+6) <br>
 <strong>Condition Resistances</strong> Charmed <br>
-<strong>Senses</strong> Darkvision 60ft, Passive Perception 16<br>
+<strong>Senses</strong> Darkvision 60ft, Passive Perception 17<br>
 <strong>Languages</strong> Common, Elvish, Sylvan, Undercommon<br>
 <h3>Traits</h3>
 <p><strong><em>Favoured enemy</em></strong> Apply Hunter's Mark to an enemy to deal an extra 1d6 on each hit (2/day).</p>

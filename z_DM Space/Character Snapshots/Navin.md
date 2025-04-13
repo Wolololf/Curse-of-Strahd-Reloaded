@@ -5,7 +5,7 @@
 <hr>
 <strong>Armor Class</strong> 16 (18 with shield)
 <br>
-<strong>Hit Points</strong> 20/20
+<strong>Hit Points</strong> 14/20
 <br>
 <strong>Hit Die</strong> 2d10 (2 remaining)
 <br>
@@ -29,9 +29,9 @@
       <td>16 (+3)</td>
       <td>14 (+2)</td>
       <td>14 (+2)</td>
-      <td>9 (-1)</td>
+      <td>10 (+0)</td>
       <td>11 (+0)</td>
-      <td>9 (-1)</td>
+      <td>10 (+0)</td>
     </tr>
   </tbody>
 </table>
@@ -40,10 +40,10 @@
 <strong>Senses</strong> Passive Perception 10<br>
 <strong>Languages</strong> Common, Giant<br>
 <h3>Traits</h3>
-<p><strong><em>Savage attacker.</em></strong> TBD</p>
-<p><strong><em>Second wind.</em></strong> TBD</p>
-<p><strong><em>Action surge.</em></strong> TBD</p>
-<p><strong><em>Tactical mind.</em></strong> TBD</p>
+<p><strong><em>Savage attacker.</em></strong> Roll damage dice twice,take best result</p>
+<p><strong><em>Second wind.</em></strong> 1d10+2 healing as a bonus action, 2 times, regain 1 on short rest, all on long rest</p>
+<p><strong><em>Action surge.</em></strong> Perform extra action, recharge on short or long rest</p>
+<p><strong><em>Tactical mind.</em></strong> Use second wind to add 1d10 ro ability check, on fail use is not consumed</p>
 <h3>Actions</h3>
 <p><strong><em>Greatsword.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 2d6 + 3 slashing damage.</p>
 <p><strong><em>Javelin.</em></strong> <em>Ranged Weapon Attack:</em> +5 to hit, reach 20/60 ft., one target. <em>Hit:</em> 1d6 + 3 piercing damage.</p>

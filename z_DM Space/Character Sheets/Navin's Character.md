@@ -6,7 +6,7 @@
 >>  |
 >> ---|---|
 >> **Level** | 2 |
->> **XP** | 0 |
+>> **XP** | 300 |
 >> **Speed** | 35 |
 >> **Proficiency** Bonus | +2 |
 >> **Initiative** | +2 |
@@ -22,7 +22,7 @@
 >> **Sex** | Non-binary |
 >> **Age** | TBD |
 >> **Alignment** | Chaotic Good |
->> **Languages** | Common, Giant, TBD |
+>> **Languages** | Common, Giant, Dwarvish |
 >> ###### Info
 >>   |
 >> ---|---|
@@ -36,7 +36,7 @@
 >> ### Attributes
 | <font color="#ff0000">**STR**</font> | <font color="#ffff00">**DEX**</font> | <font color="#00b050">**CON**</font> | <font color="#7030a0">**INT**</font> | <font color="#245bdb">**WIS**</font> | <font color="#de7802">**CHA**</font> | |
 | ----- | ----------- | ----------------------- | --------------------------------- | ----------------------------------- | - |
-| 16 | 14 | 14| 10 | 11 | 10 | |
+| 16 | 14 | 14| 10 | 11 | 10 |
 | +3 | +2 | +2  | +0 | +1 | +0 | |
 >> ### Saving throws
 | <font color="#ff0000">**STR**</font> | <font color="#ffff00">**DEX**</font> | <font color="#00b050">**CON**</font> | <font color="#7030a0">**INT**</font> | <font color="#245bdb">**WIS**</font> | <font color="#de7802">**CHA**</font> | |
@@ -56,7 +56,7 @@
 | --------------------- | --------------------------------- | 
 | Savage Attacker      | - |
 | Fighting style      | Defence |
-| Weapon mastery     | TBD |
+| Weapon mastery     | Greatsword, Javelin, Flail |
 | Second Wind      | - |
 | Action Surge     | - |
 | Tactical Mind     | - |
@@ -89,6 +89,8 @@
 | Flail | <input type="checkbox" unchecked> | +5 | 1d8 + 3 | B | - |
 | Spear | <input type="checkbox" unchecked> | +5 | 1d6 + 3 | P | Thrown (20/60), Versatile 1d8 |
 | Shortbow | <input type="checkbox" unchecked> | +4 | 1d6 + 2 | P | Ammunition (80/320), two-handed |
+| Heavy Crossbow | <input type="checkbox" unchecked> | +4 | 1d10 + 2 | P | Ammunition (100/400), two-handed, heavy |
+| Hand Crossbow | <input type="checkbox" unchecked> | +4 | 1d6 + 2 | P | Ammunition (30/120), light |
 >>  ### Other equipment
 | Name         | Equipped         | AC         | Notes         |
 | -------------- | -------------- | ------------ | ---------------- |
@@ -102,3 +104,6 @@
 | -------------- | -------------- | ------------ |
 | Healer's kit | 1 | - |
 | Arrows | 20 | - |
+| Crossbow bolts | 30 | - |
+| Silvered crossbow bolts | 3 | - |
+| Vistani scarf | 1 | Stanimir's gift |
