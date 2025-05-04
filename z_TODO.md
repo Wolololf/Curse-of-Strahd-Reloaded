@@ -1,19 +1,4 @@
 DM prep:
-- Revist ghoul encounter, are 4 too many even if prone, reduce to 3 (small in centre of party, medium in front of the party, small distant in side corridor), then at start of turn 2, another medium one joins at distance in an empty hallway
-- Amend shadows to take damage and fizzle out if gemstone is destroyed
-- Better spell cards
-	- Jack's missing
-	- Gaja's Tiefling cards missing, some spells outdated, some incorrect class
-- Re-read death house again
-- Wrap up death house prep
-	- Rose and Thorn roleplay prep
-		- Voices and speech
-		- Magic
-		- Possession
-	- Fallback options for players failing or falling unconscious
-		- Modified spectre stat block for Rose and Thorn, including healing
-		- Modified spectre stat block for Klara
-		- Norganas intervention, vague design for first interaction and offer
 - Barovia prep
 	- Introduction
 	- Bar scene (Izmark, Bildrath, Mad Mary)
@@ -21,27 +6,8 @@ DM prep:
 	- Bildrath's Mercantile
 	- Siege
 
-Session Zero
-- Figure put backstory tie-ins
-	- Ori
-		- Secret Dusk Elf
-		- Werewolf attack and collaboration with Esmeralda
-	- Navin
-		- Tattoos from Vistani travellers, friend of Stanimir, vistani scarf as arm band
-	- Jack
-		- Broken blade of fascinating steel
-	- Gaja
-		- Amber shard for sure
-- Characters:
-	- Ori: Wood Elf Beastmaster Ranger
-	- Navin: Goliath Rune Knight
-	- Gaja: Tiefling Wildfire Druid
-	- Jack: Dwarf Wild Magic Sorcerer
-
 Village of Barovia
 - Revise existing NPCs using new NPC template
-	- Rose
-	- Thorn
 	- Parry
 - Prep NPCs
 	- Ismark
@@ -56,35 +22,33 @@ Village of Barovia
 	- Ireena
 	- Rahadin
 	- Doru
+- Locations
+	- Add encounter with zombies when finding Dalvan's corpse
+	- Entrance
+		- Revise description
+	- Blood on the Vine
+		- Revise description
+		- How to deal with far too big map? Fill in rooms or just fog off the rest of the house?
+	- Bildrath's
+		- Revise description
+	- Burgomaster's Mansion
+		- Revise description
+		- Map too big? Limit? Fill? Improv?
+	- Church
+		- Revise description
 - Item rewards
 	- Moon-touched sword, family heirloom given by Ismark
+- Re-read section
 
 Later on:
 - Early Dark Powers prep for players
 	- Powers/boons don't need to be locked in during first encounter
-	- Stages
-		1. Immediate revival on knockout with full HP
-		2. Tally up small assistances, progress once tally hits 5 or 10
-			1. Increased AC, attack roll, skill check or save by 1 or 2 (1 point)
-			2. Refill spell slot when empty (2 points)
-			3. Stabilise immediately (1 point)
-		3. First in-person meeting during long rest (on request), pact for exhaustion-based or harm-based spell, mild aplearance changes and one of the following boons
-			1. Damage resistance
-			2. 2 skill proficiencies
-			3. 1 expertise
-			4. 5 max HP
-			5. +1 AC
-		4. Achieved by accepting gift at Amber Temple; appearance changes more severely, mild character flaw, plus following boons:
-			1. Spell no longer causes harm, instead CHA save, failure builds corruption, success increases DC
-			2. +3 to one stat, or +2 to primary and +1 to secondary
-			3. Thematic melee/ranged action which guaranteed increases corruption
-		5. Achieved by growing corruption to threshold, additional flaw, severe appearance changes
-			1. Passive attribute
-			2. Boost of first boon
-		6. Corruption complete, character becomes NPC
-	- Increase corruption via spell use, giving in to flaws, following patron instructions
-	- Decrease corruption by abstaining from spell use and actions, resisting temptation
-	- Cure only by greater restoration or similar blessing
+	- Appearance, attitude and goals need to be clear from the beginning
+		- NPC templates?
+		- Navin: Stone Giant ancestor appealing to pursuit of honour and glory, to encourage him to mark his skin with story beyond any ever seen before
+		- Gaja: Spectral figure made of branches and flowers, promises power to punish people who hurt her, to keep herself safe, and to cover this place in green again
+		- Ori: Elven figure made of moonlight, promising the ability to fly, to be unrestricted, freedom
+		- Jack: Dwarven elder dressed in plate mail, promising glorious deeds, recognition, homecoming, belonging
 
 Dream pastries!
 

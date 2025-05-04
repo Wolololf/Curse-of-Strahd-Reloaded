@@ -1,34 +1,34 @@
 >[!column|flex 2]
 >> [!infobox]
->> # Manog
+>> # Pickle Rockseeker
 >> ![[Placeholder]]
 >> ###### Stats
 >>  |
 >> ---|---|
 >> **Level** | 2 |
->> **XP** | 300 |
+>> **XP** | 500 |
 >> **Speed** | 30 |
 >> **Proficiency** Bonus | +2 |
 >> **Initiative** | +1 |
->> **AC** | 12
+>> **AC** | 11 |
 >> **HP** | 17 |
->> **Hit Dice** | 2d8  |
->> **Passive Perception** | 15 |
+>> **Hit Dice** | 2d6  |
+>> **Passive Perception** | 14 |
 >>  
 >> ###### Bio
 >>   |
 >> ---|---|
->> **Race** | Tiefling (Infernal) |
->> **Sex** | Female |
->> **Age** | 29 |
->> **Alignment** | Chaotic Neutral |
->> **Languages** | Common, Infernal, Orc, Druidic |
+>> **Race** | Dwarf (Mountain) |
+>> **Sex** | Male |
+>> **Age** | 30 |
+>> **Alignment** | Lawful Good |
+>> **Languages** | Common, Dwarfish, Gnomish |
 >> ###### Info
 >>   |
 >> ---|---|
->> **Class** | Druid |
->> **Subclass** | Wildfire |
->> **Background** | Charlatan |
+>> **Class** | Sorcerer |
+>> **Subclass** | Wild Magic |
+>> **Background** | Artisan |
 >> **Group(s)** | - |
 >> **Religion(s)** | - |
 >> **Current Location** | - |
@@ -36,60 +36,61 @@
 >> ### Attributes
 | <font color="#ff0000">**STR**</font> | <font color="#ffff00">**DEX**</font> | <font color="#00b050">**CON**</font> | <font color="#7030a0">**INT**</font> | <font color="#245bdb">**WIS**</font> | <font color="#de7802">**CHA**</font> | |
 | ----- | ----------- | ----------------------- | --------------------------------- | ----------------------------------- | - |
-| 8 | 12 | 14  | 12 | 16 | 14 | |
-| -1 | +1 | +2  | +1 | +3 | +2 | |
+| 17 | 12 | 18 | 12 | 12 | 15 | |
+| +3 | +1 | +4  | +1 | +1 | +2 | |
 >> ### Saving throws
 | <font color="#ff0000">**STR**</font> | <font color="#ffff00">**DEX**</font> | <font color="#00b050">**CON**</font> | <font color="#7030a0">**INT**</font> | <font color="#245bdb">**WIS**</font> | <font color="#de7802">**CHA**</font> | |
 | ----- | ----------- | ----------------------- | --------------------------------- | ----------------------------------- | - |
-| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | <input type="checkbox" unchecked>  | <input type="checkbox" checked> | <input type="checkbox" checked> | <input type="checkbox" unchecked> | |
-| -1 | +1 | +2  | +3 | +5 | +2 | |
+| <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | <input type="checkbox" checked>  | <input type="checkbox" unchecked> | <input type="checkbox" unchecked> | <input type="checkbox" checked> | |
+| +3 | +1 | +6  | +1 | +1 | +4 | |
 >> ### Proficiencies
 | Proficiency              | Notes |
 | --------------------- | --------------------------------- | 
-| Light & medium armour      | - |
-| Shields      | - |
+| No armour      | - |
 | Simple weapons      | - |
-| Herbalist Kit     | - |
-| Forgery Kit     | - |
+| Smithing Kit     | - |
+| Tinkerer's Tools     | - |
+| Mason's Tools     | - |
+| Carpenter's Tools     | - |
 >> ### Traits
 | Trait               | Notes |
 | --------------------- | --------------------------------- | 
-| Darkvision 60ft      | - |
-| Resistant to fire damage      | - |
-| Wild shape      | - |
-| Hawk animal companion     | - |
+| Darkvision 120ft      | - |
+| Dwarven resilience      | Resistance to poison damage, advantage on poison saves |
+| Stone cunning      | Tremorsense, learn from stone for 10 minutes |
+| Crafter      | Fast-crafting, tool proficiencies |
+| Magic Incarnate      | TBD |
+| Innate Sorcerer      | TBD |
+| Tides of Chaos      | Advantage on D20, then next spell triggers wild magic surge |
 >> ### Skill Checks
 | Skill               | Proficiency   | Modifier |
 | --------------------- | --------------------------------- | --- |
 | Acrobatics (DEX)      | <input type="checkbox" unchecked> | +1 |
-| Animal Handling (WIS) | <input type="checkbox" unchecked> | +3 |
-| Arcana (INT)          | <input type="checkbox" unchecked> | +3 |
-| Athletics (STR)       | <input type="checkbox" unchecked> | -1 |
-| Deception (CHA)       | <input type="checkbox" checked> | +4 |
+| Animal Handling (WIS) | <input type="checkbox" unchecked> | +1 |
+| Arcana (INT)          | <input type="checkbox" checked> | +3 |
+| Athletics (STR)       | <input type="checkbox" unchecked> | +3 |
+| Deception (CHA)       | <input type="checkbox" unchecked> | +2 |
 | History (INT)         | <input type="checkbox" unchecked> | +1 |
-| Insight (WIS)         | <input type="checkbox" unchecked>   | +3 |
+| Insight (WIS)         | <input type="checkbox" checked>   | +3 |
 | Intimidation (CHA)    | <input type="checkbox" unchecked> | +2 |
-| Investigation (INT)   | <input type="checkbox" unchecked>   | +1 |
-| Medicine (WIS)        | <input type="checkbox" unchecked> | +3 |
+| Investigation (INT)   | <input type="checkbox" checked>   | +3 |
+| Medicine (WIS)        | <input type="checkbox" unchecked> | +1 |
 | Nature (INT)          | <input type="checkbox" unchecked> | +1 |
-| Perception (WIS)      | <input type="checkbox" checked>   | +5 |
+| Perception (WIS)      | <input type="checkbox" unchecked>   | +1 |
 | Performance (CHA)     | <input type="checkbox" unchecked> | +2 |
-| Persuasion (CHA)      | <input type="checkbox" unchecked> | +2 |
+| Persuasion (CHA)      | <input type="checkbox" checked> | +4 |
 | Religion (INT)        | <input type="checkbox" unchecked> | +1 |
-| Sleight of Hand (DEX) | <input type="checkbox" checked> | +3 |
+| Sleight of Hand (DEX) | <input type="checkbox" unchecked> | +1 |
 | Stealth (DEX)         | <input type="checkbox" unchecked> | +1 |
-| Survival (WIS)        | <input type="checkbox" checked> | +5 |
+| Survival (WIS)        | <input type="checkbox" unchecked> | +1 |
 >>  ### Weapons
 | Name         | Equipped         | Attack bonus         | Damage         | Damage type         | Notes         |
 | -------------- | -------------- | ------------ | ---------------- | ---------------- | ---------------- |
-| Dagger | <input type="checkbox" unchecked> | +3 | 1d4 + 1 | P | - |
-| Staff | <input type="checkbox" checked> | +5 | 1d8 + 2 | B | - |
-| Light Crossbow | <input type="checkbox" unchecked> | +3 | 1d8 + 1 | P | Ammunition (80/320), two-handed |
+| Hammer | <input type="checkbox" checked> | +5 | 1d4 + 3 | B | - |
+| Sickle | <input type="checkbox" checked> | +5 | 1d4 + 3 | S | - |
 >>  ### Other equipment
 | Name         | Equipped         | AC         | Notes         |
 | -------------- | -------------- | ------------ | ---------------- |
-| Leather Armour | <input type="checkbox" checked> | 11 | - |
-| Shield | <input type="checkbox" unchecked> | +2 | - |
 >>  ### Currency
 | Copper         | Silver         | Gold         | Electrum         | Platinum         |
 | -------------- | -------------- | ------------ | ---------------- | ---------------- |
@@ -97,9 +98,9 @@
 >>  ### Inventory
 | Name         | Amount         | Notes         |
 | -------------- | -------------- | ------------ |
-| Explorer's kit | 1 | - |
-| Herbalist's kit | 1 | - |
-| Amber Shard | 1 | Enchanted Dark Powers seedling |
+| Dungeoneer's pack | 1 | - |
+| Smithing tools | 1 | - |
+| Broken sword | 1 | Dusk Elf Royal Blade, can be reforged |
 >>  ### Spell list
 | Name         | Level         | Notes         |
 | -------------- | -------------- | ------------ |
@@ -114,3 +115,14 @@
 | Thunderwave | 1 | - |
 | Entangle | 1 | - |
 | Faerie fire | 1 | - |
+
+Background:
+- Part of the Phandelver Rockseeker clan, was a smith in the Wave Echo Cave, while delving was exposed to Wild Magic
+- Cannot control his Wild Magic, has caused incidents and had to leave various forges and move around
+- Desperately wants to prove himself, wants to be a good dwarf by becoming a great smith and martial fighter
+
+Plot hooks:
+- Is the party's smith, got dragged along
+- Has a mysterious piece of metal that he's held on to for a while which is a broken Dusk Elf blade
+
+Dark Power: 

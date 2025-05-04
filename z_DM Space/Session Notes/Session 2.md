@@ -1,0 +1,19 @@
+- Time: 3h 50min
+- Party found letter to Minadora and rings, deduced somebody died here, but didn't get that it was Elisabeth
+- Tried to escape via balcony, realised black tentacles belong to house and Beast
+- Manog holding on to amber shard for now
+- Brief seance that summoned Elisabeth who threatened them and tried to get them to leave
+- Party terrified of Beast, looking for the name
+- Bit of exposition of Tav's Underdark upbringing and Hjal's orphanage past
+- Found bloodstains and shackles in bed, deduced Klara died there, killed by Elisabeth
+- Found romance novel, Tav took it
+- Found nursery, found the name Walter, found woman's finger with sharp teeth marks
+- Interaction with Klara, learnt that Elisabeth killed her, that Walter was a good child but may have been corrupted by Elisabeth and her amber, revealed the door in the end
+- Found guest room with signs of a scuffle, found Theramenes' journal and some crossbow bolts
+- Found Klara's body, Elisabeth appeared in the mirror and threatened them again
+- Interaction with Rose and Thorn, Rose possessed Hjal, Thorn possessed Pickle, Pickle took Thorn's plush wolf and wooden horse and rider
+- Party knows about Rose and Thorn's magic, took their bones to help them leave the house
+- Found staircase with Rose's help, descended to dungeon
+- Found crypt but went to initiate's quarters
+- In cultist quarters, broke into lockboxes, found loot and logbook, correctly put together that the prisoners may have been their previous characters
+- Attracted Grick with noise but ambush failed, was defeated by party

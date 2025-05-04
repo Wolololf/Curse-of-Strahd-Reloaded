@@ -33,7 +33,7 @@
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Stealth +4 <br>
+<strong>Skills</strong> Stealth +6 <br>
 <strong>Saving throws</strong> - <br>
 <strong>Damage Vulnerabilities</strong> Radiant <br>
 <strong>Damage Immunities</strong> Necrotic, Poison <br>
@@ -44,13 +44,11 @@
 <strong>Proficiency Bonus</strong> +2<br>
 <h3>Traits</h3>
 <p><strong><em>Amorphous.</em></strong> The shadow can move through a space as narrow as 1 inch wide without expending extra movement to do so.</p>
-<p><strong><em>Sunlight Weakness.</em></strong> While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.</p>
-<p><strong><em>Light Sensitivity.</em></strong> The shadow is immune to acid, cold, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage, while in darkness. The shadow is resistant to those damage types while in dim light, and is damaged by those damage types normally while in bright light.</p>
+<p><strong><em>Sunlight Sensitivity.</em></strong> While in sunlight, the spectre has disadvantage on ability checks and attack rolls.</p>
+<p><strong><em>Light Sensitivity.</em></strong> The shadow is immune to acid, cold, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage, while in darkness. The shadow is resistant to those damage types while in dim light, and is damaged by those damage types normally while in bright light. While in bright light, the shadow also takes 1d4 radiant damage at the start of their turn.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The boneless makes two <strong><em>Slam</em></strong> attacks. If both attacks hit a Large or smaller creature, the create is grappled (escape DC 13), and the boneless can use <strong><em>Crushing Embrace</em></strong>.</p>
-<p><strong><em>Strength Drain.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
-
-If a non-evil humanoid dies from this attack, a new <strong><em>Shadow</em></strong> rises from the corpse 1d4 hours later.</p>
+<p><strong><em>Draining Swipe.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
+If a humanoid dies from this attack, a new <strong><em>Shadow</em></strong> rises from the corpse 1d4 hours later.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Shadow Stealth.</em></strong> While in dim light or darkness, the shadow can take the <strong><em>Hide</em></strong> action as a bonus action.</p>
 </div>

@@ -1,12 +1,12 @@
 >[!column|flex 2]
 >> [!infobox]
->> # Orist
+>> # Tavorien Moonveil
 >> ![[Placeholder]]
 >> ###### Stats
 >>  |
 >> ---|---|
 >> **Level** | 2 |
->> **XP** | 300 |
+>> **XP** | 500 |
 >> **Speed** | 35 |
 >> **Proficiency** Bonus | +2 |
 >> **Initiative** | +4 |
@@ -108,3 +108,15 @@
 | Ensnaring strike | 1 | - |
 | Ice Knife | 1 | 1/day |
 | Hunter's Mark | 1 | 2/day |
+
+Background:
+- Grew up in the Underdark in a Dusk Elf enclave away, learned to hunt and stay alive
+- Eventually escaped upwards, saw the moon and took the name "Moonveil"
+- Stayed alive in the woods away from civilisation
+
+Plot hooks:
+- Dusk Elf descendant, the encampment near Vallaki would recognise them
+- Once hunted werewolves with Esmeralda
+- Is here to make the forests safe again and to clear the skies
+
+Dark Power: [[Valoria (Amber - Ori)]]

@@ -805,8 +805,6 @@ Depending on the situation, trigger the encounter when a player enters the centr
 
 Alternatively, when a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack, with the fourth one appearing further to the east.
 
-Check the party formation. If players are keen to try it, run the start of the encounter as a quicktime event: Roll a d4/d6 to decide which player is affected, then have the small monster in the middle of the party burst out a hand and grab that player by the ankle. The player then has 10 seconds in real time to react (counted fown on the DMs fingers). After that, roll initiative.
-
 ![[Ghoulish Encounter Map.png]]
 
 > [!combat]- **Balancing the Ghouls**
