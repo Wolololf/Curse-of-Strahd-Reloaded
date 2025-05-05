@@ -4,7 +4,6 @@ DM prep:
 	- Bar scene (Izmark, Bildrath, Mad Mary)
 	- Burgomaster's Mansion and lunch
 	- Bildrath's Mercantile
-	- Siege
 
 Village of Barovia
 - Revise existing NPCs using new NPC template
