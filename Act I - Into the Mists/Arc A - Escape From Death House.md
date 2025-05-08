@@ -1074,12 +1074,14 @@ As the players explore their surroundings, they can quickly see the top of an ol
 
 The players can easily surmise that this ruin appears to be a safe place to spend the night. Rose and Thorn offer to serve as sentries while the players rest, watching the woods and awakening the players should any threats emerge.
 
-The night passes without issue. When the players awaken the following morning, Rose and Thorn ask the players if they can bury their remains before proceeding any further, so that they can finally rest. (The children's spirits will not proceed further into Barovia, instead pleading for the players to allow them to rest.) If the players bury their remains here, Rose can give the players some directions about the nearby areas, most importantly the Village of Barovia and the road through the woods. Thorn gifts the player he most attached to his wooden horse toy, which is a carving of his father during his military service, made by Klara. He says that it kept him safe but he doesn't need it any more, and he wants the player to have it instead.
+The night passes without issue. When the players awaken the following morning, Rose and Thorn ask the players if they can bury their remains before proceeding any further, so that they can finally rest. (The children's spirits will not proceed further into Barovia, instead pleading for the players to allow them to rest.) If the players bury their remains here, Rose can give the players some directions about the nearby areas, most importantly the Village of Barovia and the road through the woods.
+Thorn gifts the player he most attached to his wolf plush toy, Spike, which Miss Klara made for him. He says that it kept him safe but he doesn't need it any more, and he wants the player to have it instead. ([[Spike's Protection]])
+Rose gifts her favourite player her wolf plush toy, Ravenovia (after the King's wife). She claims it always gave her wise council and now it shall advise the player instead. ([[Ravenovia's Council]])
 
 Once the burial is done, read:
 <div class="description">
 <p>Rose puts a hand on Thorn's shoulder. "It's time to go". With a nod to you, she steps into the middle of the clearing, Thorn holding her hand as he follows her.</p>
-<p>As they reach the centre of the clearing, the wind picks up a little and there is a break in the clouds, just enough to let through some sunlight and warmth. The children turn around to you and you see that Rose's eyes are closed and she's smiling, her hair catching the wind, while Thorn gives you a cheery wave. With the wind rustling in the trees, you see the spirits start to dissolve into mist, carried away with the leaves on a gentle breeze.</p>
+<p>As they reach the centre of the clearing, the wind picks up a little and there is a break in the clouds, just enough to let through some warmth and sunlight. As the children turn around to you,  you see that Rose's eyes are closed and she's smiling, her hair catching the wind, while Thorn gives you a cheery wave. With the wind rustling in the trees, you see the spirits start to dissolve into mist, carried away with the leaves on a gentle breeze.</p>
 </div>
 
 The players can find the beginning of the Old Svalich Road a short ways through the woods away from the tower. [[Act I - Into the Mists/Arc B - Welcome to Barovia]] then begins.

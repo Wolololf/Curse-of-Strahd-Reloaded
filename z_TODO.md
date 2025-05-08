@@ -1,4 +1,5 @@
 DM prep:
+- Prep messages with item cards for each player
 - Barovia prep
 	- Introduction
 	- Bar scene (Izmark, Bildrath, Mad Mary)
@@ -7,9 +8,10 @@ DM prep:
 
 Village of Barovia
 - Revise existing NPCs using new NPC template
-	- Parry
-- Prep NPCs
 	- Ismark
+	- Parry
+	- Mad Mary
+- Prep NPCs
 	- Bildrath
 	- Ireena
 	- Kolyan

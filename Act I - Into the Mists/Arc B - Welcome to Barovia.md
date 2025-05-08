@@ -44,8 +44,10 @@ The rider is also carrying the following letter:
  <p>So please just rest up and heal. In a few days, you'll be back on the barricades with Izmark and the rest of the boys, and you can help keep us safe.</p>
   <p>P.S.: There's some stew left in the pot, and enough firewood to reheat it on the stove.<br>
   Love you, my boy.</p>
- <p>Marta</p>
+ <p>Mom</p>
  </div>
+
+![[DalvansLetter.png]]
 
 > [!lore]+ **What happened to Dalvan?**
 > After Dalvan was injured in the leg fighting the undead early on, he decided, half feverish, that the village was doomed and he needed to get help. Since the road to Vallaki was blocked, he made the desperate play to steal a horse and escape eastwards, through the mists.
