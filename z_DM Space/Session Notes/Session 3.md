@@ -1,10 +1,11 @@
 - Time: 4h 55min
 - Manog fell into spike trap, got knocked unconscious, Hjal pulls her out and stabilises her, Tav feeds her a healing potion while Pickle mends her clothing. Teamwork makes the dream work!
-- Ghoul encounter went terribly, had to really spread out the waves or they would have all died
+- Ghoul encounter went over well but tactics were overwhelming, fight dragged on too long.
+- Pickle touched globe and alerted Strahd, which explains road encounter later on
 - Magic items
 	- Tav: Boots of Elvenkind, Cloak of Billowing
 	- Pickle: Cloak of Protection
 	- Manog: Circlet of Blasting
 	- Hjalmar: Battering Shield, Hat of Vermin
 - Found the reliquary, found the prison, decided not to rest before the ritual chamber
-- Tried to feed the monster a ham sandwich and some of the relics
+- Tried to feed the monster a ham sandwich and some of the relics, which lead to it attacking

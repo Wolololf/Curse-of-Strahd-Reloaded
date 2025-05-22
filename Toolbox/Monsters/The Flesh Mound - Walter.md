@@ -4,7 +4,7 @@
 <hr>
 <strong>Armor Class</strong> 14 (natural armour)
 <br>
-<strong>Hit Points</strong> 66 (8d10 + 22)
+<strong>Hit Points</strong> 60 (8d10 + 16)
 <br>
 <strong>Speed</strong> 20 ft.
 <br>
@@ -61,7 +61,7 @@
 <hr>
 <strong>Armor Class</strong> 14 (natural armour)
 <br>
-<strong>Hit Points</strong> 66 (8d10 + 22)
+<strong>Hit Points</strong> 60 (8d10 + 16)
 <br>
 <strong>Speed</strong> 20 ft.
 <br>
@@ -97,7 +97,7 @@
 <h3>Traits</h3>
 <p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>tentacle</em></strong> attack more than once per turn.</p>
 <p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures, as well as spaces smaller than a Large creature. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
-<p><strong><em>Innocent Heart.</em></strong> The center of the mound conceals its "heart": a large, misshapen rib cage. Within the rib cage hovers the infant corpse of Walter Durst. Walter's corpse has AC 15 and the same ability scores as the flesh mound. Each time Walter's corpse takes damage, the flesh mound takes twice as much damage.</p>
+<p><strong><em>Innocent Heart.</em></strong> The center of the mound conceals its "heart": a large, misshapen rib cage. Within the rib cage hovers the infant corpse of Walter Durst. Walter's corpse has AC 14 and the same ability scores as the flesh mound. Each time Walter's corpse takes damage, the flesh mound takes twice as much damage.</p>
 <p><strong><em>Mother's Lullaby.</em></strong> If a player uses their action to hum or play <em>Waltz for Klara</em> and succeeds on a DC 10 Charisma (Performance) check, the mound exposes its heart and can't use its <strong><em>withdraw</em></strong> reaction until the start of the player's next turn.
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The flesh mound makes three attacks, or two attacks if its <strong><em>heavy sleeper</em></strong> feature is active.</p>
