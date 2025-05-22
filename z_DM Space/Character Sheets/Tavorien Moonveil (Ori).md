@@ -119,4 +119,4 @@ Plot hooks:
 - Once hunted werewolves with Esmeralda
 - Is here to make the forests safe again and to clear the skies
 
-Dark Power: [[Valoria (Amber - Ori)]]
+Dark Power: [[Valoria, Watcher in the Dark (Amber - Ori)]]

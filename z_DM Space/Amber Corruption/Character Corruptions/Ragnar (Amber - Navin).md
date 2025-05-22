@@ -1,26 +1,26 @@
 > [!profile]+ **Profile: Ragnar
 >
 > **Roleplaying Information**
-> ***Quote.*** "Is this how your story ends, little one? You set out to win renown and stumble at the first hurdle?"
+> ***Quote.*** "Is this how your story ends, little one? You set out to win renown and stumble at the first hurdle? You mark your skin with runes like ink on parchment, to tell of your deeds, yet you're practically a blank page. This is not the end of this story, let's write a new beginning together!"
 >
-> ***Mannerisms.*** TBD
+> ***Mannerisms.*** Moves slow and lumbering, with deliberate movements
 >
-> ***Speech.*** TBD
+> ***Speech.*** Slow, deep throaty speech; likes to go on a little
 >
-> ***Traits and attitude.*** TBD
+> ***Traits and attitude.*** Fatherly attitude, loves to tell stories
 >
 > ***Inspirations.*** TBD
 >
 > **Character Information**
-> ***Appearance.*** Huge Stone Giant, wielding double great axes and wearing a coat made of a dire wolf.
+> ***Appearance.*** Huge Stone Giant (18ft tall), wielding double great axes made of flint, and wearing a coat made of a dire wolf.
 >
-> ***Background.*** TBD
+> ***Background.*** A great hunter in his youth, he later became the chieftain of his tribe after returning from his pilgrimage and overthrowing the corrupt previous leader. In age, he stepped down from his throne. He died here when Strahd's father invaded the land.
 >
-> ***Motivations.*** Aims to put Hjalmar on the throne by appealing to his ego, he could build a court of flatterers and followers, his deeds sung far and wide, and occasionally he could go out and vanquish some danger Ragnar summons for him.
+> ***Motivations.*** Seemingly he wants to live vicariously through Hjalmar who he sees as a kind of descendant, and wants to help for his love of stories; secretly he aims to corrupt Hjalmar by appealing to his ego and his temper, alienating him from his friends in his pursuit of telling his own story, not theirs, and fighting increasingly stronger opponents until at last there is nobody left, and he has to escape Barovia with Ragnar.
 >
 > ***Relationships.*** A rival to Vampyr and the other Dark powers.
 >
-> ***Key info.*** TBD
+> ***Key info.*** Presents himself as an ally to Hjalmar to aid him in becoming a hero of legend.
 
 ![[]]
 

@@ -2,9 +2,9 @@
 <h2>The Flesh Mound</h2>
 <em>Large undead, chaotic evil</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Armor Class</strong> 14 (natural armour)
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Hit Points</strong> 66 (8d10 + 22)
 <br>
 <strong>Speed</strong> 20 ft.
 <br>
@@ -59,9 +59,9 @@
 <h2>Walter, the Graveborn</h2>
 <em>Large undead, chaotic evil</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Armor Class</strong> 14 (natural armour)
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Hit Points</strong> 66 (8d10 + 22)
 <br>
 <strong>Speed</strong> 20 ft.
 <br>

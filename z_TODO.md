@@ -1,18 +1,16 @@
 DM prep:
-- Prep messages with item cards for each player
 - Barovia prep
 	- Introduction
 	- Bar scene (Izmark, Bildrath, Mad Mary)
 	- Burgomaster's Mansion and lunch
 	- Bildrath's Mercantile
+	- Handouts
+		- Letter of recommendation from Kolyan
 
 Village of Barovia
 - Revise existing NPCs using new NPC template
-	- Ismark
-	- Parry
 	- Mad Mary
 - Prep NPCs
-	- Bildrath
 	- Ireena
 	- Kolyan
 	- Alenka
@@ -24,7 +22,6 @@ Village of Barovia
 	- Rahadin
 	- Doru
 - Locations
-	- Add encounter with zombies when finding Dalvan's corpse
 	- Entrance
 		- Revise description
 	- Blood on the Vine
@@ -40,16 +37,6 @@ Village of Barovia
 - Item rewards
 	- Moon-touched sword, family heirloom given by Ismark
 - Re-read section
-
-Later on:
-- Early Dark Powers prep for players
-	- Powers/boons don't need to be locked in during first encounter
-	- Appearance, attitude and goals need to be clear from the beginning
-		- NPC templates?
-		- Navin: Stone Giant ancestor appealing to pursuit of honour and glory, to encourage him to mark his skin with story beyond any ever seen before
-		- Gaja: Spectral figure made of branches and flowers, promises power to punish people who hurt her, to keep herself safe, and to cover this place in green again
-		- Ori: Elven figure made of moonlight, promising the ability to fly, to be unrestricted, freedom
-		- Jack: Dwarven elder dressed in plate mail, promising glorious deeds, recognition, homecoming, belonging
 
 Dream pastries!
 
