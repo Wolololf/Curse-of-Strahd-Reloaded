@@ -1,0 +1,3 @@
+- Pickle and Hjalmar knocked down and met their guardian spirits
+- Wanted to fight Gustav but Rose interceded
+- Put Rose and Thorn to rest, got the plush toys

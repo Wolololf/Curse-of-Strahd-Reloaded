@@ -1,7 +1,7 @@
 > [!profile]+ **Profile: Kereza
 >
 > **Roleplaying Information**
-> ***Quote.*** TBD
+> ***Quote.*** Hugin and Mugin in Banner Saga
 >
 > ***Mannerisms.*** Lots of hand gestures, very expressive, performative
 >

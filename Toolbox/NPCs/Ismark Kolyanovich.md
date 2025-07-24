@@ -5,7 +5,7 @@
 >
 > ***Mannerisms.*** Exhausted, wipes his forehead, smooths his hair back or rubs his eyes; cautious smiles
 >
-> ***Speech.*** Friendly, everyday speech; clear, slightly high-pitched voice
+> ***Speech.*** Friendly, everyday speech; clear, slightly hoarse voice
 >
 > ***Traits and attitude.*** Inquisitive, but worried; desperate to protect his village, guilty about endangering them in the first place;
 >

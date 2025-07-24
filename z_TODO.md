@@ -2,10 +2,26 @@ DM prep:
 - Barovia prep
 	- Introduction
 	- Bar scene (Izmark, Bildrath, Mad Mary)
-	- Burgomaster's Mansion and lunch
+	- Burgomaster's Mansion, protest and lunch
 	- Bildrath's Mercantile
+	- Rahadin's Judgement
+	- Izmark's plea
+	- Donavich and Doru at the church
+		- Doru arguments pro/cons
+		- Vampire and Vampire spawn stat blocks
+		- Add Donavich and Doru to church battlemap
+	- Departure with Ireena
 	- Handouts
 		- Letter of recommendation from Kolyan
+		- Van Richten's book entries (shortened, one for vampires, one for werewolves)
+- Road to Vallaki
+	- Strahd's welcome
+- Vistani camp
+	- Storytelling contest
+	- Tarokka reading
+- Road to Vallaki
+	- Wolf encounter and battlemap
+	- Old Bonegrinder
 
 Village of Barovia
 - Revise existing NPCs using new NPC template
@@ -37,6 +53,14 @@ Village of Barovia
 - Item rewards
 	- Moon-touched sword, family heirloom given by Ismark
 - Re-read section
+
+Road to Vallaki / Vistani Camp
+- Strahd
+- Madame Eva
+- Arturi
+- Stanimir
+- Spy Lady
+- Granny / Morgantha
 
 Dream pastries!
 
