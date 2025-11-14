@@ -6,4 +6,4 @@ creatures:
 - 2: Wolf, 11, 12, +2
 ```
 
-![[Wolf]]
+![[Barovian Wolf]]

@@ -1,4 +1,4 @@
-```encounter name: Example
+```encounter name: Town Square
 creatures:
 - Zombie Plague Spreader, 112, 10, +0
 - Ismark, ally, 40, 17, +3

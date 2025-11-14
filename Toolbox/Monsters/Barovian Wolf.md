@@ -1,5 +1,5 @@
 <div class="statblock">
-<h2>Wolf</h2>
+<h2>Barovian Wolf</h2>
 <em>Medium Beast, unaligned</em>
 <hr>
 <strong>Armor Class</strong> 12
@@ -41,5 +41,6 @@
 <h3>Traits</h3>
 <p><strong><em>Pack tactics.</em></strong> The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the incapacitated condition.</p>
 <h3>Actions</h3>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage. If the target is a medium or smaller creature, it has the prone condition.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (2d4 + 2) piercing damage. Instead of dealing damage, the wolf can grapple the target (escape DC 11).</p>
+<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d8 + 2) slashing damage.If the target is a creature, it must make a DC 11 Strength saving throw. On a failure, it is knocked prone or pushed 5 feet away (wolf's choice).</p>
 </div>

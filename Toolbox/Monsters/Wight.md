@@ -46,7 +46,7 @@
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The wight makes two attacks, using Necrotic Sword or Necrotic Bow in any combination. It can replace one attack with a use of Life Drain.</p>
 <p><strong><em>Necrotic Sword.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d8 + 2) slashing damage + 1d8 necrotic damage.</p>
-<p><strong><em>Necrotic Bow.</em></strong> <em>Ranged Weapon Attack:</em> +4 to hit, reach 150/600 ft., one target. <em>Hit:</em> 6 (1d8 + 2) piercing damage + 1d8 necrotic damage.</p>
+<p><strong><em>Necrotic Bow.</em></strong> <em>Ranged Weapon Attack:</em> +4 to hit, reach 150/600 ft., one target. <em>Hit:</em> 6 (1d8 + 2) piercing damage (+ 1d8 necrotic damage).</p>
 <p><strong><em>Life Drain.</em></strong> <em>Melee Weapon Attack:</em> DC 13 CON save, reach 5 ft., one target. <em>Hit:</em> 6 (1d8 + 2) necrotic damage, and the target's Hit Point maximum decreases by an amount equal to the damage taken.<br>
 A Humanoid slain by this attack rises 24 hour later as a <strong>Zombie</strong> under the wight's control, unless the Humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at a time.</p>
 </div>

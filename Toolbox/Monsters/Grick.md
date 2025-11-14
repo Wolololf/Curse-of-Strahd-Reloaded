@@ -41,7 +41,7 @@
 <h3>Traits</h3>
 <p><strong><em>Stone Camouflage.</em></strong> The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The grick makes one <strong><em>Beak</em></strong> attack and one <strong><em>Tentacles</em></strong> attack..</p>
+<p><strong><em>Multiattack.</em></strong> The grick makes one <strong><em>Beak</em></strong> attack and one <strong><em>Tentacles</em></strong> attack.</p>
 <p><strong><em>Beak.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (2d6 + 2) piercing damage.</p>
 <p><strong><em>Tentacles.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d10 + 2) slashing damage. If the target is a Medium or smaller creature, it has the <strong><em>Grappled</em></strong> condition (escape DC12) from all four tentacles.</p>
 </div>

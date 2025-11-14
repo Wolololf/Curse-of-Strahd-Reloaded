@@ -4,16 +4,25 @@ DM prep:
 	- Bar scene (Izmark, Bildrath, Mad Mary)
 	- Burgomaster's Mansion, protest and lunch
 	- Bildrath's Mercantile
+	- Award 200 XP after siege
 	- Rahadin's Judgement
 	- Izmark's plea
-	- Donavich and Doru at the church
-		- Doru arguments pro/cons
-		- Vampire and Vampire spawn stat blocks
-		- Add Donavich and Doru to church battlemap
+	- Donavich and Doru at the church (including Doru arguments)
+		- Vampire and Vampire Spawn stat blocks
 	- Departure with Ireena
+	- Handouts
+		- Letter of recommendation from Kolyan
+		- Van Richten's book entries (shortened, vampires & werewolves)
+		- Rahadin's verdict
+	- Fire bottle equipment card
 - Road to Vallaki
+	- Strix attack outside town
+		- Including battlemap and encounter
+	- Zombie family and Van Richten's cache
+		- Forest battlemap and cache rewards
 	- Strahd's welcome
 - Vistani camp
+	- Battlemap
 	- Storytelling contest
 	- Tarokka reading
 - Road to Vallaki

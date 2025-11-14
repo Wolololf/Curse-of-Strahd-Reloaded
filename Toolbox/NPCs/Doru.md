@@ -1,4 +1,4 @@
-> [!profile]+ **Profile: Arturi Radanavich
+> [!profile]+ **Profile: Name
 >
 > **Roleplaying Information**
 > ***Quote.*** TBD
@@ -22,4 +22,4 @@
 >
 > ***Key info.*** TBD
 
-![[]]
+![[Toolbox/Allies/Doru|Doru]]

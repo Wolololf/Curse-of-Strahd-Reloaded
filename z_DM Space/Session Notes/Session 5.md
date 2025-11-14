@@ -1,0 +1,8 @@
+- Buried Kolyan, decided to take Doru with them
+- Izmark gifted moon-touched rapier which Tav took
+- Izmark asked them to visit Seer in Vistani camp
+- Mentioned silver bracelet, but didn't explain the inscription, worth bringing that up at camp at some point?
+- Doru is with the party, actively resisting the command to stay with his father. Constitution saves over time, if he succeeds three times, command is broken (DC 15 start, decreasing to 12 and 10 on success), if he fails three times, he becomes feral again and runs off to his father (increasing to 18 and 20 on failure)
+- Barovian scouts looked for Lansten family, interrogated party but Doru played unconscious, gave excuse of taking him to a healer
+- Lansten family and cache, Ireena upset about having to kill villagers
+- Ended session with Strahd's carriage, wolves surrounding party, Strahd started questioning party about interfering with course of justice

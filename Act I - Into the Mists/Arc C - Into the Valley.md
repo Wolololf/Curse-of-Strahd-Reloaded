@@ -645,6 +645,7 @@ If the players pause, proceed, or attack, the five wolves in the woods strike. R
 <p>Five snarling shadows launch from the underbrush, fangs bared and claws outstretched!</p>
 </div>
 
+[[Encounter - Road to Vallaki - Wolf Ambush]]
 
 > [!combat]- **Balancing the Wolves** 
 > This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
@@ -677,6 +678,8 @@ This area is largely as described in <span class="citation">Tser Falls (p. 37)</
 
 ![[Bridge Revenant.png]]
 <span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
+[[Toolbox/NPCs/Revenant|Revenant]]
 
 > [!lore]+ **Vladimir’s Fury**
 >
@@ -730,10 +733,16 @@ The journey from Tser Falls to the <span class="citation">Black Carriage (p. 37)
 
 This area is as described in <span class="citation">Black Carriage (p. 37)</span>. (Strahd's carriage is not present, though the players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.)
 
+[[CastleRavenloft.jpg]]
+![[CastleRavenloft.jpg]]
+
 The journey from the Black Carriage to the western **Gates of Barovia** is a quarter-mile and takes five minutes. This area is as described in <span class="citation">Gates of Barovia (p. 33)</span>, but seen from the opposite side.
 
 > [!abstract]+ **Visiting Castle Ravenloft**
 > If the players decide to visit Castle Ravenloft (e.g., to investigate Gertruda's disappearance), the journey from the crossroads is two-and-one-half miles long and takes fifty minutes. When the players arrive, the exterior of the castle is as described in [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
+
+[[GatesOfBarovia.jpg]]
+![[GatesOfBarovia.jpg]]
 # C9. Old Bonegrinder
 <span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
 
@@ -754,7 +763,7 @@ As the windmill comes into view, the players also notice **Morgantha** approachi
 
 This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
 
-![[Morgantha_Disguised.png]]
+![[Granny_Morgantha.png]]
 <span class="credit">"Morgantha Disguised" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Morgantha, Dream Peddler**

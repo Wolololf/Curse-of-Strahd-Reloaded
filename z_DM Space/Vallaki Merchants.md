@@ -1,0 +1,34 @@
+- The Cracked Anvil
+	- Isidore Strongarm and his son Rangor, human outsiders who ended up in Barovia by accident
+	- Basic weapons and armour (maybe a +1 weapon?)
+- Lila's Herbals
+	- Lila Hawthorn, mad hippy (Trelawney)
+	- Herbs, some minor potions
+- Trapped Paw Supplies
+	- Norbert, walks with a limp, former hunting buddy of Szoldar and Evgeny
+	- Hunting supplies, traps, arrows
+- Endless Delight Clothier
+	- Ernst Larnak
+	- Front for a brothel and gambling den
+- Blackwater Tavern
+	- TBD
+	- Rough local pub, not friendly to outsiders
+- The Hab and Dash
+	- Wenzeslaus "Geoffrey" Andrejvich
+	- Fashionable clothing, cloaks
+- Avicenna's Augury
+	- Avicenna Koskinas
+	- Magic supplies, orbs, spell scrolls
+- Walpole and Sons Books
+	- Wilfred Walpole and sons Wulfred and Ed
+	- Books
+- The Straight Arrow
+	- Bows, crossbows, arrows (maybe one or two +1 weapons?)
+- The Cart & Wheel
+	- Carts, horses
+- Skran's Leathers
+	- Leather armour, tents, etc
+- Stefanovich & Sons
+	- General store
+- Wayland's Hammer
+	- Blacksmith

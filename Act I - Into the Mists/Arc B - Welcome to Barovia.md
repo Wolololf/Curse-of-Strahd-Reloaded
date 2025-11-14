@@ -244,7 +244,7 @@ When the players arrive, they find a mob of ten Barovian **commoners** has forme
 
 The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
 
-![[Ireena Kolyana]]
+![[Toolbox/NPCs/Ireena Kolyana]]
 
 ![[Kolyan Indirovich]]
 
@@ -357,7 +357,7 @@ When the players are ready to depart, Ireena retrieves a wooden crate containing
 ## B5e. Bildrath’s Mercantile
 <span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
 
-Should the players choose to visit it before proceeding to [[#B5f. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
+Should the players choose to visit it before proceeding to [[#B5f. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval.
 
 If any players were kind to him in the tavern, he instead sells those players items at the normal price listed in the *Player's Handbook*—a special deal, for them only. If any players defended Ismark in the tavern, Bildrath glowers at them and instead sells those players items at five times the price listed in the _Player’s Handbook_, spitefully claiming them to be a “special deal" for friends of the town’s “great hero."
 
@@ -728,6 +728,19 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 > ***Morale.*** In a fight, Doru would seek to flee to avoid hurting anyone—but if his father or Gertruda were endangered, he would fight savagely to protect them.
 >
 > ***Relationships.*** Doru is Father Donavich's son, Escher's former friend, and Gertruda's betrothed.
+
+Adjust this so encouragements and discouragements add dice of varying size for and against Doru overcoming his bloodlust. When Doru is exposed to blood, roll both sides, the higher tally wins.
+
+Example arguments against:
+- His father believes he's a monster.
+- He deserves this punishment for waking Strahd and getting his friends killed.
+- Even if he can control his urges now, what guarantee does he have that he won't hurt people later on if he loses control then?
+
+Example arguments for:
+- His father still loves him and is grieving for him.
+- He still has his faith.
+- His fiancee Gertrude needs him.
+- He still has friends left, Izmark and Ireena are still there for him.
 
 > [!info]+ **Doru Will Remember That**
 >

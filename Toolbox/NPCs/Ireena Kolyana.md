@@ -3,22 +3,24 @@
 > **Roleplaying Information**
 > ***Quote.*** TBD
 >
-> ***Mannerisms.*** TBD
+> ***Mannerisms.*** Restless finger tapping, active hand gestures
 >
-> ***Speech.*** TBD
+> ***Speech.*** Clipped, fast speech, stumbles over herself occasionally
 >
-> ***Traits and attitude.*** TBD
+> ***Traits and attitude.*** Young, energetic, helpful, faithful
 >
-> ***Inspirations.*** TBD
+> ***Inspirations.*** Jewel Staite's character from Firefly
 >
 > **Character Information**
-> ***Appearance.*** TBD
+> ***Appearance.*** Late teens, average height, slight build, curly red hair. Sometimes wears fine leather armour, but more commonly seen in simple work clothes.
 >
-> ***Background.*** TBD
+> ***Background.*** Born in Vallaki, sister to Izek Strazni. Her mother passed in childbirth, her father died defending her in a wolf attack while out hunting, her brother Izek lost his arm, but she escaped and was found in the Svalich Woods by Kolyan Indirovich who brought her home to his wife, who raised her as their own.
+> While she trained as a scribe and administrator alongside Izmark, she also picked up a bit of swordplay when Izmark needed a training partner, and became skilled in patching up injuries that happened in practice.
+> Friends from a young age with Doru, she's a devotee of the Morninglord, but also believes in the mystic power of the seer Madame Eva.
 >
-> ***Motivations.*** TBD
+> ***Motivations.*** Ireena wants to keep her family and town safe, avenge her father, free Barovia from Strahd's control, escape the mists and travel the world.
 >
-> ***Relationships.*** TBD
+> ***Relationships.*** Sister to Izek Strazni, adoptive sister to Izmark Kolyanovich, adoptive daughter to Kolyan Indirovich, reincarnation of Tatyana Federovna
 >
 > ***Key info.*** TBD
 
@@ -44,3 +46,5 @@
 ![[Ireena.png]]
 [[IreenaKolyana.jpg]]
 ![[IreenaKolyana.jpg]]
+
+![[Toolbox/Allies/Ireena Kolyana|Ireena Kolyana]]

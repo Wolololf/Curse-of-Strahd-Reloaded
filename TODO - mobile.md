@@ -1,0 +1,54 @@
+- Handouts
+	- Invitation to Wachter dinner
+- Maps
+	- Split mansion into sections
+	- Split wachter house into sections
+- Madame Eva introduction and voice
+- Brush up on foretelling scene, card order and meanings
+- Tower exploration
+- Guardian spirit encounters, as helpers or dreams?
+- City gates
+	- Guard names and voices
+	- Confiscating silver
+- Vallaki shops and shopkeepers
+- Town square
+- Blue Water Inn
+- St Andral's Church plotline, including boss fight
+- Prep NPCs, find or generate images!
+	- Henrik
+	- Father Lucian
+	- Yeska
+	- Millivoj
+	- Rictavio
+		- French accent
+		- Flamboyant, mischievious, vain, a bit stupid
+		- Glorious moustache, gestures involve it
+	- Urwin
+		- Warm voice, sonorous baritone, not too loud
+		- Jovial, generous, curious, distractable
+		- Perpetual smile, leans in, head scratches
+	- Danika
+		- Scottish?
+		- Very on it, playful hardass
+		- Arms crossed, finger wagging
+	- Martikov kids
+	- Wachter brothers
+	- Blinsky
+		- Russian
+		- Scatterbrained inventor, enthusiastic, clueless, tactless
+	- Ernst Larnak
+		- Sneering, grating voice
+		- Aloof, but subservient, arrogant, self-possessed, creepy
+		- Looking down his nose, steepled fingers
+	- Lady Wachter
+	- Burgomaster
+	- Burgomaster's wife
+	- Burgomaster's son
+	- Izek
+		- Too loud, brief, clipped
+		- In charge, volatile, irascible, short attention span
+		- 
+	- Luvash
+	- Annabelle
+	- Vistani Assassin
+	- Dusk Elf Guy
